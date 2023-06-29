@@ -18,7 +18,7 @@ fs.readFile(inputFileName, encoding, (err, jsonString) => {
     return;
   }
 
-  const locations = [];
+
   let locationGroups;
 
   try {
@@ -28,9 +28,9 @@ fs.readFile(inputFileName, encoding, (err, jsonString) => {
     return;
   }
 
-  locationGroups.forEach(locationGroup => {
-    locations.push(locationGroup.coordinates);
-  });
+  const locations = locationGroups.map(locationGroup => {
+    return locationGroup.coordinates;
+  }).flat();
 
-  fs.writeFileSync(outputFileName, JSON.stringify(locations.flat(), null, 2));
+  fs.writeFileSync(outputFileName, JSON.stringify(locations, null, 2));
 });
