@@ -76,5 +76,9 @@ In order to import WikiMap data (json) to QGIS (csv) a data transformation is ne
 ]
 ```
 
+# Run
+
+`node scripts.js`
+
 # Links
 https://wikimap.toolforge.org/?lang=de&page=Kategorie:Liste_(Kellergassen_in_Nieder%C3%B6sterreich)
