@@ -1,0 +1,7988 @@
+[
+  {
+    "lat": 48.614679,
+    "lon": 16.018598,
+    "primary": false,
+    "name": "Kellergasse Mittergrabern (Osten), Mittergrabern, Grabern"
+  },
+  {
+    "lat": 48.618375,
+    "lon": 16.006666,
+    "primary": false,
+    "name": "Kellergasse Mittergrabern (2), Dorfberg beim Friedhof, Mittergrabern, Grabern"
+  },
+  {
+    "lat": 48.60865,
+    "lon": 15.992887,
+    "primary": false,
+    "name": "Kellergasse Obergrabern, Obergrabern, Grabern"
+  },
+  {
+    "lat": 48.6096,
+    "lon": 15.9946,
+    "primary": false,
+    "name": "Berigärten, Obergrabern, Obergrabern, Grabern"
+  },
+  {
+    "lat": 48.6259,
+    "lon": 16.0199,
+    "primary": false,
+    "name": "Nördliches Hintaus, Obersteinabrunn, Obersteinabrunn, Grabern"
+  },
+  {
+    "lat": 48.6096,
+    "lon": 15.9946,
+    "primary": false,
+    "name": "Südliches Hintaus, Obersteinabrunn, Obersteinabrunn, Grabern"
+  },
+  {
+    "lat": 48.62673,
+    "lon": 16.02557,
+    "primary": false,
+    "name": "Windpassinger Weg, Obersteinabrunn, Obersteinabrunn, Grabern"
+  },
+  {
+    "lat": 48.60205,
+    "lon": 16.05198,
+    "primary": false,
+    "name": "Kellergasse Schöngrabern, Schöngrabern, Grabern"
+  },
+  {
+    "lat": 48.59923,
+    "lon": 16.0681,
+    "primary": false,
+    "name": "Südöstliches Hintaus, Schöngrabern, Schöngrabern, Grabern"
+  },
+  {
+    "lat": 48.62936,
+    "lon": 16.04316,
+    "primary": false,
+    "name": "Petrusberg, Windpassing, Windpassing, Grabern"
+  },
+  {
+    "lat": 48.62025,
+    "lon": 16.04269,
+    "primary": false,
+    "name": "Nördliches Hintaus, Windpassing, Windpassing, Grabern"
+  },
+  {
+    "lat": 48.410706,
+    "lon": 15.978501,
+    "primary": false,
+    "name": "Neugebäude, Absberg, Absdorf"
+  },
+  {
+    "lat": 48.416243,
+    "lon": 15.970898,
+    "primary": false,
+    "name": "Kellergasse, Absberg, Absdorf"
+  },
+  {
+    "lat": 48.711728,
+    "lon": 16.095188,
+    "primary": false,
+    "name": "Kellergasse, Alberndorf im Pulkautal, Alberndorf im Pulkautal"
+  },
+  {
+    "lat": 48.647805,
+    "lon": 16.797714,
+    "primary": false,
+    "name": "Bogengasse/Mühlberggasse, Altlichtenwarth, Altlichtenwarth"
+  },
+  {
+    "lat": 48.646498,
+    "lon": 16.793851,
+    "primary": false,
+    "name": "Schillergasse, Altlichtenwarth, Altlichtenwarth"
+  },
+  {
+    "lat": 48.649065,
+    "lon": 16.797081,
+    "primary": false,
+    "name": "Silberberg/Kellergasse, Altlichtenwarth, Altlichtenwarth"
+  },
+  {
+    "lat": 48.03218,
+    "lon": 16.72022,
+    "primary": false,
+    "name": "Bubenbühel, Wilfleinsdorf, Bruck an der Leitha"
+  },
+  {
+    "lat": 48.419,
+    "lon": 16.8418,
+    "primary": false,
+    "name": "Kellergasse Berggasse (\"Richtung Dürnkrut\"), Grub an der March, Angern an der March"
+  },
+  {
+    "lat": 48.420884,
+    "lon": 16.833551,
+    "primary": false,
+    "name": "Kellergasse (\"Richtung Ebenthal\"), Grub an der March, Angern an der March"
+  },
+  {
+    "lat": 48.399851,
+    "lon": 16.792681,
+    "primary": false,
+    "name": "Kellerstraße, Ollersdorf, Angern an der March"
+  },
+  {
+    "lat": 48.411511,
+    "lon": 16.838558,
+    "primary": false,
+    "name": "Kirchweg/Quadengasse/Wienergasse, Stillfried, Angern an der March"
+  },
+  {
+    "lat": 48.400687,
+    "lon": 16.841157,
+    "primary": false,
+    "name": "Kellerberg / Rochusberg, Mannersdorf an der March, Angern an der March"
+  },
+  {
+    "lat": 48.614,
+    "lon": 16.4702,
+    "primary": false,
+    "name": "In der Rain, Altmanns, Asparn an der Zaya"
+  },
+  {
+    "lat": 48.6093,
+    "lon": 16.4717,
+    "primary": false,
+    "name": "Klosterwald, Altmanns, Asparn an der Zaya"
+  },
+  {
+    "lat": 48.6173,
+    "lon": 16.4663,
+    "primary": false,
+    "name": "Rebhendlgstetten, Altmanns, Asparn an der Zaya"
+  },
+  {
+    "lat": 48.58352,
+    "lon": 16.50032,
+    "primary": false,
+    "name": "\"Bei der Fürnkranzmühle\", Asparn an der Zaya, Asparn an der Zaya"
+  },
+  {
+    "lat": 48.582971,
+    "lon": 16.489445,
+    "primary": false,
+    "name": "\"Beim Friedhof\", Asparn an der Zaya, Asparn an der Zaya"
+  },
+  {
+    "lat": 48.58646,
+    "lon": 16.49811,
+    "primary": false,
+    "name": "Gaisenlücke, Asparn an der Zaya, Asparn an der Zaya"
+  },
+  {
+    "lat": 48.58306,
+    "lon": 16.42601,
+    "primary": false,
+    "name": "\"Bei der Kirche\", Michelstetten, Asparn an der Zaya"
+  },
+  {
+    "lat": 48.58432,
+    "lon": 16.42362,
+    "primary": false,
+    "name": "Kellergasse, Michelstetten, Asparn an der Zaya"
+  },
+  {
+    "lat": 48.5939,
+    "lon": 16.4708,
+    "primary": false,
+    "name": "\"Hintaus\", Olgersdorf, Asparn an der Zaya"
+  },
+  {
+    "lat": 48.5806,
+    "lon": 16.46595,
+    "primary": false,
+    "name": "Kellergasse, Schletz, Asparn an der Zaya"
+  },
+  {
+    "lat": 48.2384,
+    "lon": 15.8987,
+    "primary": false,
+    "name": "Hauptstrasse, Großgraben, Asperhofen"
+  },
+  {
+    "lat": 48.28545,
+    "lon": 15.86243,
+    "primary": false,
+    "name": ", Ebersdorf, Atzenbrugg"
+  },
+  {
+    "lat": 48.28661,
+    "lon": 15.86596,
+    "primary": false,
+    "name": "Keller nö. v. Ebersdorf"
+  },
+  {
+    "lat": 48.3061,
+    "lon": 15.86255,
+    "primary": false,
+    "name": "Haltergasse (Halterweg), Hütteldorf, Atzenbrugg"
+  },
+  {
+    "lat": 48.30272,
+    "lon": 15.89651,
+    "primary": false,
+    "name": "Kellergasse, Moosbierbaum, Atzenbrugg"
+  },
+  {
+    "lat": 48.28464,
+    "lon": 15.85096,
+    "primary": false,
+    "name": ", Tautendorf, Atzenbrugg"
+  },
+  {
+    "lat": 48.31251,
+    "lon": 15.86923,
+    "primary": false,
+    "name": "Erdpress, Trasdorf, Atzenbrugg"
+  },
+  {
+    "lat": 48.31164,
+    "lon": 15.87446,
+    "primary": false,
+    "name": "\"Hintaus\" (Im Graben), Trasdorf, Atzenbrugg"
+  },
+  {
+    "lat": 48.31026,
+    "lon": 15.8774,
+    "primary": false,
+    "name": "Kellergasse (Bindergasse), Trasdorf, Atzenbrugg"
+  },
+  {
+    "lat": 48.31371,
+    "lon": 15.86054,
+    "primary": false,
+    "name": "Steingraben, Trasdorf, Atzenbrugg"
+  },
+  {
+    "lat": 48.31248,
+    "lon": 15.86558,
+    "primary": false,
+    "name": "im Tal, Trasdorf, Atzenbrugg"
+  },
+  {
+    "lat": 48.286692,
+    "lon": 15.887483,
+    "primary": false,
+    "name": ", Weinzierl, Atzenbrugg"
+  },
+  {
+    "lat": 48.373433,
+    "lon": 16.630158,
+    "primary": false,
+    "name": "Bockfließerstraße, Auersthal, Auersthal"
+  },
+  {
+    "lat": 48.376418,
+    "lon": 16.625706,
+    "primary": false,
+    "name": "Wunderberg, Auersthal, Auersthal"
+  },
+  {
+    "lat": 48.4482,
+    "lon": 16.6023,
+    "primary": false,
+    "name": "\"Bei der Feldgasse\", Bad Pirawarth, Bad Pirawarth"
+  },
+  {
+    "lat": 48.4544,
+    "lon": 16.6021,
+    "primary": false,
+    "name": "Bindergasse/Oberer Berg/\"Hohlweg\", Bad Pirawarth, Bad Pirawarth"
+  },
+  {
+    "lat": 48.4504,
+    "lon": 16.5996,
+    "primary": false,
+    "name": "Herrengasse, Bad Pirawarth, Bad Pirawarth"
+  },
+  {
+    "lat": 48.4488,
+    "lon": 16.6006,
+    "primary": false,
+    "name": "Kellerweg, Bad Pirawarth, Bad Pirawarth"
+  },
+  {
+    "lat": 48.4522,
+    "lon": 16.6041,
+    "primary": false,
+    "name": "Unterer Berg, Bad Pirawarth, Bad Pirawarth"
+  },
+  {
+    "lat": 48.4493,
+    "lon": 16.5963,
+    "primary": false,
+    "name": "Viehtrift/Linke Vorstadt, Bad Pirawarth, Bad Pirawarth"
+  },
+  {
+    "lat": 48.4517,
+    "lon": 16.5939,
+    "primary": false,
+    "name": "Wiener Weg, Bad Pirawarth, Bad Pirawarth"
+  },
+  {
+    "lat": 48.4617,
+    "lon": 16.5818,
+    "primary": false,
+    "name": "\"Verlängerung Sommerzeile\", Kollnbrunn, Bad Pirawarth"
+  },
+  {
+    "lat": 48.4648,
+    "lon": 16.5902,
+    "primary": false,
+    "name": "Am Kellerberg, Kollnbrunn, Bad Pirawarth"
+  },
+  {
+    "lat": 48.6976,
+    "lon": 16.77828,
+    "primary": false,
+    "name": "Keller Adamsberg"
+  },
+  {
+    "lat": 48.69221,
+    "lon": 16.86316,
+    "primary": false,
+    "name": "Kellergasse, Bernhardsthal, Bernhardsthal"
+  },
+  {
+    "lat": 48.693873,
+    "lon": 16.863481,
+    "primary": false,
+    "name": "Keller an der Straße nach Reinthal, Bernhardsthal, Bernhardsthal"
+  },
+  {
+    "lat": 48.70329,
+    "lon": 16.78161,
+    "primary": false,
+    "name": "Marterberg, Radschin, Katzelsdorf, Bernhardsthal"
+  },
+  {
+    "lat": 48.70246,
+    "lon": 16.77803,
+    "primary": false,
+    "name": "Teichberg, Katzelsdorf, Bernhardsthal"
+  },
+  {
+    "lat": 48.701681,
+    "lon": 16.819144,
+    "primary": false,
+    "name": "Kellergasse, 2. Hintaus, Reinthal, Bernhardsthal"
+  },
+  {
+    "lat": 48.70538,
+    "lon": 16.8221,
+    "primary": false,
+    "name": "Gstätte, Feldsberger Straße, Reinberg, Ziegelofenweg, Reinthal, Bernhardsthal"
+  },
+  {
+    "lat": 48.70368,
+    "lon": 16.82565,
+    "primary": false,
+    "name": "Gstätte"
+  },
+  {
+    "lat": 48.70566,
+    "lon": 16.82305,
+    "primary": false,
+    "name": "Feldsberger Straße"
+  },
+  {
+    "lat": 48.70489,
+    "lon": 16.82116,
+    "primary": false,
+    "name": "Reinberg"
+  },
+  {
+    "lat": 48.70497,
+    "lon": 16.8194,
+    "primary": false,
+    "name": "Ziegelofenweg"
+  },
+  {
+    "lat": 48.70035,
+    "lon": 16.82677,
+    "primary": false,
+    "name": "Bernhardsthaler Straße, Reinthal, Bernhardsthal"
+  },
+  {
+    "lat": 48.3292,
+    "lon": 16.3663,
+    "primary": false,
+    "name": "Kellergasse, Bisamberg, Bisamberg"
+  },
+  {
+    "lat": 48.328669,
+    "lon": 16.361897,
+    "primary": false,
+    "name": "Anton-Zickl-Gasse, Bisamberg, Bisamberg"
+  },
+  {
+    "lat": 48.339,
+    "lon": 16.3779,
+    "primary": false,
+    "name": "Kellergasse, Kleinengersdorf, Bisamberg"
+  },
+  {
+    "lat": 48.362188,
+    "lon": 16.594673,
+    "primary": false,
+    "name": "Obere Kellergasse, Bockfließ, Bockfließ"
+  },
+  {
+    "lat": 48.3634,
+    "lon": 16.6027,
+    "primary": false,
+    "name": "Untere Kellergasse, Bockfließ, Bockfließ"
+  },
+  {
+    "lat": 48.36094,
+    "lon": 16.59139,
+    "primary": false,
+    "name": "Wolkersdorfer Straße, Bockfließ, Bockfließ"
+  },
+  {
+    "lat": 48.587414,
+    "lon": 15.775251,
+    "primary": false,
+    "name": "Kellergasse, Amelsdorf, Burgschleinitz-Kühnring"
+  },
+  {
+    "lat": 48.603132,
+    "lon": 15.814585,
+    "primary": false,
+    "name": "\"An der Bundesstraße\", Burgschleinitz, Burgschleinitz-Kühnring"
+  },
+  {
+    "lat": 48.606385,
+    "lon": 15.815343,
+    "primary": false,
+    "name": "\"In der Nähe der Kirche\", Burgschleinitz, Burgschleinitz-Kühnring"
+  },
+  {
+    "lat": 48.59937,
+    "lon": 15.73782,
+    "primary": false,
+    "name": ", Harmannsdorf, Burgschleinitz-Kühnring"
+  },
+  {
+    "lat": 48.6354,
+    "lon": 15.7831,
+    "primary": false,
+    "name": "\"Hintaus\", Kühnring, Burgschleinitz-Kühnring"
+  },
+  {
+    "lat": 48.630071,
+    "lon": 15.776122,
+    "primary": false,
+    "name": "\"Reinprechtspöllarer Straße\", Kühnring, Burgschleinitz-Kühnring"
+  },
+  {
+    "lat": 48.60121,
+    "lon": 15.78414,
+    "primary": false,
+    "name": ", Matzelsdorf, Burgschleinitz-Kühnring"
+  },
+  {
+    "lat": 48.6163,
+    "lon": 15.7586,
+    "primary": false,
+    "name": "\"Horner Straße\", Reinprechtspölla, Burgschleinitz-Kühnring"
+  },
+  {
+    "lat": 48.585362,
+    "lon": 15.759044,
+    "primary": false,
+    "name": "\"Südwestlich der Ortschaft\", Sachsendorf, Burgschleinitz-Kühnring"
+  },
+  {
+    "lat": 48.619252,
+    "lon": 15.821839,
+    "primary": false,
+    "name": "\"Etzmannsdorfer Straße\", Zogelsdorf, Burgschleinitz-Kühnring"
+  },
+  {
+    "lat": 48.20345,
+    "lon": 15.76824,
+    "primary": false,
+    "name": "bei der Kronbergmühle, Böheimkirchen und Hinterberg, Böheimkirchen"
+  },
+  {
+    "lat": 48.22425,
+    "lon": 15.75933,
+    "primary": false,
+    "name": "Grafendorfer Kellergasse, Untergrafendorf, Böheimkirchen"
+  },
+  {
+    "lat": 48.75843,
+    "lon": 16.64739,
+    "primary": false,
+    "name": "Kreuzlüssen, Drasenhofen, Drasenhofen"
+  },
+  {
+    "lat": 48.75855,
+    "lon": 16.65484,
+    "primary": false,
+    "name": "Winkel, Drasenhofen, Drasenhofen"
+  },
+  {
+    "lat": 48.75572,
+    "lon": 16.60134,
+    "primary": false,
+    "name": "\"2. Hintaus\", Kleinschweinbarth, Drasenhofen"
+  },
+  {
+    "lat": 48.75415,
+    "lon": 16.60782,
+    "primary": false,
+    "name": "Kreuzberg, Kleinschweinbarth, Drasenhofen"
+  },
+  {
+    "lat": 48.75378,
+    "lon": 16.60038,
+    "primary": false,
+    "name": "Ottenthaler Kellergasse/Hintaus, Kleinschweinbarth, Drasenhofen"
+  },
+  {
+    "lat": 48.75262,
+    "lon": 16.66666,
+    "primary": false,
+    "name": "\"Hinter der Firma Fuhrmann\", Steinebrunn, Drasenhofen"
+  },
+  {
+    "lat": 48.75494,
+    "lon": 16.66488,
+    "primary": false,
+    "name": "\"Voitelsbrunner Straße\", Steinebrunn, Drasenhofen"
+  },
+  {
+    "lat": 48.74991,
+    "lon": 16.66611,
+    "primary": false,
+    "name": "Liss, Steinebrunn, Drasenhofen"
+  },
+  {
+    "lat": 48.74194,
+    "lon": 16.61578,
+    "primary": false,
+    "name": "\"Hauptstraße\", Stützenhofen, Drasenhofen"
+  },
+  {
+    "lat": 48.74322,
+    "lon": 16.61151,
+    "primary": false,
+    "name": "\"Hintaus\", Stützenhofen, Drasenhofen"
+  },
+  {
+    "lat": 48.53891,
+    "lon": 16.87358,
+    "primary": false,
+    "name": "Heide, Drösing, Drösing"
+  },
+  {
+    "lat": 48.5366,
+    "lon": 16.902,
+    "primary": false,
+    "name": "Kellergasse, Drösing, Drösing"
+  },
+  {
+    "lat": 48.5257,
+    "lon": 16.88706,
+    "primary": false,
+    "name": "Kellergasse, Waltersdorf an der March, Drösing"
+  },
+  {
+    "lat": 48.52875,
+    "lon": 16.8857,
+    "primary": false,
+    "name": "Ziegelofengasse, Waltersdorf an der March, Drösing"
+  },
+  {
+    "lat": 48.47587,
+    "lon": 16.84968,
+    "primary": false,
+    "name": "Franz Holbein Straße, Dürnkrut, Dürnkrut"
+  },
+  {
+    "lat": 48.47611,
+    "lon": 16.8464,
+    "primary": false,
+    "name": "Kirchenberg, Dürnkrut, Dürnkrut"
+  },
+  {
+    "lat": 48.473911,
+    "lon": 16.846542,
+    "primary": false,
+    "name": "Pfarrgasse, Dürnkrut, Dürnkrut"
+  },
+  {
+    "lat": 48.467,
+    "lon": 16.821,
+    "primary": false,
+    "name": "Am Alten Friedhof, Waidendorf, Dürnkrut"
+  },
+  {
+    "lat": 48.466246,
+    "lon": 16.827037,
+    "primary": false,
+    "name": "Am Kruttberg, Waidendorf, Dürnkrut"
+  },
+  {
+    "lat": 48.4612,
+    "lon": 16.8307,
+    "primary": false,
+    "name": "Bodenzeile, Waidendorf, Dürnkrut"
+  },
+  {
+    "lat": 48.465251,
+    "lon": 16.829508,
+    "primary": false,
+    "name": "Brunnhausstraße, Waidendorf, Dürnkrut"
+  },
+  {
+    "lat": 48.465998,
+    "lon": 16.817574,
+    "primary": false,
+    "name": "Kirchenplatz/Mühlgasse, Waidendorf, Dürnkrut"
+  },
+  {
+    "lat": 48.392763,
+    "lon": 15.554227,
+    "primary": false,
+    "name": "\"Bei der Bahn\", Unterloiben, Dürnstein"
+  },
+  {
+    "lat": 48.43746,
+    "lon": 16.77682,
+    "primary": false,
+    "name": "Kellergasse/\"Protteser Straße\", Ebenthal, Ebenthal"
+  },
+  {
+    "lat": 48.05976,
+    "lon": 16.53875,
+    "primary": false,
+    "name": "Lehmgrube, Wienerherberg, Ebergassing"
+  },
+  {
+    "lat": 48.06631,
+    "lon": 16.55488,
+    "primary": false,
+    "name": "Kellergasse, Wienerherberg, Ebergassing"
+  },
+  {
+    "lat": 48.06351,
+    "lon": 16.5491,
+    "primary": false,
+    "name": "Simandlgasse, Wienerherberg, Ebergassing"
+  },
+  {
+    "lat": 48.65831,
+    "lon": 15.799736,
+    "primary": false,
+    "name": "\"Landesstraße\", Engelsdorf, Eggenburg"
+  },
+  {
+    "lat": 48.651048,
+    "lon": 15.86499,
+    "primary": false,
+    "name": "Kellergasse, Stoitzendorf, Eggenburg"
+  },
+  {
+    "lat": 48.641693,
+    "lon": 15.8729,
+    "primary": false,
+    "name": "Wartberger Straße, Stoitzendorf, Eggenburg"
+  },
+  {
+    "lat": 48.06214,
+    "lon": 16.61841,
+    "primary": false,
+    "name": "\"An der B10\", Enzersdorf an der Fischa, Enzersdorf an der Fischa"
+  },
+  {
+    "lat": 48.08241,
+    "lon": 16.62294,
+    "primary": false,
+    "name": "Huberzeile, Enzersdorf an der Fischa, Enzersdorf an der Fischa"
+  },
+  {
+    "lat": 48.08991,
+    "lon": 16.61879,
+    "primary": false,
+    "name": "Loamgstetten, Enzersdorf an der Fischa, Enzersdorf an der Fischa"
+  },
+  {
+    "lat": 48.08436,
+    "lon": 16.62295,
+    "primary": false,
+    "name": "Mitterbergweg, Enzersdorf an der Fischa, Enzersdorf an der Fischa"
+  },
+  {
+    "lat": 48.07758,
+    "lon": 16.61778,
+    "primary": false,
+    "name": "Neuer Berg, Enzersdorf an der Fischa, Enzersdorf an der Fischa"
+  },
+  {
+    "lat": 48.36834,
+    "lon": 16.42553,
+    "primary": false,
+    "name": "Aukeller, Enzersfeld im Weinviertel, Enzersfeld im Weinviertel"
+  },
+  {
+    "lat": 48.37235,
+    "lon": 16.42319,
+    "primary": false,
+    "name": "Laimgstettenkeller, Enzersfeld im Weinviertel, Enzersfeld im Weinviertel"
+  },
+  {
+    "lat": 48.37004,
+    "lon": 16.42324,
+    "primary": false,
+    "name": "Neustiftkeller, Enzersfeld im Weinviertel, Enzersfeld im Weinviertel"
+  },
+  {
+    "lat": 48.36958,
+    "lon": 16.43193,
+    "primary": false,
+    "name": "Schüller/Wald/Fürstenberg/Satzkeller, Enzersfeld im Weinviertel, Enzersfeld im Weinviertel"
+  },
+  {
+    "lat": 48.34794,
+    "lon": 16.4128,
+    "primary": false,
+    "name": "\"Hagenbrunnerstraße\", Königsbrunn, Enzersfeld im Weinviertel"
+  },
+  {
+    "lat": 48.52428,
+    "lon": 16.35846,
+    "primary": false,
+    "name": "Huttererstraße, Ernstbrunn, Ernstbrunn"
+  },
+  {
+    "lat": 48.512064,
+    "lon": 16.382961,
+    "primary": false,
+    "name": "\"Südliches Ortsende\", Gebmanns, Ernstbrunn"
+  },
+  {
+    "lat": 48.5101,
+    "lon": 16.31062,
+    "primary": false,
+    "name": "\"Beim Friedhof\", Maisbirbaum, Ernstbrunn"
+  },
+  {
+    "lat": 48.51186,
+    "lon": 16.30292,
+    "primary": false,
+    "name": "\"Hintaus\", Maisbirbaum, Ernstbrunn"
+  },
+  {
+    "lat": 48.50882,
+    "lon": 16.30363,
+    "primary": false,
+    "name": "Kellergasse, Maisbirbaum, Ernstbrunn"
+  },
+  {
+    "lat": 48.5326,
+    "lon": 16.30426,
+    "primary": false,
+    "name": ", Merkersdorf (Gemeinde Ernstbrunn), Ernstbrunn"
+  },
+  {
+    "lat": 48.49548,
+    "lon": 16.36394,
+    "primary": false,
+    "name": ", Naglern, Ernstbrunn"
+  },
+  {
+    "lat": 48.51158,
+    "lon": 16.33259,
+    "primary": false,
+    "name": "\"Bei der Kirche\", Simonsfeld, Ernstbrunn"
+  },
+  {
+    "lat": 48.50576,
+    "lon": 16.33569,
+    "primary": false,
+    "name": "\"Hintaus\", Simonsfeld, Ernstbrunn"
+  },
+  {
+    "lat": 48.45384,
+    "lon": 15.76372,
+    "primary": false,
+    "name": "Weinbergstraße, Engabrunn, Grafenegg"
+  },
+  {
+    "lat": 48.464511,
+    "lon": 15.766001,
+    "primary": false,
+    "name": "Kellergasse, Engabrunn, Grafenegg"
+  },
+  {
+    "lat": 48.450577,
+    "lon": 15.7472,
+    "primary": false,
+    "name": "Kellergasse, Etsdorf am Kamp, Grafenegg"
+  },
+  {
+    "lat": 48.45931,
+    "lon": 15.75413,
+    "primary": false,
+    "name": "Raststatt, Etsdorf am Kamp, Grafenegg"
+  },
+  {
+    "lat": 48.461,
+    "lon": 15.739,
+    "primary": false,
+    "name": "Kellergasse Galgenberg, Walkersdorf am Kamp, Grafenegg"
+  },
+  {
+    "lat": 48.71564,
+    "lon": 16.5762,
+    "primary": false,
+    "name": "Dörfel/Stürzenbühel, Falkenstein, Falkenstein"
+  },
+  {
+    "lat": 48.719961,
+    "lon": 16.589808,
+    "primary": false,
+    "name": "Kellergasse \"Oagossen\", Falkenstein, Falkenstein"
+  },
+  {
+    "lat": 48.723175,
+    "lon": 16.590352,
+    "primary": false,
+    "name": "Neuer Weg, Falkenstein, Falkenstein"
+  },
+  {
+    "lat": 48.7249,
+    "lon": 16.585818,
+    "primary": false,
+    "name": "Schlossberg, Falkenstein, Falkenstein"
+  },
+  {
+    "lat": 48.513201,
+    "lon": 16.156223,
+    "primary": false,
+    "name": ", Bergau, Göllersdorf"
+  },
+  {
+    "lat": 48.490528,
+    "lon": 16.096503,
+    "primary": false,
+    "name": "\"Bei der Kirche\", Eitzersthal, Göllersdorf"
+  },
+  {
+    "lat": 48.504294,
+    "lon": 16.089169,
+    "primary": false,
+    "name": ", Furth, Göllersdorf"
+  },
+  {
+    "lat": 48.50097,
+    "lon": 16.101655,
+    "primary": false,
+    "name": "\"An der Eitzersthaler Straße\", Großstelzendorf, Göllersdorf"
+  },
+  {
+    "lat": 48.508233,
+    "lon": 16.107302,
+    "primary": false,
+    "name": "\"Kellergasse\", Großstelzendorf, Göllersdorf"
+  },
+  {
+    "lat": 48.489142,
+    "lon": 16.113393,
+    "primary": false,
+    "name": "\"Nördlich der Schießstattstraße an der S3\", Göllersdorf, Göllersdorf"
+  },
+  {
+    "lat": 48.490271,
+    "lon": 16.11638,
+    "primary": false,
+    "name": "Gerichtsberggasse/Schießstattgasse, Göllersdorf, Göllersdorf"
+  },
+  {
+    "lat": 48.496132,
+    "lon": 16.112572,
+    "primary": false,
+    "name": "Spitalgasse, Göllersdorf, Göllersdorf"
+  },
+  {
+    "lat": 48.49238,
+    "lon": 16.11472,
+    "primary": false,
+    "name": "Tullner Straße, Göllersdorf, Göllersdorf"
+  },
+  {
+    "lat": 48.470762,
+    "lon": 16.09375,
+    "primary": false,
+    "name": "\"Hohlweg\", Oberparschenbrunn, Göllersdorf"
+  },
+  {
+    "lat": 48.47513,
+    "lon": 16.09728,
+    "primary": false,
+    "name": "\"Kellergasse\", Oberparschenbrunn, Göllersdorf"
+  },
+  {
+    "lat": 48.532872,
+    "lon": 16.163819,
+    "primary": false,
+    "name": "\"Bei der Kirche\", Porrau, Göllersdorf"
+  },
+  {
+    "lat": 48.486477,
+    "lon": 16.138611,
+    "primary": false,
+    "name": ", Viendorf, Göllersdorf"
+  },
+  {
+    "lat": 48.65271,
+    "lon": 16.4149,
+    "primary": false,
+    "name": "\"Friessritzer Straße\", Fallbach, Fallbach"
+  },
+  {
+    "lat": 48.65579,
+    "lon": 16.41617,
+    "primary": false,
+    "name": "\"Kirchweg\", Fallbach, Fallbach"
+  },
+  {
+    "lat": 48.65604,
+    "lon": 16.41565,
+    "primary": false,
+    "name": "\"Ungerndorfer Straße beim Gemeindeamt\", Fallbach, Fallbach"
+  },
+  {
+    "lat": 48.65595,
+    "lon": 16.41026,
+    "primary": false,
+    "name": "Gaubitscher Kellern, Fallbach, Fallbach"
+  },
+  {
+    "lat": 48.63065,
+    "lon": 16.43044,
+    "primary": false,
+    "name": "\"Hintaus\", Friebritz, Fallbach"
+  },
+  {
+    "lat": 48.63523,
+    "lon": 16.45678,
+    "primary": false,
+    "name": "\"Frättingsdorfer Straße\", Hagenberg, Fallbach"
+  },
+  {
+    "lat": 48.63348,
+    "lon": 16.45611,
+    "primary": false,
+    "name": "Kellerberg, Hagenberg, Fallbach"
+  },
+  {
+    "lat": 48.66651,
+    "lon": 16.44026,
+    "primary": false,
+    "name": "Schenkasberg, Hagendorf, Fallbach"
+  },
+  {
+    "lat": 48.64781,
+    "lon": 16.44573,
+    "primary": false,
+    "name": "\"Hintaus\", Loosdorf, Fallbach"
+  },
+  {
+    "lat": 48.65091,
+    "lon": 16.44379,
+    "primary": false,
+    "name": "Mitterfeld, Loosdorf, Fallbach"
+  },
+  {
+    "lat": 48.45349,
+    "lon": 15.83067,
+    "primary": false,
+    "name": "\"Scheibe\", Fels am Wagram, Fels am Wagram"
+  },
+  {
+    "lat": 48.45141,
+    "lon": 15.81334,
+    "primary": false,
+    "name": "Dorner, Fels am Wagram, Fels am Wagram"
+  },
+  {
+    "lat": 48.45364,
+    "lon": 15.83419,
+    "primary": false,
+    "name": "Floß, Fels am Wagram, Fels am Wagram"
+  },
+  {
+    "lat": 48.4526,
+    "lon": 15.826,
+    "primary": false,
+    "name": "Hammergraben, Fels am Wagram, Fels am Wagram"
+  },
+  {
+    "lat": 48.45218,
+    "lon": 15.82173,
+    "primary": false,
+    "name": "Mitterweg, Fels am Wagram, Fels am Wagram"
+  },
+  {
+    "lat": 48.45366,
+    "lon": 15.81886,
+    "primary": false,
+    "name": "Steinagrund, Fels am Wagram, Fels am Wagram"
+  },
+  {
+    "lat": 48.45257,
+    "lon": 15.82389,
+    "primary": false,
+    "name": "Zwerigraben, Fels am Wagram, Fels am Wagram"
+  },
+  {
+    "lat": 48.46733,
+    "lon": 15.80832,
+    "primary": false,
+    "name": "Florianigasse, Gösing am Wagram, Fels am Wagram"
+  },
+  {
+    "lat": 48.47134,
+    "lon": 15.81476,
+    "primary": false,
+    "name": "Mittersteig, Gösing am Wagram, Fels am Wagram"
+  },
+  {
+    "lat": 48.46731,
+    "lon": 15.82128,
+    "primary": false,
+    "name": "Untere Zeile, Gösing am Wagram, Fels am Wagram"
+  },
+  {
+    "lat": 48.48741,
+    "lon": 15.80645,
+    "primary": false,
+    "name": "Kellerstraße, Stettenhof, Fels am Wagram"
+  },
+  {
+    "lat": 48.4418,
+    "lon": 15.84526,
+    "primary": false,
+    "name": "Kellergasse, Thürnthal, Fels am Wagram"
+  },
+  {
+    "lat": 48.43818,
+    "lon": 15.8588,
+    "primary": false,
+    "name": "Wienerstraße, Thürnthal, Fels am Wagram"
+  },
+  {
+    "lat": 48.38338,
+    "lon": 15.5974,
+    "primary": false,
+    "name": "Neubergweg, Furth bei Göttweig, Furth bei Göttweig"
+  },
+  {
+    "lat": 48.38213,
+    "lon": 15.61785,
+    "primary": false,
+    "name": "Fuchastraße/Hohlweg, Palt, Furth bei Göttweig"
+  },
+  {
+    "lat": 48.37081,
+    "lon": 15.59942,
+    "primary": false,
+    "name": "Steingasse, Steinaweg, Furth bei Göttweig"
+  },
+  {
+    "lat": 48.37486,
+    "lon": 15.60975,
+    "primary": false,
+    "name": "Zellergraben/Kellergraben, Furth bei Göttweig, Aigen, Furth bei Göttweig"
+  },
+  {
+    "lat": 48.5895,
+    "lon": 15.7184,
+    "primary": false,
+    "name": "\"Kellergasse\", Kotzendorf, Gars am Kamp"
+  },
+  {
+    "lat": 48.5772,
+    "lon": 15.6819,
+    "primary": false,
+    "name": "\"Kellergasse\", Maiersch, Gars am Kamp"
+  },
+  {
+    "lat": 48.6021,
+    "lon": 15.7079,
+    "primary": false,
+    "name": "\"Kellergasse\", Nonndorf bei Gars, Gars am Kamp"
+  },
+  {
+    "lat": 48.19897,
+    "lon": 15.19381,
+    "primary": false,
+    "name": "Kellerhäuser, Steinwand, Harlanden, Erlauf"
+  },
+  {
+    "lat": 48.18674,
+    "lon": 15.20121,
+    "primary": false,
+    "name": "Obere Kellergasse, Harlanden, Erlauf"
+  },
+  {
+    "lat": 48.10446,
+    "lon": 17.0431,
+    "primary": false,
+    "name": "Kellergasse, Berg (Niederösterreich), Berg (Niederösterreich)"
+  },
+  {
+    "lat": 48.46187,
+    "lon": 15.57689,
+    "primary": false,
+    "name": "Kellergasse, Droß, Droß"
+  },
+  {
+    "lat": 48.34341,
+    "lon": 16.7183,
+    "primary": false,
+    "name": "Am Halterberg, Gänserndorf, Gänserndorf"
+  },
+  {
+    "lat": 48.34338,
+    "lon": 16.7191,
+    "primary": false,
+    "name": "Obere Kellergasse, Gänserndorf, Gänserndorf"
+  },
+  {
+    "lat": 48.34244,
+    "lon": 16.72109,
+    "primary": false,
+    "name": "Untere Kellergasse, Gänserndorf, Gänserndorf"
+  },
+  {
+    "lat": 48.677,
+    "lon": 16.40048,
+    "primary": false,
+    "name": "Sandgstettten, Altenmarkt, Gaubitsch"
+  },
+  {
+    "lat": 48.67132,
+    "lon": 16.39158,
+    "primary": false,
+    "name": "Schintagrube, Altenmarkt, Gaubitsch"
+  },
+  {
+    "lat": 48.6768,
+    "lon": 16.3928,
+    "primary": false,
+    "name": ", Altenmarkt, Gaubitsch"
+  },
+  {
+    "lat": 48.65957,
+    "lon": 16.37803,
+    "primary": false,
+    "name": ", Gaubitsch, Gaubitsch"
+  },
+  {
+    "lat": 48.65178,
+    "lon": 16.38335,
+    "primary": false,
+    "name": "Bergzeile(ugs. \"Berizäun\"), Gaubitsch, Gaubitsch"
+  },
+  {
+    "lat": 48.50277,
+    "lon": 16.55288,
+    "primary": false,
+    "name": "Kellertrift \"Am Hausweingarten\", Atzelsdorf, Gaweinstal"
+  },
+  {
+    "lat": 48.50318,
+    "lon": 16.54901,
+    "primary": false,
+    "name": "Satzbergstraße, Atzelsdorf, Gaweinstal"
+  },
+  {
+    "lat": 48.48136,
+    "lon": 16.5824,
+    "primary": false,
+    "name": "Bischof-Schneider-Straße, Gaweinstal, Gaweinstal"
+  },
+  {
+    "lat": 48.48038,
+    "lon": 16.58681,
+    "primary": false,
+    "name": "Kellergasse, Gaweinstal, Gaweinstal"
+  },
+  {
+    "lat": 48.47445,
+    "lon": 16.58335,
+    "primary": false,
+    "name": "Scheicherstraße/Annastraße, Gaweinstal, Gaweinstal"
+  },
+  {
+    "lat": 48.47883,
+    "lon": 16.58848,
+    "primary": false,
+    "name": "Untere Bergstraße, Gaweinstal, Gaweinstal"
+  },
+  {
+    "lat": 48.49799,
+    "lon": 16.56822,
+    "primary": false,
+    "name": "Beim Marterl, Höbersbrunn, Gaweinstal"
+  },
+  {
+    "lat": 48.50669,
+    "lon": 16.57558,
+    "primary": false,
+    "name": "Gartenzeile, Höbersbrunn, Gaweinstal"
+  },
+  {
+    "lat": 48.50359,
+    "lon": 16.57346,
+    "primary": false,
+    "name": "Verlängerung der Gartenzeile, Höbersbrunn, Gaweinstal"
+  },
+  {
+    "lat": 48.50782,
+    "lon": 16.57905,
+    "primary": false,
+    "name": "Im Hanfthal, Höbersbrunn, Gaweinstal"
+  },
+  {
+    "lat": 48.50237,
+    "lon": 16.57116,
+    "primary": false,
+    "name": "In Kräutern / In den Greuten, Höbersbrunn, Gaweinstal"
+  },
+  {
+    "lat": 48.48354,
+    "lon": 16.63074,
+    "primary": false,
+    "name": "Langen Weingärten, Martinsdorf, Gaweinstal"
+  },
+  {
+    "lat": 48.46857,
+    "lon": 16.64026,
+    "primary": false,
+    "name": "Hintaus, Martinsdorf, Gaweinstal"
+  },
+  {
+    "lat": 48.48751,
+    "lon": 16.54867,
+    "primary": false,
+    "name": "Kreuzstettenweg, Pellendorf, Gaweinstal"
+  },
+  {
+    "lat": 48.48634,
+    "lon": 16.55859,
+    "primary": false,
+    "name": "Am Schlossberg, Pellendorf, Gaweinstal"
+  },
+  {
+    "lat": 48.48429,
+    "lon": 16.55804,
+    "primary": false,
+    "name": "Leopold-Frank-Straße, Pellendorf, Gaweinstal"
+  },
+  {
+    "lat": 48.51509,
+    "lon": 16.62527,
+    "primary": false,
+    "name": "Hobersdorfer Straße, Leitergasse, Schrick, Gaweinstal"
+  },
+  {
+    "lat": 48.51454,
+    "lon": 16.62297,
+    "primary": false,
+    "name": "Am Kellerberg, Schrick, Gaweinstal"
+  },
+  {
+    "lat": 48.50683,
+    "lon": 16.61137,
+    "primary": false,
+    "name": "Josef-Weiland-Straße, Brunnenweg, Schrick, Gaweinstal"
+  },
+  {
+    "lat": 48.50863,
+    "lon": 16.61166,
+    "primary": false,
+    "name": "Hohlweg zur Oberen Lüsse, Schrick, Gaweinstal"
+  },
+  {
+    "lat": 48.5205,
+    "lon": 16.62742,
+    "primary": false,
+    "name": "Kellergasse \"Im Holitsch\", Schrick, Gaweinstal"
+  },
+  {
+    "lat": 48.49905,
+    "lon": 16.55389,
+    "primary": false,
+    "name": "Leopold Schiffmann-Straße, Atzelsdorf, Gaweinstal"
+  },
+  {
+    "lat": 48.75884,
+    "lon": 15.70356,
+    "primary": false,
+    "name": "Nonnersdorfer Straße, Dallein, Geras"
+  },
+  {
+    "lat": 48.43958,
+    "lon": 15.70279,
+    "primary": false,
+    "name": "an der Bundesstraße, Gedersdorf, Gobelsburg, Hadersdorf am Kamp, Gedersdorf, Langenlois, Hadersdorf-Kammern"
+  },
+  {
+    "lat": 48.43788,
+    "lon": 15.68053,
+    "primary": false,
+    "name": "Holzgasse, Gedersdorf, Gedersdorf"
+  },
+  {
+    "lat": 48.43167,
+    "lon": 15.67219,
+    "primary": false,
+    "name": "Marchgasse, Gedersdorf, Rohrendorf bei Krems, Gedersdorf, Rohrendorf bei Krems"
+  },
+  {
+    "lat": 48.43381,
+    "lon": 15.67484,
+    "primary": false,
+    "name": "Reisenthal, Gedersdorf, Gedersdorf"
+  },
+  {
+    "lat": 48.43271,
+    "lon": 15.67369,
+    "primary": false,
+    "name": "Schäffgasse, Gedersdorf, Gedersdorf"
+  },
+  {
+    "lat": 48.43579,
+    "lon": 15.67778,
+    "primary": false,
+    "name": "Weidgasse (auch: Weitgasse), Gedersdorf, Gedersdorf"
+  },
+  {
+    "lat": 48.434198,
+    "lon": 15.678735,
+    "primary": false,
+    "name": "Leithenweg, Gedersdorf, Gedersdorf"
+  },
+  {
+    "lat": 48.61783,
+    "lon": 16.35763,
+    "primary": false,
+    "name": "Hintaus, Eichenbrunn, Gnadendorf"
+  },
+  {
+    "lat": 48.61892,
+    "lon": 16.35241,
+    "primary": false,
+    "name": "Trift, Eichenbrunn, Gnadendorf"
+  },
+  {
+    "lat": 48.61442,
+    "lon": 16.40104,
+    "primary": false,
+    "name": "Bei der Kirche, Gnadendorf, Gnadendorf"
+  },
+  {
+    "lat": 48.61643,
+    "lon": 16.40179,
+    "primary": false,
+    "name": "Hauptstraße, Gnadendorf, Gnadendorf"
+  },
+  {
+    "lat": 48.61812,
+    "lon": 16.39125,
+    "primary": false,
+    "name": "Eichenbrunner Straße, Gnadendorf, Gnadendorf"
+  },
+  {
+    "lat": 48.61832,
+    "lon": 16.40304,
+    "primary": false,
+    "name": "Kellergstetten, Gnadendorf, Gnadendorf"
+  },
+  {
+    "lat": 48.61239,
+    "lon": 16.34105,
+    "primary": false,
+    "name": "Hintaus, Röhrabrunn, Gnadendorf"
+  },
+  {
+    "lat": 48.61204,
+    "lon": 16.41955,
+    "primary": false,
+    "name": "Beim Friedhof, Wenzersdorf, Gnadendorf"
+  },
+  {
+    "lat": 48.61526,
+    "lon": 16.43344,
+    "primary": false,
+    "name": "Am Anger, Zwentendorf, Gnadendorf"
+  },
+  {
+    "lat": 48.61091,
+    "lon": 16.43287,
+    "primary": false,
+    "name": "Hintaus, Zwentendorf, Gnadendorf"
+  },
+  {
+    "lat": 48.06828,
+    "lon": 16.70296,
+    "primary": false,
+    "name": "Kellergasse, Arbesthal, Göttlesbrunn-Arbesthal"
+  },
+  {
+    "lat": 48.05735,
+    "lon": 16.74158,
+    "primary": false,
+    "name": "Florianigasse, Göttlesbrunn, Göttlesbrunn-Arbesthal"
+  },
+  {
+    "lat": 48.0645,
+    "lon": 16.73774,
+    "primary": false,
+    "name": "Kellergasse, Göttlesbrunn, Göttlesbrunn-Arbesthal"
+  },
+  {
+    "lat": 48.05775,
+    "lon": 16.74091,
+    "primary": false,
+    "name": "Kiragstettn (Lehmgstettn), Göttlesbrunn, Göttlesbrunn-Arbesthal"
+  },
+  {
+    "lat": 48.05835,
+    "lon": 16.73518,
+    "primary": false,
+    "name": "Kräftenweg, Göttlesbrunn, Göttlesbrunn-Arbesthal"
+  },
+  {
+    "lat": 48.25009,
+    "lon": 15.42006,
+    "primary": false,
+    "name": ", Gerolding, Dunkelsteinerwald (Gemeinde)"
+  },
+  {
+    "lat": 48.45837,
+    "lon": 15.79053,
+    "primary": false,
+    "name": "Kellergasse Feuersbrunn, Feuersbrunn, Grafenwörth"
+  },
+  {
+    "lat": 48.42955,
+    "lon": 15.81474,
+    "primary": false,
+    "name": "\"Vorderwugger\", Wagram am Wagram, Grafenwörth"
+  },
+  {
+    "lat": 48.42903,
+    "lon": 15.80834,
+    "primary": false,
+    "name": "Wora-Kellergasse, Wagram am Wagram, Grafenwörth"
+  },
+  {
+    "lat": 48.36321,
+    "lon": 16.49596,
+    "primary": false,
+    "name": "Kellergasse, Eibesbrunn, Großebersdorf"
+  },
+  {
+    "lat": 48.36149,
+    "lon": 16.49662,
+    "primary": false,
+    "name": "Weinberggasse, Eibesbrunn, Großebersdorf"
+  },
+  {
+    "lat": 48.36914,
+    "lon": 16.47209,
+    "primary": false,
+    "name": "Am Gänsberg, Großebersdorf, Großebersdorf"
+  },
+  {
+    "lat": 48.3637,
+    "lon": 16.47004,
+    "primary": false,
+    "name": "Kellergasse, Großebersdorf, Großebersdorf"
+  },
+  {
+    "lat": 48.36338,
+    "lon": 16.46474,
+    "primary": false,
+    "name": "Schulgasse, Bgm.-Josef-Strobl-Gasse, Großebersdorf, Großebersdorf"
+  },
+  {
+    "lat": 48.385,
+    "lon": 16.43198,
+    "primary": false,
+    "name": "Mittelstraße, Manhartsbrunn, Großebersdorf"
+  },
+  {
+    "lat": 48.3864,
+    "lon": 16.43799,
+    "primary": false,
+    "name": "Zum Alten Hof, Manhartsbrunn, Großebersdorf"
+  },
+  {
+    "lat": 48.3685,
+    "lon": 16.45457,
+    "primary": false,
+    "name": "Landstraße (Schulgasse), Putzing, Großebersdorf"
+  },
+  {
+    "lat": 48.36692,
+    "lon": 16.45321,
+    "primary": false,
+    "name": "Verlängerung der Hauptstraße, Putzing, Großebersdorf"
+  },
+  {
+    "lat": 48.36977,
+    "lon": 16.44624,
+    "primary": false,
+    "name": "Hoadweg, Putzing, Großebersdorf"
+  },
+  {
+    "lat": 48.36194,
+    "lon": 16.56337,
+    "primary": false,
+    "name": "Kellergasse, Stallberg, Großengersdorf, Großengersdorf"
+  },
+  {
+    "lat": 48.35939,
+    "lon": 16.57328,
+    "primary": false,
+    "name": "Satzgraben, Großengersdorf, Großengersdorf"
+  },
+  {
+    "lat": 48.63672,
+    "lon": 16.74527,
+    "primary": false,
+    "name": "Kapellenberg, Althöflein, Großkrut"
+  },
+  {
+    "lat": 48.61631,
+    "lon": 16.72081,
+    "primary": false,
+    "name": "Satzen I, Ginzersdorf, Großkrut"
+  },
+  {
+    "lat": 48.61681,
+    "lon": 16.71655,
+    "primary": false,
+    "name": "Satzen II, Ginzersdorf, Großkrut"
+  },
+  {
+    "lat": 48.6498,
+    "lon": 16.71395,
+    "primary": false,
+    "name": "Kellerberg, Großkrut, Großkrut"
+  },
+  {
+    "lat": 48.64965,
+    "lon": 16.73345,
+    "primary": false,
+    "name": "Lundenburgerstraße, Großkrut, Althöflein, Großkrut"
+  },
+  {
+    "lat": 48.64749,
+    "lon": 16.72953,
+    "primary": false,
+    "name": ", Großkrut, Großkrut"
+  },
+  {
+    "lat": 48.2948,
+    "lon": 16.5604,
+    "primary": false,
+    "name": "Kellergasse Am Wagram, Deutsch-Wagram, Deutsch-Wagram"
+  },
+  {
+    "lat": 48.79588,
+    "lon": 15.37014,
+    "primary": false,
+    "name": "Kellergasse, Dietmanns, Dietmanns"
+  },
+  {
+    "lat": 48.63652,
+    "lon": 15.988868,
+    "primary": false,
+    "name": "Kellergasse Großnondorf, Kellertrift, Großnondorf, Guntersdorf"
+  },
+  {
+    "lat": 48.63271,
+    "lon": 15.98275,
+    "primary": false,
+    "name": "Kellergasse Richtung Mittergrabern, Kleine Kellergasse, Großnondorf, Guntersdorf"
+  },
+  {
+    "lat": 48.65008,
+    "lon": 16.05286,
+    "primary": false,
+    "name": "Kellergasse Guntersdorf, \"Josefstadt\", Guntersdorf, Guntersdorf"
+  },
+  {
+    "lat": 48.6463,
+    "lon": 16.05091,
+    "primary": false,
+    "name": ", Guntersdorf, Guntersdorf"
+  },
+  {
+    "lat": 48.59026,
+    "lon": 16.19604,
+    "primary": false,
+    "name": "Kellergasse Altenmarkt im Thale / Latschenberg, Altenmarkt im Thale, Hollabrunn"
+  },
+  {
+    "lat": 48.58538,
+    "lon": 16.097101,
+    "primary": false,
+    "name": "Kellergasse Aspersdorf / Kirchberg, Aspersdorf, Hollabrunn"
+  },
+  {
+    "lat": 48.509117,
+    "lon": 16.070075,
+    "primary": false,
+    "name": "Goldgrübl Kellergasse, Breitenwaida, Hollabrunn"
+  },
+  {
+    "lat": 48.51495,
+    "lon": 16.06362,
+    "primary": false,
+    "name": "Kellergasse bei Kirche, Breitenwaida, Hollabrunn"
+  },
+  {
+    "lat": 48.51441,
+    "lon": 16.06439,
+    "primary": false,
+    "name": "Kellergasse Richtung Friedhof, Breitenwaida, Hollabrunn"
+  },
+  {
+    "lat": 48.50778,
+    "lon": 16.0569,
+    "primary": false,
+    "name": "Kellergasse Kleedorf, Breitenwaida, Hollabrunn"
+  },
+  {
+    "lat": 48.52693,
+    "lon": 16.0573,
+    "primary": false,
+    "name": "Kleine Kellergasse / Kellerweg, Dietersdorf, Hollabrunn"
+  },
+  {
+    "lat": 48.52836,
+    "lon": 16.054587,
+    "primary": false,
+    "name": "(Große) Kellergasse, Dietersdorf, Hollabrunn"
+  },
+  {
+    "lat": 48.572012,
+    "lon": 16.170865,
+    "primary": false,
+    "name": "Kellergasse Eggendorf im Thale, Eggendorf im Thale, Hollabrunn"
+  },
+  {
+    "lat": 48.58906,
+    "lon": 16.24102,
+    "primary": false,
+    "name": "Kellergasse Enzersdorf im Thale / Kapellenweg, Enzersdorf im Thale, Hollabrunn"
+  },
+  {
+    "lat": 48.57556,
+    "lon": 15.994594,
+    "primary": false,
+    "name": "Kellergasse Groß / Friedhofgasse, Groß, Hollabrunn"
+  },
+  {
+    "lat": 48.570491,
+    "lon": 15.990658,
+    "primary": false,
+    "name": "Kleine Kellergasse / Fellabrunner Straße, Groß, Hollabrunn"
+  },
+  {
+    "lat": 48.562515,
+    "lon": 16.054517,
+    "primary": false,
+    "name": "Sitzendorfer Kellergasse, Hollabrunn, Hollabrunn"
+  },
+  {
+    "lat": 48.570312,
+    "lon": 16.068794,
+    "primary": false,
+    "name": "Gerichtsbergkellergasse und -platzl, Hollabrunn, Hollabrunn"
+  },
+  {
+    "lat": 48.571059,
+    "lon": 16.062777,
+    "primary": false,
+    "name": "Satzer Kellergasse, Hollabrunn, Hollabrunn"
+  },
+  {
+    "lat": 48.593672,
+    "lon": 16.239183,
+    "primary": false,
+    "name": "Kellergasse Kleinkadolz, Kleinkadolz, Hollabrunn"
+  },
+  {
+    "lat": 48.573067,
+    "lon": 15.979717,
+    "primary": false,
+    "name": "Heckenweg Kellergasse, Kleinstelzendorf, Hollabrunn"
+  },
+  {
+    "lat": 48.573414,
+    "lon": 15.978184,
+    "primary": false,
+    "name": "Leitenweg Kellergasse, Kleinstelzendorf, Hollabrunn"
+  },
+  {
+    "lat": 48.572305,
+    "lon": 15.981659,
+    "primary": false,
+    "name": "Weidenweg Kellergasse, Kleinstelzendorf, Hollabrunn"
+  },
+  {
+    "lat": 48.567924,
+    "lon": 15.974556,
+    "primary": false,
+    "name": "Kirchweg Kellergasse, Kleinstelzendorf, Hollabrunn"
+  },
+  {
+    "lat": 48.575106,
+    "lon": 16.149652,
+    "primary": false,
+    "name": "Kellergasse Kleinstetteldorf, Kleinstetteldorf, Hollabrunn"
+  },
+  {
+    "lat": 48.557876,
+    "lon": 16.117656,
+    "primary": false,
+    "name": "Kellergasse Magersdorf, Magersdorf, Hollabrunn"
+  },
+  {
+    "lat": 48.561775,
+    "lon": 16.01954,
+    "primary": false,
+    "name": "Oaraberg Kellergasse, Oberfellabrunn, Hollabrunn"
+  },
+  {
+    "lat": 48.5647,
+    "lon": 16.0176,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.56342,
+    "lon": 16.01951,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.56427,
+    "lon": 16.02139,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.55745,
+    "lon": 16.01026,
+    "primary": false,
+    "name": "Steingraben / Urbanuskellergasse, Oberfellabrunn, Hollabrunn"
+  },
+  {
+    "lat": 48.56029,
+    "lon": 16.02184,
+    "primary": false,
+    "name": "In den Köcheln, Oberfellabrunn, Hollabrunn"
+  },
+  {
+    "lat": 48.501735,
+    "lon": 16.044737,
+    "primary": false,
+    "name": "Kellergasse Puch / Kleedorfer Straße, Puch, Hollabrunn"
+  },
+  {
+    "lat": 48.54265,
+    "lon": 16.09004,
+    "primary": false,
+    "name": "Kellergasse Raschala / Alte Poststraße / \"Pinkelsteinkellergasse\", Raschala, Hollabrunn"
+  },
+  {
+    "lat": 48.54403,
+    "lon": 16.08758,
+    "primary": false,
+    "name": "Kellergasse Raschala, Raschala, Hollabrunn"
+  },
+  {
+    "lat": 48.547645,
+    "lon": 16.057718,
+    "primary": false,
+    "name": "Mühlbergkellergasse, Sonnberg, Hollabrunn"
+  },
+  {
+    "lat": 48.542883,
+    "lon": 16.054869,
+    "primary": false,
+    "name": "Kellergasse Sandgraben, Sonnberg, Hollabrunn"
+  },
+  {
+    "lat": 48.536667,
+    "lon": 16.048906,
+    "primary": false,
+    "name": "Kellerensemble Richtung Thernerberg, Sonnberg, Hollabrunn"
+  },
+  {
+    "lat": 48.5393,
+    "lon": 16.05334,
+    "primary": false,
+    "name": "Kellergasse Satzingerkreuz / Hintaus Richtung Wolfsbrunn, Sonnberg, Hollabrunn"
+  },
+  {
+    "lat": 48.58005,
+    "lon": 16.05875,
+    "primary": false,
+    "name": "Kellergasse Suttenbrunn, Suttenbrunn, Hollabrunn"
+  },
+  {
+    "lat": 48.58465,
+    "lon": 16.07024,
+    "primary": false,
+    "name": "An der Bundesstraße, Suttenbrunn, Hollabrunn"
+  },
+  {
+    "lat": 48.56743,
+    "lon": 16.18949,
+    "primary": false,
+    "name": "Kellergasse Weyerburg / Beim Schloss, Weyerburg, Hollabrunn"
+  },
+  {
+    "lat": 48.57613,
+    "lon": 16.1239,
+    "primary": false,
+    "name": "Kellergasse Wieselsfeld, Wieselsfeld, Hollabrunn"
+  },
+  {
+    "lat": 48.57268,
+    "lon": 16.11159,
+    "primary": false,
+    "name": "Mariathaler Kellergasse / Reisberg, Wieselsfeld, Hollabrunn"
+  },
+  {
+    "lat": 48.54283,
+    "lon": 16.02943,
+    "primary": false,
+    "name": "Nordwestlicher Hohlweg, Wolfsbrunn, Hollabrunn"
+  },
+  {
+    "lat": 48.541093,
+    "lon": 16.0274612,
+    "primary": false,
+    "name": "Zwei Keller, Wolfsbrunn, Hollabrunn"
+  },
+  {
+    "lat": 48.39849,
+    "lon": 16.06118,
+    "primary": false,
+    "name": "Hauptstraße, Gaisruck, Hausleiten"
+  },
+  {
+    "lat": 48.400921,
+    "lon": 16.054732,
+    "primary": false,
+    "name": "Zum Himmelreich, Gaisruck, Pettendorf, Hausleiten"
+  },
+  {
+    "lat": 48.40521,
+    "lon": 16.05381,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.39496,
+    "lon": 16.11748,
+    "primary": false,
+    "name": "Keller am Brunnberg, Goldgeben, Hausleiten"
+  },
+  {
+    "lat": 48.3981,
+    "lon": 16.10521,
+    "primary": false,
+    "name": "Kellergasse in der Lehrn (Lehrngasse), Hausleiten, Hausleiten"
+  },
+  {
+    "lat": 48.3979,
+    "lon": 16.09412,
+    "primary": false,
+    "name": "Kirchengasse / Schulgasse, Hausleiten, Hausleiten"
+  },
+  {
+    "lat": 48.406551,
+    "lon": 16.0611,
+    "primary": false,
+    "name": "Kellergasse Pettendorf (Hauptstraße und Hintaus), Pettendorf, Hausleiten"
+  },
+  {
+    "lat": 48.40918,
+    "lon": 16.09274,
+    "primary": false,
+    "name": "Schloßstraße, Seitzersdorf-Wolfpassing, Hausleiten"
+  },
+  {
+    "lat": 48.40903,
+    "lon": 16.09662,
+    "primary": false,
+    "name": "Parallel zur Bäckerstraße, Seitzersdorf-Wolfpassing, Hausleiten"
+  },
+  {
+    "lat": 48.41285,
+    "lon": 16.09679,
+    "primary": false,
+    "name": "Kasinostraße, Seitzersdorf-Wolfpassing, Hausleiten"
+  },
+  {
+    "lat": 48.40292,
+    "lon": 16.14077,
+    "primary": false,
+    "name": "Nördlich des Ortszentrums, Zissersdorf, Hausleiten"
+  },
+  {
+    "lat": 48.39969,
+    "lon": 16.13694,
+    "primary": false,
+    "name": "Richtung Hausleiten \"Zur Leiten\", Zissersdorf, Hausleiten"
+  },
+  {
+    "lat": 48.6793,
+    "lon": 16.18742,
+    "primary": false,
+    "name": "\"Kadolzerstraße\", Mailberg, Mailberg"
+  },
+  {
+    "lat": 48.672237,
+    "lon": 16.187134,
+    "primary": false,
+    "name": "Hundsschupfen/Zipf, Mailberg, Mailberg"
+  },
+  {
+    "lat": 48.672213,
+    "lon": 16.174266,
+    "primary": false,
+    "name": "Marktweg, Mailberg, Mailberg"
+  },
+  {
+    "lat": 48.67484,
+    "lon": 16.172067,
+    "primary": false,
+    "name": "Rosenpoint, Mailberg, Mailberg"
+  },
+  {
+    "lat": 48.7131,
+    "lon": 16.0661,
+    "primary": false,
+    "name": "Auggenthaler Kellertrift, Auggenthal, Haugsdorf"
+  },
+  {
+    "lat": 48.69994,
+    "lon": 16.0642,
+    "primary": false,
+    "name": "Kellerbergen, Auggenthal, Haugsdorf"
+  },
+  {
+    "lat": 48.74449,
+    "lon": 16.06135,
+    "primary": false,
+    "name": "Kellergasse Kleinhaugsdorf, Auggenthal, Haugsdorf"
+  },
+  {
+    "lat": 48.71673,
+    "lon": 16.07674,
+    "primary": false,
+    "name": "Große Kellertrift, Haugsdorf, Haugsdorf"
+  },
+  {
+    "lat": 48.71575,
+    "lon": 16.0748,
+    "primary": false,
+    "name": "Kleine Kellertrift, Haugsdorf, Haugsdorf"
+  },
+  {
+    "lat": 48.70533,
+    "lon": 16.06993,
+    "primary": false,
+    "name": "Am Sandberg/Ziegelofengasse, Haugsdorf, Haugsdorf"
+  },
+  {
+    "lat": 48.71301,
+    "lon": 16.05303,
+    "primary": false,
+    "name": "Kellergasse Jetzelsdorf (Kellertrift), Jetzelsdorf, Haugsdorf"
+  },
+  {
+    "lat": 48.71197,
+    "lon": 16.05894,
+    "primary": false,
+    "name": "Kleine Kellergasse Jetzelsdorf, Jetzelsdorf, Haugsdorf"
+  },
+  {
+    "lat": 48.718469,
+    "lon": 16.128518,
+    "primary": false,
+    "name": "Kellergasse, Hadres, Hadres"
+  },
+  {
+    "lat": 48.71523,
+    "lon": 16.11294,
+    "primary": false,
+    "name": "Kellertrift, Untermarkersdorf, Hadres"
+  },
+  {
+    "lat": 48.71223,
+    "lon": 16.11172,
+    "primary": false,
+    "name": "Grillentrift, Untermarkersdorf, Hadres"
+  },
+  {
+    "lat": 48.685948,
+    "lon": 16.154553,
+    "primary": false,
+    "name": "Kellergasse im Waidthal"
+  },
+  {
+    "lat": 48.685799,
+    "lon": 16.157192,
+    "primary": false,
+    "name": "Kellergasse im Querweg"
+  },
+  {
+    "lat": 48.68481,
+    "lon": 16.1681,
+    "primary": false,
+    "name": "Kellergasse Obritz, Obritz, Hadres"
+  },
+  {
+    "lat": 48.89319,
+    "lon": 15.43158,
+    "primary": false,
+    "name": "Kellergasse, Thuma, Karlstein an der Thaya"
+  },
+  {
+    "lat": 48.66398,
+    "lon": 15.65093,
+    "primary": false,
+    "name": "Kellergruppe Frauenhofner Straße, Horn, Horn (Niederösterreich)"
+  },
+  {
+    "lat": 48.69095,
+    "lon": 15.64114,
+    "primary": false,
+    "name": "Feldweg Richtung Westen, Mödring, Horn (Niederösterreich)"
+  },
+  {
+    "lat": 48.68838,
+    "lon": 15.6455,
+    "primary": false,
+    "name": "An der Straße Richtung Horn, Mödring, Horn (Niederösterreich)"
+  },
+  {
+    "lat": 48.7774,
+    "lon": 15.91168,
+    "primary": false,
+    "name": "Kellergasse"
+  },
+  {
+    "lat": 48.79739,
+    "lon": 15.89464,
+    "primary": false,
+    "name": "Kellerweg, Niederfladnitz, Hardegg (Niederösterreich)"
+  },
+  {
+    "lat": 48.79574,
+    "lon": 15.89267,
+    "primary": false,
+    "name": "Riegersburger Straße, Niederfladnitz, Hardegg (Niederösterreich)"
+  },
+  {
+    "lat": 48.81117,
+    "lon": 15.84681,
+    "primary": false,
+    "name": "Richtung Roggenbauerkreuz, Pleißing, Hardegg (Niederösterreich)"
+  },
+  {
+    "lat": 48.51136,
+    "lon": 15.94252,
+    "primary": false,
+    "name": "Beim Sportplatz, Glaubendorf, Heldenberg"
+  },
+  {
+    "lat": 48.50902,
+    "lon": 15.93618,
+    "primary": false,
+    "name": "Gaisberggraben, Glaubendorf, Heldenberg"
+  },
+  {
+    "lat": 48.50861,
+    "lon": 15.93498,
+    "primary": false,
+    "name": "Polstergraben, Glaubendorf, Heldenberg"
+  },
+  {
+    "lat": 48.508,
+    "lon": 15.9361,
+    "primary": false,
+    "name": "Zwischengraben, Glaubendorf, Heldenberg"
+  },
+  {
+    "lat": 48.50756,
+    "lon": 15.93672,
+    "primary": false,
+    "name": "Holzgraben, Glaubendorf, Heldenberg"
+  },
+  {
+    "lat": 48.50162,
+    "lon": 15.96621,
+    "primary": false,
+    "name": "Kellergasse, Großwetzdorf, Heldenberg"
+  },
+  {
+    "lat": 48.50086,
+    "lon": 15.96028,
+    "primary": false,
+    "name": "Südliches Hintaus, Großwetzdorf, Heldenberg"
+  },
+  {
+    "lat": 48.50548,
+    "lon": 15.96861,
+    "primary": false,
+    "name": "Haselgraben, Großwetzdorf, Heldenberg"
+  },
+  {
+    "lat": 48.49641,
+    "lon": 15.95147,
+    "primary": false,
+    "name": "Kellergasse, Kleinwetzdorf, Heldenberg"
+  },
+  {
+    "lat": 48.5079,
+    "lon": 15.99367,
+    "primary": false,
+    "name": "Windberg, Unterthern, Heldenberg"
+  },
+  {
+    "lat": 48.51501,
+    "lon": 16.00014,
+    "primary": false,
+    "name": "Im Entental, Oberthern, Heldenberg"
+  },
+  {
+    "lat": 48.51122,
+    "lon": 15.8552,
+    "primary": false,
+    "name": "Himmelgraben, Ebersbrunn, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.5167,
+    "lon": 15.85942,
+    "primary": false,
+    "name": "Richtung Pfaffstetten, Ebersbrunn, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.50795,
+    "lon": 15.82937,
+    "primary": false,
+    "name": "Bei der Kirche, Hohenwarth, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.50519,
+    "lon": 15.82821,
+    "primary": false,
+    "name": "Kellergasse, Hohenwarth, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.50469,
+    "lon": 15.82394,
+    "primary": false,
+    "name": "Kremser Straße, Hohenwarth, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.4999,
+    "lon": 15.83386,
+    "primary": false,
+    "name": "Rennweg, Hohenwarth, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.50007,
+    "lon": 15.83869,
+    "primary": false,
+    "name": ", Hohenwarth, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.51682,
+    "lon": 15.78841,
+    "primary": false,
+    "name": ", Mühlbach am Manhartsberg, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.52252,
+    "lon": 15.78685,
+    "primary": false,
+    "name": ", Mühlbach am Manhartsberg, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.52532,
+    "lon": 15.75266,
+    "primary": false,
+    "name": ", Olbersdorf, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.53199,
+    "lon": 15.79598,
+    "primary": false,
+    "name": ", Zemling, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.52931,
+    "lon": 15.78229,
+    "primary": false,
+    "name": "Olbersdorfer Straße, Zemling, Hohenwarth-Mühlbach am Manhartsberg"
+  },
+  {
+    "lat": 48.42056,
+    "lon": 15.55894,
+    "primary": false,
+    "name": "Friedhofstraße, Egelsee, Krems an der Donau"
+  },
+  {
+    "lat": 48.41877,
+    "lon": 15.55847,
+    "primary": false,
+    "name": "Sandlstraße, Egelsee, Krems an der Donau"
+  },
+  {
+    "lat": 48.42041,
+    "lon": 15.56183,
+    "primary": false,
+    "name": "Ziegelofengasse, Egelsee, Krems an der Donau"
+  },
+  {
+    "lat": 48.37969,
+    "lon": 15.68423,
+    "primary": false,
+    "name": "Obere Hollenburger Hauptstraße, Hollenburg, Krems an der Donau"
+  },
+  {
+    "lat": 48.37599,
+    "lon": 15.70226,
+    "primary": false,
+    "name": "Untere Hollenburger Hauptstraße, Hollenburg, Krems an der Donau"
+  },
+  {
+    "lat": 48.37719,
+    "lon": 15.69876,
+    "primary": false,
+    "name": "Wetterkreuzstraße, Hollenburg, Krems an der Donau"
+  },
+  {
+    "lat": 48.42048,
+    "lon": 15.61715,
+    "primary": false,
+    "name": "Bründlgraben, Krems an der Donau, Krems an der Donau"
+  },
+  {
+    "lat": 48.42313,
+    "lon": 15.62333,
+    "primary": false,
+    "name": "Frechau, Sandgrube, Krems an der Donau, Krems an der Donau"
+  },
+  {
+    "lat": 48.42703,
+    "lon": 15.63678,
+    "primary": false,
+    "name": "Gebling, Krems an der Donau, Krems an der Donau"
+  },
+  {
+    "lat": 48.42187,
+    "lon": 15.60977,
+    "primary": false,
+    "name": "Holzgasse, Stratzinger Straße, Krems an der Donau, Krems an der Donau"
+  },
+  {
+    "lat": 48.42427,
+    "lon": 15.61618,
+    "primary": false,
+    "name": "Langenloiser Straße, Krems an der Donau, Krems an der Donau"
+  },
+  {
+    "lat": 48.43762,
+    "lon": 15.6065,
+    "primary": false,
+    "name": "Limbergstraße, Stratzingerstraße, Krems an der Donau, Krems an der Donau"
+  },
+  {
+    "lat": 48.41943,
+    "lon": 15.61556,
+    "primary": false,
+    "name": "Obere Weinzierlbergstraße, Krems an der Donau, Krems an der Donau"
+  },
+  {
+    "lat": 48.42405,
+    "lon": 15.62864,
+    "primary": false,
+    "name": "Talland / In der Leithen, Krems an der Donau, Krems an der Donau"
+  },
+  {
+    "lat": 48.43567,
+    "lon": 15.62916,
+    "primary": false,
+    "name": "Wolfsgraben, Krems an der Donau, Krems an der Donau"
+  },
+  {
+    "lat": 48.43427,
+    "lon": 15.58932,
+    "primary": false,
+    "name": "Rehberger Kellergasse, Rehberg, Krems an der Donau"
+  },
+  {
+    "lat": 48.38332,
+    "lon": 15.6458,
+    "primary": false,
+    "name": "Fuchsleitenweg, Thallern, Krems an der Donau"
+  },
+  {
+    "lat": 48.38074,
+    "lon": 15.64134,
+    "primary": false,
+    "name": "Schweren-Zapfen-Weg, Thallern, Krems an der Donau"
+  },
+  {
+    "lat": 48.4495,
+    "lon": 15.71111,
+    "primary": false,
+    "name": "Sachsenberg, Hadersdorf am Kamp, Hadersdorf-Kammern"
+  },
+  {
+    "lat": 48.4795,
+    "lon": 15.71431,
+    "primary": false,
+    "name": "Grub, Kammern (Gemeinde Hadersdorf-Kammern), Hadersdorf-Kammern"
+  },
+  {
+    "lat": 48.4725,
+    "lon": 15.72075,
+    "primary": false,
+    "name": "Kellergasse Kammern, Kammern (Gemeinde Hadersdorf-Kammern), Hadersdorf-Kammern"
+  },
+  {
+    "lat": 48.47402,
+    "lon": 15.59142,
+    "primary": false,
+    "name": "Annagasse, Lengenfeld, Lengenfeld"
+  },
+  {
+    "lat": 48.47267,
+    "lon": 15.59833,
+    "primary": false,
+    "name": "Dornergasse, Lengenfeld, Lengenfeld"
+  },
+  {
+    "lat": 48.47447,
+    "lon": 15.60274,
+    "primary": false,
+    "name": "Johannesgasse u. Kellerweg, Lengenfeld, Lengenfeld"
+  },
+  {
+    "lat": 48.47272,
+    "lon": 15.60531,
+    "primary": false,
+    "name": "Langenloiser Straße, Lengenfeld, Lengenfeld"
+  },
+  {
+    "lat": 48.47426,
+    "lon": 15.60775,
+    "primary": false,
+    "name": "Mühlfeldgasse, Lengenfeld, Lengenfeld"
+  },
+  {
+    "lat": 48.45729,
+    "lon": 15.69914,
+    "primary": false,
+    "name": "Kellergasse, Gobelsburg, Langenlois"
+  },
+  {
+    "lat": 48.45366,
+    "lon": 15.70495,
+    "primary": false,
+    "name": "Kellerweg Zeiselberg, Gobelsburg, Langenlois"
+  },
+  {
+    "lat": 48.45477,
+    "lon": 15.70012,
+    "primary": false,
+    "name": "Gobelsberg, Gobelsburg, Langenlois"
+  },
+  {
+    "lat": 48.49152,
+    "lon": 15.68315,
+    "primary": false,
+    "name": "Eichelberg, Haindorf, Langenlois"
+  },
+  {
+    "lat": 48.4868,
+    "lon": 15.68756,
+    "primary": false,
+    "name": "Im Grübl, Haindorf, Langenlois"
+  },
+  {
+    "lat": 48.46662,
+    "lon": 15.68846,
+    "primary": false,
+    "name": "Spiegelgraben, Haindorf, Langenlois"
+  },
+  {
+    "lat": 48.48293,
+    "lon": 15.68418,
+    "primary": false,
+    "name": "Vogerlweg u. Haselgraben, Haindorf, Langenlois"
+  },
+  {
+    "lat": 48.47045,
+    "lon": 15.67699,
+    "primary": false,
+    "name": "Dimmelgraben u. Oberer Spiegelgraben, Langenlois, Langenlois"
+  },
+  {
+    "lat": 48.47013,
+    "lon": 15.66336,
+    "primary": false,
+    "name": "Großer u. Kleiner Buriweg, Weinberggasse, Langenlois, Langenlois"
+  },
+  {
+    "lat": 48.47599,
+    "lon": 15.65019,
+    "primary": false,
+    "name": "Kühsteingraben, Langenlois, Langenlois"
+  },
+  {
+    "lat": 48.47848,
+    "lon": 15.66949,
+    "primary": false,
+    "name": "Käferbergstraße u. Schilterner Straße, Langenlois, Langenlois"
+  },
+  {
+    "lat": 48.47555,
+    "lon": 15.65661,
+    "primary": false,
+    "name": "Lissgraben, Langenlois, Langenlois"
+  },
+  {
+    "lat": 48.46957,
+    "lon": 15.68075,
+    "primary": false,
+    "name": "Mittlerer Spiegelgraben, Langenlois, Langenlois"
+  },
+  {
+    "lat": 48.47461,
+    "lon": 15.65837,
+    "primary": false,
+    "name": "Presslgraben, Langenlois, Langenlois"
+  },
+  {
+    "lat": 48.46838,
+    "lon": 15.66843,
+    "primary": false,
+    "name": "Sauberg, Langenlois, Langenlois"
+  },
+  {
+    "lat": 48.49563,
+    "lon": 15.67375,
+    "primary": false,
+    "name": "Seeberg, Langenlois, Langenlois"
+  },
+  {
+    "lat": 48.4734,
+    "lon": 15.66017,
+    "primary": false,
+    "name": "Weraingraben u. Weichselgraben, Langenlois, Langenlois"
+  },
+  {
+    "lat": 48.4936,
+    "lon": 15.61106,
+    "primary": false,
+    "name": "Kellergasse, Mittelberg, Langenlois"
+  },
+  {
+    "lat": 48.51451,
+    "lon": 15.62233,
+    "primary": false,
+    "name": "Schneidergraben, Schiltern, Langenlois"
+  },
+  {
+    "lat": 48.51277,
+    "lon": 15.62549,
+    "primary": false,
+    "name": "Kellergasse, Schiltern, Langenlois"
+  },
+  {
+    "lat": 48.49258,
+    "lon": 15.69107,
+    "primary": false,
+    "name": "Am Wechselberg, Zöbing, Langenlois"
+  },
+  {
+    "lat": 48.49288,
+    "lon": 15.70055,
+    "primary": false,
+    "name": "Am Heiligenstein, Zöbing, Langenlois"
+  },
+  {
+    "lat": 48.49579,
+    "lon": 15.70288,
+    "primary": false,
+    "name": "Lauser Kellergasse, Zöbing, Langenlois"
+  },
+  {
+    "lat": 48.49297,
+    "lon": 15.69176,
+    "primary": false,
+    "name": "Schönbergstraße, Zöbing, Langenlois"
+  },
+  {
+    "lat": 48.32692,
+    "lon": 15.69218,
+    "primary": false,
+    "name": "Kellerweg, Getzersdorf, Inzersdorf-Getzersdorf"
+  },
+  {
+    "lat": 48.31554,
+    "lon": 15.67477,
+    "primary": false,
+    "name": "Kellergasse, Inzersdorf ob der Traisen, Anzenberg, Inzersdorf-Getzersdorf"
+  },
+  {
+    "lat": 48.32037,
+    "lon": 15.67692,
+    "primary": false,
+    "name": "Hintaus, Inzersdorf ob der Traisen, Inzersdorf-Getzersdorf"
+  },
+  {
+    "lat": 48.31007,
+    "lon": 15.67559,
+    "primary": false,
+    "name": "Jakobsweg, Walpersdorf, Inzersdorf-Getzersdorf"
+  },
+  {
+    "lat": 48.27014,
+    "lon": 15.78255,
+    "primary": false,
+    "name": ", Killing, Kapelln"
+  },
+  {
+    "lat": 48.26829,
+    "lon": 15.75106,
+    "primary": false,
+    "name": "Kellerstraße, Etzersdorf, Kapelln"
+  },
+  {
+    "lat": 48.27531,
+    "lon": 15.75086,
+    "primary": false,
+    "name": "Flinsberg/Weingartfeld, Etzersdorf, Kapelln"
+  },
+  {
+    "lat": 48.23122,
+    "lon": 15.77929,
+    "primary": false,
+    "name": ", Pönning, Kapelln"
+  },
+  {
+    "lat": 48.29979,
+    "lon": 15.81671,
+    "primary": false,
+    "name": ", Adletzberg, Herzogenburg"
+  },
+  {
+    "lat": 48.2977,
+    "lon": 15.81647,
+    "primary": false,
+    "name": ", Adletzberg, Herzogenburg"
+  },
+  {
+    "lat": 48.30215,
+    "lon": 15.73391,
+    "primary": false,
+    "name": "Hühnerbühel, Angern, Herzogenburg"
+  },
+  {
+    "lat": 48.30234,
+    "lon": 15.72934,
+    "primary": false,
+    "name": "Waldstraße, Angern, Herzogenburg"
+  },
+  {
+    "lat": 48.29559,
+    "lon": 15.66632,
+    "primary": false,
+    "name": "Satzendorfer Straße, Ederding, Herzogenburg"
+  },
+  {
+    "lat": 48.31171,
+    "lon": 15.7307,
+    "primary": false,
+    "name": "Reitenkeller, Einöd, Herzogenburg"
+  },
+  {
+    "lat": 48.31645,
+    "lon": 15.73016,
+    "primary": false,
+    "name": "Bergkeller, Einöd, Herzogenburg"
+  },
+  {
+    "lat": 48.30882,
+    "lon": 15.73208,
+    "primary": false,
+    "name": "Ziegelweg, Einöd, Herzogenburg"
+  },
+  {
+    "lat": 48.29523,
+    "lon": 15.78057,
+    "primary": false,
+    "name": ", Gutenbrunn, Herzogenburg"
+  },
+  {
+    "lat": 48.29321,
+    "lon": 15.68886,
+    "primary": false,
+    "name": "Kremser Straße, Herzogenburg, Herzogenburg"
+  },
+  {
+    "lat": 48.29136,
+    "lon": 15.68437,
+    "primary": false,
+    "name": "Neuberg, Herzogenburg, Herzogenburg"
+  },
+  {
+    "lat": 48.29019,
+    "lon": 15.68407,
+    "primary": false,
+    "name": "Krenntal, Herzogenburg, Herzogenburg"
+  },
+  {
+    "lat": 48.28286,
+    "lon": 15.68359,
+    "primary": false,
+    "name": "Kellergasse, Herzogenburg, Herzogenburg"
+  },
+  {
+    "lat": 48.29723,
+    "lon": 15.76861,
+    "primary": false,
+    "name": "Oberhameten, Hameten, Herzogenburg"
+  },
+  {
+    "lat": 48.27786,
+    "lon": 15.68084,
+    "primary": false,
+    "name": "Am Hainer Berg, Oberndorf in der Ebene, Herzogenburg"
+  },
+  {
+    "lat": 48.28535,
+    "lon": 15.72182,
+    "primary": false,
+    "name": "Bergkeller, Oberwinden, Herzogenburg"
+  },
+  {
+    "lat": 48.27059,
+    "lon": 15.71638,
+    "primary": false,
+    "name": "Am Berg, Ossarn, Herzogenburg"
+  },
+  {
+    "lat": 48.27551,
+    "lon": 15.71925,
+    "primary": false,
+    "name": ", Ossarn, Herzogenburg"
+  },
+  {
+    "lat": 48.29812,
+    "lon": 15.72869,
+    "primary": false,
+    "name": "Lichtwörth, St. Andrä an der Traisen, Herzogenburg"
+  },
+  {
+    "lat": 48.29983,
+    "lon": 15.73545,
+    "primary": false,
+    "name": "Wiege, St. Andrä an der Traisen, Herzogenburg"
+  },
+  {
+    "lat": 48.28727,
+    "lon": 15.72445,
+    "primary": false,
+    "name": "Mitterfeld, Unterwinden, Herzogenburg"
+  },
+  {
+    "lat": 48.28923,
+    "lon": 15.725,
+    "primary": false,
+    "name": "Katzenbergweg, Unterwinden, Herzogenburg"
+  },
+  {
+    "lat": 48.29781,
+    "lon": 15.68463,
+    "primary": false,
+    "name": ", Wielandsthal, Herzogenburg"
+  },
+  {
+    "lat": 48.25358,
+    "lon": 15.60417,
+    "primary": false,
+    "name": "Weingarten, Untermamau, Karlstetten"
+  },
+  {
+    "lat": 48.250595,
+    "lon": 15.613519,
+    "primary": false,
+    "name": "Mamauer Kellergasse, Untermamau, Karlstetten"
+  },
+  {
+    "lat": 48.258175,
+    "lon": 15.617581,
+    "primary": false,
+    "name": "Schaubinger Kellern, Schaubing, Karlstetten"
+  },
+  {
+    "lat": 48.09339,
+    "lon": 16.60264,
+    "primary": false,
+    "name": "Kellerzeile, Kleinneusiedl, Klein-Neusiedl"
+  },
+  {
+    "lat": 48.06118,
+    "lon": 16.78913,
+    "primary": false,
+    "name": "Beim Satzlweg, Höflein, Höflein (Niederösterreich)"
+  },
+  {
+    "lat": 48.06425,
+    "lon": 16.79215,
+    "primary": false,
+    "name": "Gugl, Brucker Straße, Höflein, Höflein (Niederösterreich)"
+  },
+  {
+    "lat": 48.06933,
+    "lon": 16.78064,
+    "primary": false,
+    "name": "Hintaus (Weinbergweg), Höflein, Höflein (Niederösterreich)"
+  },
+  {
+    "lat": 48.06363,
+    "lon": 16.78299,
+    "primary": false,
+    "name": "Hoher Weg, Höflein, Höflein (Niederösterreich)"
+  },
+  {
+    "lat": 48.06332,
+    "lon": 16.79508,
+    "primary": false,
+    "name": "Hutweide (Untere Kellergasse), Höflein, Höflein (Niederösterreich)"
+  },
+  {
+    "lat": 48.06728,
+    "lon": 16.78233,
+    "primary": false,
+    "name": "Spillern, Höflein, Höflein (Niederösterreich)"
+  },
+  {
+    "lat": 48.19397,
+    "lon": 15.45549,
+    "primary": false,
+    "name": "Berggasse Großsierning, Großsierning, Haunoldstein"
+  },
+  {
+    "lat": 48.19842,
+    "lon": 15.45313,
+    "primary": false,
+    "name": "Kirchenstraße Haunoldstein, Haunoldstein, Haunoldstein"
+  },
+  {
+    "lat": 48.47628,
+    "lon": 15.86682,
+    "primary": false,
+    "name": "Mühlgraben, Großriedenthal, Großriedenthal"
+  },
+  {
+    "lat": 48.48428,
+    "lon": 15.85829,
+    "primary": false,
+    "name": "Reithergraben, Großriedenthal, Großriedenthal"
+  },
+  {
+    "lat": 48.47975,
+    "lon": 15.86088,
+    "primary": false,
+    "name": "Wolfsgrube, Großriedenthal, Großriedenthal"
+  },
+  {
+    "lat": 48.48872,
+    "lon": 15.87869,
+    "primary": false,
+    "name": "Laimgrube, Neudegg (Gemeinde Großriedenthal), Großriedenthal"
+  },
+  {
+    "lat": 48.48901,
+    "lon": 15.88291,
+    "primary": false,
+    "name": "Hintaus, Neudegg (Gemeinde Großriedenthal), Großriedenthal"
+  },
+  {
+    "lat": 48.49316,
+    "lon": 15.88367,
+    "primary": false,
+    "name": ", Neudegg (Gemeinde Großriedenthal), Großriedenthal"
+  },
+  {
+    "lat": 48.4654,
+    "lon": 15.90538,
+    "primary": false,
+    "name": "beim Friedhof, Ottenthal (Gemeinde Großriedenthal), Großriedenthal"
+  },
+  {
+    "lat": 48.47241,
+    "lon": 15.89665,
+    "primary": false,
+    "name": "Marienberg, Ottenthal (Gemeinde Großriedenthal), Großriedenthal"
+  },
+  {
+    "lat": 48.46484,
+    "lon": 15.90018,
+    "primary": false,
+    "name": "Hintaus, Ottenthal (Gemeinde Großriedenthal), Großriedenthal"
+  },
+  {
+    "lat": 48.27914,
+    "lon": 16.03794,
+    "primary": false,
+    "name": ", Baumgarten am Tullnerfeld, Judenau-Baumgarten"
+  },
+  {
+    "lat": 48.28243,
+    "lon": 16.0035,
+    "primary": false,
+    "name": "Mühlgraben, Judenau, Judenau-Baumgarten"
+  },
+  {
+    "lat": 48.4802,
+    "lon": 15.95415,
+    "primary": false,
+    "name": "Ruppersthaler Straße, Baumgarten am Wagram, Großweikersdorf"
+  },
+  {
+    "lat": 48.48396,
+    "lon": 15.95396,
+    "primary": false,
+    "name": ", Baumgarten am Wagram, Großweikersdorf"
+  },
+  {
+    "lat": 48.46641,
+    "lon": 15.97528,
+    "primary": false,
+    "name": "Kreuzbergstraße, Großweikersdorf, Großweikersdorf"
+  },
+  {
+    "lat": 48.46497,
+    "lon": 15.97591,
+    "primary": false,
+    "name": "Waasen, Großweikersdorf, Großweikersdorf"
+  },
+  {
+    "lat": 48.47066,
+    "lon": 15.98877,
+    "primary": false,
+    "name": "Höllgraben/Oberrußbacherstraße, Großweikersdorf, Großweikersdorf"
+  },
+  {
+    "lat": 48.44496,
+    "lon": 15.9865,
+    "primary": false,
+    "name": "Bahnhofstraße, Großwiesendorf, Großweikersdorf"
+  },
+  {
+    "lat": 48.45104,
+    "lon": 15.99303,
+    "primary": false,
+    "name": "Hauptstraße, Kleinwiesendorf, Großweikersdorf"
+  },
+  {
+    "lat": 48.45252,
+    "lon": 15.99343,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.44928,
+    "lon": 15.99434,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.4487,
+    "lon": 15.994,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.46828,
+    "lon": 15.94582,
+    "primary": false,
+    "name": "Baumgartner Straße, Ruppersthal, Großweikersdorf"
+  },
+  {
+    "lat": 48.46818,
+    "lon": 15.94824,
+    "primary": false,
+    "name": "Nördlicher Kirchenhohlweg, Ruppersthal, Großweikersdorf"
+  },
+  {
+    "lat": 48.46695,
+    "lon": 15.94702,
+    "primary": false,
+    "name": "Südlicher Kirchenhohlweg, Ruppersthal, Großweikersdorf"
+  },
+  {
+    "lat": 48.47147,
+    "lon": 15.94086,
+    "primary": false,
+    "name": "Reifel, Ruppersthal, Großweikersdorf"
+  },
+  {
+    "lat": 48.46724,
+    "lon": 15.94204,
+    "primary": false,
+    "name": "Schmiedgasse, Ruppersthal, Großweikersdorf"
+  },
+  {
+    "lat": 48.46166,
+    "lon": 15.94775,
+    "primary": false,
+    "name": "Königsbrunner Straße, Ruppersthal, Großweikersdorf"
+  },
+  {
+    "lat": 48.43977,
+    "lon": 16.00259,
+    "primary": false,
+    "name": ", Tiefenthal, Großweikersdorf"
+  },
+  {
+    "lat": 48.29884,
+    "lon": 16.14617,
+    "primary": false,
+    "name": "Kogelgasse, Königstetten, Königstetten"
+  },
+  {
+    "lat": 48.42424,
+    "lon": 15.9653,
+    "primary": false,
+    "name": "Kellergasse Hippersdorf, Hippersdorf, Königsbrunn am Wagram"
+  },
+  {
+    "lat": 48.42139,
+    "lon": 15.94381,
+    "primary": false,
+    "name": "Kellergasse Bromberg, Königsbrunn am Wagram, Königsbrunn am Wagram, Königsbrunn am Wagram"
+  },
+  {
+    "lat": 48.41695,
+    "lon": 15.9496,
+    "primary": false,
+    "name": "Wagramstraße, Königsbrunn am Wagram, Königsbrunn am Wagram"
+  },
+  {
+    "lat": 48.43049,
+    "lon": 15.90519,
+    "primary": false,
+    "name": "Wagramkante / Alte Weinstraße, Engelmannsbrunn, Kirchberg am Wagram, Mitterstockstall, Unterstockstall, Kirchberg am Wagram"
+  },
+  {
+    "lat": 48.4364,
+    "lon": 15.87673,
+    "primary": false,
+    "name": "Gebäudereihe Wagramkante"
+  },
+  {
+    "lat": 48.4382,
+    "lon": 15.88945,
+    "primary": false,
+    "name": "Gebäudereihe Wagramkante"
+  },
+  {
+    "lat": 48.43219,
+    "lon": 15.89916,
+    "primary": false,
+    "name": "Gebäudereihe Wagramkante"
+  },
+  {
+    "lat": 48.43157,
+    "lon": 15.9019,
+    "primary": false,
+    "name": "Gebäudereihe Wagramkante"
+  },
+  {
+    "lat": 48.42636,
+    "lon": 15.9204,
+    "primary": false,
+    "name": "Gebäudereihe Wagramkante"
+  },
+  {
+    "lat": 48.44381,
+    "lon": 15.87259,
+    "primary": false,
+    "name": "Bei der Landesstraße 2014, Engelmannsbrunn, Kirchberg am Wagram"
+  },
+  {
+    "lat": 48.4447,
+    "lon": 15.87447,
+    "primary": false,
+    "name": "Haltergraben, Engelmannsbrunn, Kirchberg am Wagram"
+  },
+  {
+    "lat": 48.43962,
+    "lon": 15.87166,
+    "primary": false,
+    "name": "Hintaus, Engelmannsbrunn, Kirchberg am Wagram"
+  },
+  {
+    "lat": 48.45103,
+    "lon": 15.86642,
+    "primary": false,
+    "name": "In der Satz, Engelmannsbrunn, Kirchberg am Wagram"
+  },
+  {
+    "lat": 48.43223,
+    "lon": 15.90932,
+    "primary": false,
+    "name": "Mühlweg, Mitterstockstall, Kirchberg am Wagram"
+  },
+  {
+    "lat": 48.43752,
+    "lon": 15.91546,
+    "primary": false,
+    "name": "Schlossgraben, Mitterstockstall, Kirchberg am Wagram"
+  },
+  {
+    "lat": 48.43439,
+    "lon": 15.91976,
+    "primary": false,
+    "name": "Zeiselgraben, Mitterstockstall, Kirchberg am Wagram"
+  },
+  {
+    "lat": 48.44373,
+    "lon": 15.90428,
+    "primary": false,
+    "name": "Mayergraben, Oberstockstall, Kirchberg am Wagram"
+  },
+  {
+    "lat": 48.42653,
+    "lon": 15.9266,
+    "primary": false,
+    "name": "Kellergasse / Mitterberg, Unterstockstall, Kirchberg am Wagram"
+  },
+  {
+    "lat": 48.42455,
+    "lon": 15.92628,
+    "primary": false,
+    "name": "Gebäudereihe Wagramkante"
+  },
+  {
+    "lat": 48.42888,
+    "lon": 16.21181,
+    "primary": false,
+    "name": ", Hatzenbach, Leitzersdorf"
+  },
+  {
+    "lat": 48.41771,
+    "lon": 16.24592,
+    "primary": false,
+    "name": "Kellergrund, Leitzersdorf, Leitzersdorf"
+  },
+  {
+    "lat": 48.42093,
+    "lon": 16.25842,
+    "primary": false,
+    "name": "Hanftal, Leitzersdorf, Leitzersdorf"
+  },
+  {
+    "lat": 48.43111,
+    "lon": 16.26945,
+    "primary": false,
+    "name": ", Wollmannsberg, Leitzersdorf"
+  },
+  {
+    "lat": 48.42764,
+    "lon": 16.26242,
+    "primary": false,
+    "name": "Untern Weyer, Wollmannsberg, Leitzersdorf"
+  },
+  {
+    "lat": 48.30775,
+    "lon": 16.36409,
+    "primary": false,
+    "name": "Kellergasse, Langenzersdorf, Langenzersdorf"
+  },
+  {
+    "lat": 48.47911,
+    "lon": 16.20582,
+    "primary": false,
+    "name": ", Geitzendorf, Großmugl"
+  },
+  {
+    "lat": 48.49878,
+    "lon": 16.234,
+    "primary": false,
+    "name": "Ernstbrunner Straße, Großmugl, Großmugl"
+  },
+  {
+    "lat": 48.49298,
+    "lon": 16.23385,
+    "primary": false,
+    "name": "In der Au, Großmugl, Großmugl"
+  },
+  {
+    "lat": 48.49485,
+    "lon": 16.23725,
+    "primary": false,
+    "name": "Kellergasse, Großmugl, Großmugl"
+  },
+  {
+    "lat": 48.52299,
+    "lon": 16.24844,
+    "primary": false,
+    "name": "Am Trümmern / Kellergasse, Herzogbirbaum, Großmugl"
+  },
+  {
+    "lat": 48.52028,
+    "lon": 16.25269,
+    "primary": false,
+    "name": "östliches Hintaus, Herzogbirbaum, Großmugl"
+  },
+  {
+    "lat": 48.5146,
+    "lon": 16.24872,
+    "primary": false,
+    "name": "südwestliches Hintaus / In Letteln, Herzogbirbaum, Großmugl"
+  },
+  {
+    "lat": 48.51826,
+    "lon": 16.24551,
+    "primary": false,
+    "name": "In Weidnen, Herzogbirbaum, Großmugl"
+  },
+  {
+    "lat": 48.50398,
+    "lon": 16.25735,
+    "primary": false,
+    "name": "Hintaus, Ottendorf, Großmugl"
+  },
+  {
+    "lat": 48.50647,
+    "lon": 16.25705,
+    "primary": false,
+    "name": ", Ottendorf, Großmugl"
+  },
+  {
+    "lat": 48.49798,
+    "lon": 16.19734,
+    "primary": false,
+    "name": ", Ringendorf, Großmugl"
+  },
+  {
+    "lat": 48.47476,
+    "lon": 16.24093,
+    "primary": false,
+    "name": ", Roseldorf, Großmugl"
+  },
+  {
+    "lat": 48.50993,
+    "lon": 16.21418,
+    "primary": false,
+    "name": ", Steinabrunn, Großmugl"
+  },
+  {
+    "lat": 48.34746,
+    "lon": 16.38779,
+    "primary": false,
+    "name": "Viehtrift / Hiataberg, Flandorf, Hagenbrunn"
+  },
+  {
+    "lat": 48.32992,
+    "lon": 16.40589,
+    "primary": false,
+    "name": ", Hagenbrunn, Hagenbrunn"
+  },
+  {
+    "lat": 48.38109,
+    "lon": 16.328341,
+    "primary": false,
+    "name": "Güterweg Saubergen, Leobendorf, Leobendorf"
+  },
+  {
+    "lat": 48.37926,
+    "lon": 16.32211,
+    "primary": false,
+    "name": "Bründlgasse, Leobendorf, Leobendorf"
+  },
+  {
+    "lat": 48.3789,
+    "lon": 16.31937,
+    "primary": false,
+    "name": "Rohrbacher Straße, Leobendorf, Leobendorf"
+  },
+  {
+    "lat": 48.39544,
+    "lon": 16.29821,
+    "primary": false,
+    "name": "Kellerweg, Oberrohrbach, Leobendorf"
+  },
+  {
+    "lat": 48.403208,
+    "lon": 16.301911,
+    "primary": false,
+    "name": "Waldstraße, Oberrohrbach, Leobendorf"
+  },
+  {
+    "lat": 48.38373,
+    "lon": 16.35766,
+    "primary": false,
+    "name": "Am Hohlweg, Tresdorf, Leobendorf"
+  },
+  {
+    "lat": 48.3819,
+    "lon": 16.35351,
+    "primary": false,
+    "name": "Leobendorfer Straße, Tresdorf, Leobendorf"
+  },
+  {
+    "lat": 48.38426,
+    "lon": 16.34712,
+    "primary": false,
+    "name": "Obere Trift, Tresdorf, Leobendorf"
+  },
+  {
+    "lat": 48.38685,
+    "lon": 16.35867,
+    "primary": false,
+    "name": "Untere Trift, Tresdorf, Leobendorf"
+  },
+  {
+    "lat": 48.38719,
+    "lon": 16.2821,
+    "primary": false,
+    "name": "Kellergasse, Unterrohrbach, Leobendorf"
+  },
+  {
+    "lat": 48.37697,
+    "lon": 16.321417,
+    "primary": false,
+    "name": "Stockerauerstraße, Leobendorf, Leobendorf"
+  },
+  {
+    "lat": 48.22125,
+    "lon": 15.49157,
+    "primary": false,
+    "name": "Kellergasse, Hafnerbach, Hafnerbach"
+  },
+  {
+    "lat": 48.47257,
+    "lon": 16.41113,
+    "primary": false,
+    "name": "Flurstraße, Großrußbach, Großrußbach"
+  },
+  {
+    "lat": 48.47123,
+    "lon": 16.41389,
+    "primary": false,
+    "name": "Augraben / Heideweg / Sulzweg, Großrußbach, Großrußbach"
+  },
+  {
+    "lat": 48.47676,
+    "lon": 16.41627,
+    "primary": false,
+    "name": ", Großrußbach, Großrußbach"
+  },
+  {
+    "lat": 48.50072,
+    "lon": 16.41519,
+    "primary": false,
+    "name": "Bei der Kirche, Hipples, Großrußbach"
+  },
+  {
+    "lat": 48.50279,
+    "lon": 16.40906,
+    "primary": false,
+    "name": "Hintaus, Hipples, Großrußbach"
+  },
+  {
+    "lat": 48.50346,
+    "lon": 16.40518,
+    "primary": false,
+    "name": ", Hipples, Großrußbach"
+  },
+  {
+    "lat": 48.46131,
+    "lon": 16.3713,
+    "primary": false,
+    "name": "Kellergasse, Karnabrunn, Großrußbach"
+  },
+  {
+    "lat": 48.46401,
+    "lon": 16.3774,
+    "primary": false,
+    "name": "Laaer Straße, Karnabrunn, Großrußbach"
+  },
+  {
+    "lat": 48.49335,
+    "lon": 16.39366,
+    "primary": false,
+    "name": "Beim Hausberg, Kleinebersdorf, Großrußbach"
+  },
+  {
+    "lat": 48.4965,
+    "lon": 16.39057,
+    "primary": false,
+    "name": "Kellergasse, nördlicher Teil, Kleinebersdorf, Großrußbach"
+  },
+  {
+    "lat": 48.49409,
+    "lon": 16.38949,
+    "primary": false,
+    "name": "Kellergasse, südlicher Teil, Kleinebersdorf, Großrußbach"
+  },
+  {
+    "lat": 48.45796,
+    "lon": 16.39783,
+    "primary": false,
+    "name": "Hauptstraße (Kellerberg), Weinsteig, Großrußbach"
+  },
+  {
+    "lat": 48.47496,
+    "lon": 16.3808,
+    "primary": false,
+    "name": "An der Bundesstraße, bei der ÖBB, Wetzleinsdorf, Großrußbach"
+  },
+  {
+    "lat": 48.47646,
+    "lon": 16.38251,
+    "primary": false,
+    "name": "Brunnenweg, Wetzleinsdorf, Großrußbach"
+  },
+  {
+    "lat": 48.47999,
+    "lon": 16.38201,
+    "primary": false,
+    "name": "Mühlberg, Wetzleinsdorf, Großrußbach"
+  },
+  {
+    "lat": 48.48021,
+    "lon": 16.37254,
+    "primary": false,
+    "name": "Mühlenweg, Wetzleinsdorf, Großrußbach"
+  },
+  {
+    "lat": 48.44236,
+    "lon": 16.39885,
+    "primary": false,
+    "name": "Kellergasse (Schloßberg, Kramergasse), Hetzmannsdorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.44227,
+    "lon": 16.40203,
+    "primary": false,
+    "name": ", Hetzmannsdorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.39929,
+    "lon": 16.40544,
+    "primary": false,
+    "name": "Kellergasse, Kleinrötz, Harmannsdorf"
+  },
+  {
+    "lat": 48.3988,
+    "lon": 16.40841,
+    "primary": false,
+    "name": "Am Hohlweg, Kleinrötz, Harmannsdorf"
+  },
+  {
+    "lat": 48.43383,
+    "lon": 16.35891,
+    "primary": false,
+    "name": "Trift, Obergänserndorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.43112,
+    "lon": 16.36943,
+    "primary": false,
+    "name": "Hoftenngasse, Obergänserndorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.42705,
+    "lon": 16.36711,
+    "primary": false,
+    "name": "Hohlgasse, Obergänserndorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.42528,
+    "lon": 16.37527,
+    "primary": false,
+    "name": "Kellergasse, Obergänserndorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.42953,
+    "lon": 16.36794,
+    "primary": false,
+    "name": "Plattenweg, Obergänserndorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.43464,
+    "lon": 16.37077,
+    "primary": false,
+    "name": "Schwemmgasse, Obergänserndorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.43286,
+    "lon": 16.36471,
+    "primary": false,
+    "name": "Seitweg, Obergänserndorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.39748,
+    "lon": 16.3704,
+    "primary": false,
+    "name": "Kellergasse (inkl. Ziegeleigasse, Fasangarten, Kogelgasse), Rückersdorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.39073,
+    "lon": 16.36713,
+    "primary": false,
+    "name": "Laaer Straße, Rückersdorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.39471,
+    "lon": 16.36373,
+    "primary": false,
+    "name": ", Rückersdorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.39026,
+    "lon": 16.3645,
+    "primary": false,
+    "name": ", Rückersdorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.40334,
+    "lon": 16.37263,
+    "primary": false,
+    "name": ", Rückersdorf, Harmannsdorf"
+  },
+  {
+    "lat": 48.37367,
+    "lon": 16.39097,
+    "primary": false,
+    "name": "Kellergasse, Seebarn, Harmannsdorf"
+  },
+  {
+    "lat": 48.42895,
+    "lon": 16.42491,
+    "primary": false,
+    "name": "Kellergasse, Am Schubertbrunnen, Würnitz, Harmannsdorf"
+  },
+  {
+    "lat": 48.70195,
+    "lon": 16.69177,
+    "primary": false,
+    "name": "Hödlgasse, Herrnbaumgarten, Herrnbaumgarten"
+  },
+  {
+    "lat": 48.69845,
+    "lon": 16.68688,
+    "primary": false,
+    "name": "Kellergasse, Herrnbaumgarten, Herrnbaumgarten"
+  },
+  {
+    "lat": 48.69854,
+    "lon": 16.68321,
+    "primary": false,
+    "name": "Langer Berg, Herrnbaumgarten, Herrnbaumgarten"
+  },
+  {
+    "lat": 48.69775,
+    "lon": 16.67513,
+    "primary": false,
+    "name": "Steinweg, Herrnbaumgarten, Herrnbaumgarten"
+  },
+  {
+    "lat": 48.69574,
+    "lon": 16.67587,
+    "primary": false,
+    "name": "Tiefer Graben (Schindergasse), Herrnbaumgarten, Herrnbaumgarten"
+  },
+  {
+    "lat": 48.66598,
+    "lon": 16.22353,
+    "primary": false,
+    "name": "Keglerberg, Diepolz, Großharras"
+  },
+  {
+    "lat": 48.66558,
+    "lon": 16.24505,
+    "primary": false,
+    "name": "Zwingendorfer Straße, Großharras, Großharras"
+  },
+  {
+    "lat": 48.66479,
+    "lon": 16.24274,
+    "primary": false,
+    "name": "Kellergasse, Großharras, Großharras"
+  },
+  {
+    "lat": 48.65864,
+    "lon": 16.24505,
+    "primary": false,
+    "name": "Teichkellern, Großharras, Großharras"
+  },
+  {
+    "lat": 48.66327,
+    "lon": 16.24212,
+    "primary": false,
+    "name": "Zeughausgasse, Großharras, Großharras"
+  },
+  {
+    "lat": 48.66199,
+    "lon": 16.24838,
+    "primary": false,
+    "name": ", Großharras, Großharras"
+  },
+  {
+    "lat": 48.73103,
+    "lon": 16.23557,
+    "primary": false,
+    "name": "Schatz, Zwingendorf, Großharras"
+  },
+  {
+    "lat": 48.70278,
+    "lon": 16.36235,
+    "primary": false,
+    "name": ", Hanfthal, Laa an der Thaya"
+  },
+  {
+    "lat": 48.70376,
+    "lon": 16.3628,
+    "primary": false,
+    "name": "Hintaus, Hanfthal, Laa an der Thaya"
+  },
+  {
+    "lat": 48.69926,
+    "lon": 16.36106,
+    "primary": false,
+    "name": "Hintere Zeile, Hanfthal, Laa an der Thaya"
+  },
+  {
+    "lat": 48.7025,
+    "lon": 16.45803,
+    "primary": false,
+    "name": ", Kottingneusiedl, Laa an der Thaya"
+  },
+  {
+    "lat": 48.72285,
+    "lon": 16.40823,
+    "primary": false,
+    "name": "Kellerweg, Laa an der Thaya, Laa an der Thaya"
+  },
+  {
+    "lat": 48.67423,
+    "lon": 16.40965,
+    "primary": false,
+    "name": "Fallbacher Straße, Ungerndorf, Laa an der Thaya"
+  },
+  {
+    "lat": 48.73628,
+    "lon": 16.28566,
+    "primary": false,
+    "name": "Schatz, Pernhofen, Laa an der Thaya"
+  },
+  {
+    "lat": 48.53753,
+    "lon": 16.45576,
+    "primary": false,
+    "name": "Am Mühlberg, Eggersdorf, Ladendorf"
+  },
+  {
+    "lat": 48.53554,
+    "lon": 16.45718,
+    "primary": false,
+    "name": "hinterm Dorf, Eggersdorf, Ladendorf"
+  },
+  {
+    "lat": 48.54755,
+    "lon": 16.46618,
+    "primary": false,
+    "name": "Kellergasse, Garmanns, Ladendorf"
+  },
+  {
+    "lat": 48.55352,
+    "lon": 16.44383,
+    "primary": false,
+    "name": "Kellergasse, Grafensulz, Ladendorf"
+  },
+  {
+    "lat": 48.55199,
+    "lon": 16.44827,
+    "primary": false,
+    "name": "nächst Grafensulz 70, Grafensulz, Ladendorf"
+  },
+  {
+    "lat": 48.5259,
+    "lon": 16.44422,
+    "primary": false,
+    "name": "Hühnerberg / Bei der Kirche, Herrnleis, Ladendorf"
+  },
+  {
+    "lat": 48.52626,
+    "lon": 16.44645,
+    "primary": false,
+    "name": "Kellergasse, Herrnleis, Ladendorf"
+  },
+  {
+    "lat": 48.53178,
+    "lon": 16.49337,
+    "primary": false,
+    "name": "Kellerplatzl / Leopoldstadt, Wiener Weg, Ladendorf, Ladendorf"
+  },
+  {
+    "lat": 48.53551,
+    "lon": 16.48413,
+    "primary": false,
+    "name": "Sätzeln I / Am Berg, Ladendorf, Ladendorf"
+  },
+  {
+    "lat": 48.53411,
+    "lon": 16.47763,
+    "primary": false,
+    "name": "Sätzeln II / Eggersdorfer Weg, Ladendorf, Ladendorf"
+  },
+  {
+    "lat": 48.53127,
+    "lon": 16.48025,
+    "primary": false,
+    "name": "Kellerschipfl / Obere Kellergasse, Ladendorf, Ladendorf"
+  },
+  {
+    "lat": 48.53735,
+    "lon": 16.49373,
+    "primary": false,
+    "name": "Kirchbergen / Untere Kellergasse, Ladendorf, Ladendorf"
+  },
+  {
+    "lat": 48.53087,
+    "lon": 16.48466,
+    "primary": false,
+    "name": "Feldgasse, Ladendorf, Ladendorf"
+  },
+  {
+    "lat": 48.49716,
+    "lon": 16.51714,
+    "primary": false,
+    "name": "Kellerplatz / Kellergasse, Waldelweg, Neubau, Ladendorf"
+  },
+  {
+    "lat": 48.50375,
+    "lon": 16.51779,
+    "primary": false,
+    "name": "Ladendorfer Straße, Neubau, Ladendorf"
+  },
+  {
+    "lat": 48.503,
+    "lon": 16.52239,
+    "primary": false,
+    "name": "Stockartfeld / Paasdorfer Straße, Neubau, Ladendorf"
+  },
+  {
+    "lat": 48.52913,
+    "lon": 16.42484,
+    "primary": false,
+    "name": "Bei der Kirche, Pürstendorf, Ladendorf"
+  },
+  {
+    "lat": 48.47894,
+    "lon": 16.47521,
+    "primary": false,
+    "name": "Berggasse / Lindengasse, Niederkreuzstetten, Kreuzstetten"
+  },
+  {
+    "lat": 48.48157,
+    "lon": 16.47588,
+    "primary": false,
+    "name": "Brunnengasse / Am Teichfeld, Niederkreuzstetten, Kreuzstetten"
+  },
+  {
+    "lat": 48.47856,
+    "lon": 16.46886,
+    "primary": false,
+    "name": "Lüßweg, Niederkreuzstetten, Kreuzstetten"
+  },
+  {
+    "lat": 48.4756,
+    "lon": 16.47602,
+    "primary": false,
+    "name": "Wiener Straße, Niederkreuzstetten, Kreuzstetten"
+  },
+  {
+    "lat": 48.48632,
+    "lon": 16.4535,
+    "primary": false,
+    "name": "Burleiten, Oberkreuzstetten, Kreuzstetten"
+  },
+  {
+    "lat": 48.48276,
+    "lon": 16.4482,
+    "primary": false,
+    "name": "Hochreithgasse, Oberkreuzstetten, Kreuzstetten"
+  },
+  {
+    "lat": 48.47931,
+    "lon": 16.45136,
+    "primary": false,
+    "name": ", Oberkreuzstetten, Kreuzstetten"
+  },
+  {
+    "lat": 48.48983,
+    "lon": 16.44741,
+    "primary": false,
+    "name": "Schottenfeld, Oberkreuzstetten, Kreuzstetten"
+  },
+  {
+    "lat": 48.48493,
+    "lon": 16.50396,
+    "primary": false,
+    "name": "Kellergasse, Streifing, Kreuzstetten"
+  },
+  {
+    "lat": 48.48285,
+    "lon": 16.50284,
+    "primary": false,
+    "name": "Kreuzstettner Weg, Streifing, Kreuzstetten"
+  },
+  {
+    "lat": 48.45062,
+    "lon": 16.49279,
+    "primary": false,
+    "name": "Bahnstraße / Kellergasse, Hautzendorf, Kreuttal"
+  },
+  {
+    "lat": 48.45213,
+    "lon": 16.4906,
+    "primary": false,
+    "name": ", Hautzendorf, Kreuttal"
+  },
+  {
+    "lat": 48.46634,
+    "lon": 16.44844,
+    "primary": false,
+    "name": "Kellergasse, Hornsburg, Kreuttal"
+  },
+  {
+    "lat": 48.43315,
+    "lon": 16.48237,
+    "primary": false,
+    "name": "Hauptstraße (Kreuttalstraße), Unterolberndorf, Kreuttal"
+  },
+  {
+    "lat": 48.43171,
+    "lon": 16.47492,
+    "primary": false,
+    "name": "Birkenweg (1. Kellergasse), Unterolberndorf, Kreuttal"
+  },
+  {
+    "lat": 48.43032,
+    "lon": 16.4757,
+    "primary": false,
+    "name": "2. Kellergasse, Unterolberndorf, Kreuttal"
+  },
+  {
+    "lat": 48.42874,
+    "lon": 16.47636,
+    "primary": false,
+    "name": "3. Kellergasse (In der Sonnleiten), Unterolberndorf, Kreuttal"
+  },
+  {
+    "lat": 48.43716,
+    "lon": 16.47756,
+    "primary": false,
+    "name": "Kellergasse (In Rosenbergen), Unterolberndorf, Kreuttal"
+  },
+  {
+    "lat": 48.4674,
+    "lon": 16.52226,
+    "primary": false,
+    "name": "Im Oberen Kreuth, Bogenneusiedl, Hochleithen"
+  },
+  {
+    "lat": 48.44073,
+    "lon": 16.51617,
+    "primary": false,
+    "name": "Hintaus, Traunfeld, Hochleithen"
+  },
+  {
+    "lat": 48.4433,
+    "lon": 16.5148,
+    "primary": false,
+    "name": "Kellergasse, Traunfeld, Hochleithen"
+  },
+  {
+    "lat": 48.44271,
+    "lon": 16.52212,
+    "primary": false,
+    "name": "Lindenberg (Lenaberg), Traunfeld, Hochleithen"
+  },
+  {
+    "lat": 48.44918,
+    "lon": 16.52277,
+    "primary": false,
+    "name": "Grasingerweg, Traunfeld, Wolfpassing an der Hochleithen, Hochleithen"
+  },
+  {
+    "lat": 48.45224,
+    "lon": 16.52855,
+    "primary": false,
+    "name": "Obere Kellergasse und Untere Kellergasse (Kellergasse I), Wolfpassing an der Hochleithen, Hochleithen"
+  },
+  {
+    "lat": 48.45334,
+    "lon": 16.53067,
+    "primary": false,
+    "name": "Mühlstraße (Kellergasse II), Wolfpassing an der Hochleithen, Hochleithen"
+  },
+  {
+    "lat": 48.63164,
+    "lon": 16.82568,
+    "primary": false,
+    "name": "Hohlweg, Kellergasse, Edenberg, Hausbrunn, Hausbrunn"
+  },
+  {
+    "lat": 48.63026,
+    "lon": 16.82979,
+    "primary": false,
+    "name": "Kirchberg, Hausbrunn, Hausbrunn"
+  },
+  {
+    "lat": 48.62404,
+    "lon": 16.83475,
+    "primary": false,
+    "name": "Rabensburger Straße, Hausbrunn, Hausbrunn"
+  },
+  {
+    "lat": 48.63001,
+    "lon": 16.82218,
+    "primary": false,
+    "name": "Spanndau, Hausbrunn, Hausbrunn"
+  },
+  {
+    "lat": 48.41761,
+    "lon": 16.62561,
+    "primary": false,
+    "name": "Zeisselthal, Groß-Schweinbarth, Groß-Schweinbarth"
+  },
+  {
+    "lat": 48.41523,
+    "lon": 16.62884,
+    "primary": false,
+    "name": "Am Königsberg, Hochleitengasse, Groß-Schweinbarth, Groß-Schweinbarth"
+  },
+  {
+    "lat": 48.41281,
+    "lon": 16.63374,
+    "primary": false,
+    "name": "Meierhofgasse, Hofkeller, Groß-Schweinbarth, Groß-Schweinbarth"
+  },
+  {
+    "lat": 48.41023,
+    "lon": 16.63448,
+    "primary": false,
+    "name": "Mühlschüttel, Groß-Schweinbarth, Groß-Schweinbarth"
+  },
+  {
+    "lat": 48.6116,
+    "lon": 16.76025,
+    "primary": false,
+    "name": "Kellergasse, Hauskirchen, Hauskirchen"
+  },
+  {
+    "lat": 48.59565,
+    "lon": 16.71271,
+    "primary": false,
+    "name": "Am Ringerberg, Prinzendorf, Hauskirchen"
+  },
+  {
+    "lat": 48.59443,
+    "lon": 16.73117,
+    "primary": false,
+    "name": "Steinberg, Prinzendorf, Hauskirchen"
+  },
+  {
+    "lat": 48.59508,
+    "lon": 16.7188,
+    "primary": false,
+    "name": "Zistersdorfer Straße, Prinzendorf, Hauskirchen"
+  },
+  {
+    "lat": 48.60433,
+    "lon": 16.71597,
+    "primary": false,
+    "name": "Hintaus, Rannersdorf an der Zaya, Hauskirchen"
+  },
+  {
+    "lat": 48.60495,
+    "lon": 16.71074,
+    "primary": false,
+    "name": "Scheibenbergstraße, Rannersdorf an der Zaya, Hauskirchen"
+  },
+  {
+    "lat": 48.46084,
+    "lon": 16.6534,
+    "primary": false,
+    "name": "Kellergasse, Hohenruppersdorf, Hohenruppersdorf"
+  },
+  {
+    "lat": 48.45903,
+    "lon": 16.66096,
+    "primary": false,
+    "name": "Matzner Straße (Obere Hauptstraße), Hohenruppersdorf, Hohenruppersdorf"
+  },
+  {
+    "lat": 48.46066,
+    "lon": 16.64758,
+    "primary": false,
+    "name": "Wiener Straße, Hohenruppersdorf, Hohenruppersdorf"
+  },
+  {
+    "lat": 48.50279,
+    "lon": 16.86372,
+    "primary": false,
+    "name": "Gießhübel (Am Hoadl), Jedenspeigen, Jedenspeigen"
+  },
+  {
+    "lat": 48.50158,
+    "lon": 16.87075,
+    "primary": false,
+    "name": "Hundsberg (Kellerberg), Jedenspeigen, Jedenspeigen"
+  },
+  {
+    "lat": 48.5117,
+    "lon": 16.8832,
+    "primary": false,
+    "name": "Kellergasse, Sierndorf an der March, Jedenspeigen"
+  },
+  {
+    "lat": 48.61357,
+    "lon": 16.89519,
+    "primary": false,
+    "name": "Kellerberg, Kapellenweg, Adamstal, Hohenau an der March, Hohenau an der March"
+  },
+  {
+    "lat": 47.9425406,
+    "lon": 16.5736985,
+    "primary": false,
+    "name": "Kellergasse, Hof am Leithaberge"
+  },
+  {
+    "lat": 48.54854,
+    "lon": 15.81563,
+    "primary": false,
+    "name": "Kellergasse Baierdorf, Baierdorf, Ravelsbach"
+  },
+  {
+    "lat": 48.54548,
+    "lon": 15.81733,
+    "primary": false,
+    "name": ", Baierdorf, Ravelsbach"
+  },
+  {
+    "lat": 48.556,
+    "lon": 15.8723,
+    "primary": false,
+    "name": "Haltergraben / Beim Kreuz, Gaindorf, Ravelsbach"
+  },
+  {
+    "lat": 48.549955,
+    "lon": 15.869141,
+    "primary": false,
+    "name": "Schmidgraben, Gaindorf, Ravelsbach"
+  },
+  {
+    "lat": 48.554163,
+    "lon": 15.873911,
+    "primary": false,
+    "name": "Bahnstraße, Gaindorf, Ravelsbach"
+  },
+  {
+    "lat": 48.5564,
+    "lon": 15.8632,
+    "primary": false,
+    "name": "Veigelberg, Gaindorf, Ravelsbach"
+  },
+  {
+    "lat": 48.55213,
+    "lon": 15.85788,
+    "primary": false,
+    "name": "Fliegentanz, Gaindorf, Ravelsbach"
+  },
+  {
+    "lat": 48.553157,
+    "lon": 15.896368,
+    "primary": false,
+    "name": "Wiesbergkellergasse, Minichhofen, Ravelsbach"
+  },
+  {
+    "lat": 48.559614,
+    "lon": 15.900135,
+    "primary": false,
+    "name": "Sitzendorfer Kellergasse, Minichhofen, Ravelsbach"
+  },
+  {
+    "lat": 48.54963,
+    "lon": 15.829235,
+    "primary": false,
+    "name": "Herrengasse, Kellergasse Oberravelsbach, Oberravelsbach, Ravelsbach"
+  },
+  {
+    "lat": 48.5497,
+    "lon": 15.82626,
+    "primary": false,
+    "name": "Saugasse, Oberravelsbach, Ravelsbach"
+  },
+  {
+    "lat": 48.55112,
+    "lon": 15.82975,
+    "primary": false,
+    "name": ", Oberravelsbach, Ravelsbach"
+  },
+  {
+    "lat": 48.5475,
+    "lon": 15.82705,
+    "primary": false,
+    "name": ", Oberravelsbach, Ravelsbach"
+  },
+  {
+    "lat": 48.55468,
+    "lon": 15.8168,
+    "primary": false,
+    "name": "Kellergasse Wilhelmsdorf, Oberravelsbach, Ravelsbach"
+  },
+  {
+    "lat": 48.5721,
+    "lon": 15.8517,
+    "primary": false,
+    "name": "Kellergasse Parisdorf, Parisdorf, Ravelsbach"
+  },
+  {
+    "lat": 48.57123,
+    "lon": 15.85424,
+    "primary": false,
+    "name": "Berg, Parisdorf, Ravelsbach"
+  },
+  {
+    "lat": 48.5306,
+    "lon": 15.8427,
+    "primary": false,
+    "name": "Haltergraben, Kellergasse, Pfaffstetten, Ravelsbach"
+  },
+  {
+    "lat": 48.52702,
+    "lon": 15.84796,
+    "primary": false,
+    "name": "Timmelgraben, Wartgasse, Pfaffstetten, Ravelsbach"
+  },
+  {
+    "lat": 48.52731,
+    "lon": 15.84636,
+    "primary": false,
+    "name": ", Pfaffstetten, Ravelsbach"
+  },
+  {
+    "lat": 48.52718,
+    "lon": 15.85013,
+    "primary": false,
+    "name": "Ebersbrunner Straße, Pfaffstetten, Ravelsbach"
+  },
+  {
+    "lat": 48.52881,
+    "lon": 15.85329,
+    "primary": false,
+    "name": "Richtung Wiesberg, Pfaffstetten, Ravelsbach"
+  },
+  {
+    "lat": 48.5314,
+    "lon": 15.85186,
+    "primary": false,
+    "name": "Großmeiseldorfer Straße, Pfaffstetten, Ravelsbach"
+  },
+  {
+    "lat": 48.55251,
+    "lon": 15.85344,
+    "primary": false,
+    "name": "Bahnstraße, Ravelsbach, Ravelsbach"
+  },
+  {
+    "lat": 48.5489,
+    "lon": 15.85445,
+    "primary": false,
+    "name": "Kellergasse Ravelsbach (beim Friedhof), Ravelsbach, Ravelsbach"
+  },
+  {
+    "lat": 48.547,
+    "lon": 15.85471,
+    "primary": false,
+    "name": "Kremser Straße, Ravelsbach, Ravelsbach"
+  },
+  {
+    "lat": 48.7007,
+    "lon": 15.8547,
+    "primary": false,
+    "name": "Kellergasse Groß-Reipersdorf, An der Bundesstraße, Groß-Reipersdorf, Pulkau"
+  },
+  {
+    "lat": 48.6994,
+    "lon": 15.85415,
+    "primary": false,
+    "name": "Hintaus, Groß-Reipersdorf, Pulkau"
+  },
+  {
+    "lat": 48.719,
+    "lon": 15.8603,
+    "primary": false,
+    "name": "Kellergasse Leodagger, Lüsse, Leodagger, Pulkau"
+  },
+  {
+    "lat": 48.71641,
+    "lon": 15.84911,
+    "primary": false,
+    "name": "An der Weitersfelder Straße, Pulkau, Pulkau"
+  },
+  {
+    "lat": 48.70244,
+    "lon": 15.85526,
+    "primary": false,
+    "name": "Am Berg, Pulkau, Pulkau"
+  },
+  {
+    "lat": 48.70318,
+    "lon": 15.87106,
+    "primary": false,
+    "name": "Hauptstraße, Pulkau, Pulkau"
+  },
+  {
+    "lat": 48.7095,
+    "lon": 15.85976,
+    "primary": false,
+    "name": "Kirchengasse, Pulkau, Pulkau"
+  },
+  {
+    "lat": 48.70137,
+    "lon": 15.864309,
+    "primary": false,
+    "name": "Kellergasse Landstraße, Pulkau, Pulkau"
+  },
+  {
+    "lat": 48.70574,
+    "lon": 15.86641,
+    "primary": false,
+    "name": "Retzer Weg, Pulkau, Pulkau"
+  },
+  {
+    "lat": 48.70711,
+    "lon": 15.85201,
+    "primary": false,
+    "name": "Rosenweg, Pulkau, Pulkau"
+  },
+  {
+    "lat": 48.69401,
+    "lon": 15.83515,
+    "primary": false,
+    "name": "Kellergasse Richtung Groß-Reipersdorf, Rafing, Pulkau"
+  },
+  {
+    "lat": 48.70254,
+    "lon": 15.83588,
+    "primary": false,
+    "name": "Kellergasse bei der Bründlkapelle, Rafing, Pulkau"
+  },
+  {
+    "lat": 48.6968,
+    "lon": 15.8256,
+    "primary": false,
+    "name": "Kellergasse im Ort, Rafing, Pulkau"
+  },
+  {
+    "lat": 48.69699,
+    "lon": 15.89952,
+    "primary": false,
+    "name": "Dietmannsdorfer Straße, Rohrendorf, Pulkau"
+  },
+  {
+    "lat": 48.69724,
+    "lon": 15.89642,
+    "primary": false,
+    "name": "Parallel zur Dietmannsdorfer Straße, Rohrendorf, Pulkau"
+  },
+  {
+    "lat": 48.6969,
+    "lon": 15.88784,
+    "primary": false,
+    "name": "Südliches Hintaus, Rohrendorf, Pulkau"
+  },
+  {
+    "lat": 48.70034,
+    "lon": 15.89369,
+    "primary": false,
+    "name": "Schmalzberg, Rohrendorf, Pulkau"
+  },
+  {
+    "lat": 48.75742,
+    "lon": 15.95053,
+    "primary": false,
+    "name": "Kellermuseum"
+  },
+  {
+    "lat": 48.74425,
+    "lon": 15.93604,
+    "primary": false,
+    "name": "Schredlkeller"
+  },
+  {
+    "lat": 48.77634,
+    "lon": 15.91118,
+    "primary": false,
+    "name": "Kellerviertel Hofern, Hofern, Retz"
+  },
+  {
+    "lat": 48.747031,
+    "lon": 15.998239,
+    "primary": false,
+    "name": "Kellergasse Kleinhöflein, Kleinhöflein, Retz"
+  },
+  {
+    "lat": 48.74716,
+    "lon": 16.00854,
+    "primary": false,
+    "name": "Senkeltrift, Beim Friedhof, Kleinhöflein, Retz"
+  },
+  {
+    "lat": 48.740452,
+    "lon": 16.020164,
+    "primary": false,
+    "name": "Kellergasse Kleinriedenthal, Kleinriedenthal, Retz"
+  },
+  {
+    "lat": 48.74542,
+    "lon": 16.02331,
+    "primary": false,
+    "name": "Nördliches Radial, Kleinriedenthal, Retz"
+  },
+  {
+    "lat": 48.74447,
+    "lon": 16.02505,
+    "primary": false,
+    "name": "Nördliches Hintaus, Kleinriedenthal, Retz"
+  },
+  {
+    "lat": 48.746096,
+    "lon": 15.926108,
+    "primary": false,
+    "name": "Kellergasse Thalen, Obernalb, Retz"
+  },
+  {
+    "lat": 48.75016,
+    "lon": 15.93964,
+    "primary": false,
+    "name": "Kellergasse Dingelacker, Obernalb, Retz"
+  },
+  {
+    "lat": 48.74509,
+    "lon": 15.93369,
+    "primary": false,
+    "name": "Kellergasse Richtung Obermarkersdorf, Obernalb, Retz"
+  },
+  {
+    "lat": 48.74076,
+    "lon": 15.93574,
+    "primary": false,
+    "name": "Schrattenthaler Straße, Obernalb, Retz"
+  },
+  {
+    "lat": 48.74737,
+    "lon": 15.94736,
+    "primary": false,
+    "name": "Urtel Kellergasse, Obernalb, Retz"
+  },
+  {
+    "lat": 48.75895,
+    "lon": 15.94851,
+    "primary": false,
+    "name": "Kellergasse Windmühlgasse, Retz Altstadt, Retz"
+  },
+  {
+    "lat": 48.768249,
+    "lon": 15.953725,
+    "primary": false,
+    "name": "Kirchberggasse, Retz Altstadt, Retz"
+  },
+  {
+    "lat": 48.76863,
+    "lon": 15.96339,
+    "primary": false,
+    "name": "Znaimerstraße - Schußbergmarter, Retz Altstadt, Retz"
+  },
+  {
+    "lat": 48.76474,
+    "lon": 15.95638,
+    "primary": false,
+    "name": "Znaimerstraße - Freudentalmarter, Retz Altstadt, Retz"
+  },
+  {
+    "lat": 48.74611,
+    "lon": 15.9532,
+    "primary": false,
+    "name": "Kellergasse Retzer Straße, Unternalb, Retz"
+  },
+  {
+    "lat": 48.74487,
+    "lon": 15.95242,
+    "primary": false,
+    "name": "Urtel Kellergasse, Unternalb, Retz"
+  },
+  {
+    "lat": 48.74542,
+    "lon": 15.95521,
+    "primary": false,
+    "name": "Hohlweg, Unternalb, Retz"
+  },
+  {
+    "lat": 48.74105,
+    "lon": 15.95056,
+    "primary": false,
+    "name": "Beim Friedhof, Unternalb, Retz"
+  },
+  {
+    "lat": 48.675596,
+    "lon": 15.835092,
+    "primary": false,
+    "name": "Kellergasse Klein-Jetzelsdorf, Klein-Jetzelsdorf, Röschitz"
+  },
+  {
+    "lat": 48.64939,
+    "lon": 15.884278,
+    "primary": false,
+    "name": "Kellergasse Klein-Reinprechtsdorf, Klein-Reinprechtsdorf, Röschitz"
+  },
+  {
+    "lat": 48.64862,
+    "lon": 15.88832,
+    "primary": false,
+    "name": ", Klein-Reinprechtsdorf, Röschitz"
+  },
+  {
+    "lat": 48.669903,
+    "lon": 15.84933,
+    "primary": false,
+    "name": "Kellergasse Roggendorf, Roggendorf, Röschitz"
+  },
+  {
+    "lat": 48.666029,
+    "lon": 15.879022,
+    "primary": false,
+    "name": "Marktweg Kellergasse, Röschitz, Röschitz"
+  },
+  {
+    "lat": 48.667605,
+    "lon": 15.880759,
+    "primary": false,
+    "name": "Veltlinergasse, Röschitz, Röschitz"
+  },
+  {
+    "lat": 48.668405,
+    "lon": 15.878186,
+    "primary": false,
+    "name": "Feuerkogel Kellergasse, Röschitz, Röschitz"
+  },
+  {
+    "lat": 48.667166,
+    "lon": 15.894397,
+    "primary": false,
+    "name": "Kellergasse Pulkauer Straße / Lehmgstetten, Röschitz, Röschitz"
+  },
+  {
+    "lat": 48.748643,
+    "lon": 15.889906,
+    "primary": false,
+    "name": "Kellergasse Mühle, Obermarkersdorf, Schrattenthal"
+  },
+  {
+    "lat": 48.754561,
+    "lon": 15.893631,
+    "primary": false,
+    "name": "Kellergasse Rosenau, Obermarkersdorf, Schrattenthal"
+  },
+  {
+    "lat": 48.755968,
+    "lon": 15.893237,
+    "primary": false,
+    "name": "Kellergasse Sandweg, Obermarkersdorf, Schrattenthal"
+  },
+  {
+    "lat": 48.716309,
+    "lon": 15.909962,
+    "primary": false,
+    "name": "Stadtgraben, Schrattenthal, Schrattenthal"
+  },
+  {
+    "lat": 48.708212,
+    "lon": 15.912672,
+    "primary": false,
+    "name": "Kellergasse Hannel-Mühle, Schrattenthal, Schrattenthal"
+  },
+  {
+    "lat": 48.738319,
+    "lon": 15.871495,
+    "primary": false,
+    "name": "Kellergasse Waitzendorf, Waitzendorf, Schrattenthal"
+  },
+  {
+    "lat": 48.75133,
+    "lon": 16.57848,
+    "primary": false,
+    "name": "\"Beim Sportplatz\", Ottenthal, Ottenthal"
+  },
+  {
+    "lat": 48.76357,
+    "lon": 16.57723,
+    "primary": false,
+    "name": "\"Hintaus nördlicher Teil\", Ottenthal, Ottenthal"
+  },
+  {
+    "lat": 48.75441,
+    "lon": 16.57714,
+    "primary": false,
+    "name": "\"Hintaus südlicher Teil\", Ottenthal, Ottenthal"
+  },
+  {
+    "lat": 48.76109,
+    "lon": 16.57635,
+    "primary": false,
+    "name": "\"Pottenhofener Straße\", Ottenthal, Ottenthal"
+  },
+  {
+    "lat": 48.08736,
+    "lon": 16.98273,
+    "primary": false,
+    "name": "Kellergasse, Prellenkirchen, Prellenkirchen"
+  },
+  {
+    "lat": 48.19986,
+    "lon": 15.51489,
+    "primary": false,
+    "name": "Weinbergstraße, Prinzersdorf, Prinzersdorf"
+  },
+  {
+    "lat": 48.3875,
+    "lon": 16.74375,
+    "primary": false,
+    "name": "Kellergasse/Ebenthalerstraße (Friedhof), Prottes, Prottes"
+  },
+  {
+    "lat": 48.3934,
+    "lon": 16.74065,
+    "primary": false,
+    "name": "Kleinprottes, Prottes, Prottes"
+  },
+  {
+    "lat": 48.00066,
+    "lon": 16.52068,
+    "primary": false,
+    "name": "Goldbergweg, Reisenberg, Reisenberg"
+  },
+  {
+    "lat": 48.000992,
+    "lon": 16.526464,
+    "primary": false,
+    "name": "Kellergasse/Weinbergweg, Reisenberg, Reisenberg"
+  },
+  {
+    "lat": 48.78133,
+    "lon": 15.97937,
+    "primary": false,
+    "name": "\"Hintaus\", Mitterretzbach, Retzbach"
+  },
+  {
+    "lat": 48.78075,
+    "lon": 15.98414,
+    "primary": false,
+    "name": "Gstößen, Mitterretzbach, Retzbach"
+  },
+  {
+    "lat": 48.785599,
+    "lon": 15.972298,
+    "primary": false,
+    "name": "Kaffeegasse (beim Friedhof), Mitterretzbach, Retzbach"
+  },
+  {
+    "lat": 48.78601,
+    "lon": 15.96819,
+    "primary": false,
+    "name": "\"Niederfladnitzer Straße\", Oberretzbach, Retzbach"
+  },
+  {
+    "lat": 48.78234,
+    "lon": 15.97157,
+    "primary": false,
+    "name": "Waldstraße, Oberretzbach, Retzbach"
+  },
+  {
+    "lat": 48.76577,
+    "lon": 15.98927,
+    "primary": false,
+    "name": "\"Retzer Marter\", Unterretzbach, Retzbach"
+  },
+  {
+    "lat": 48.76881,
+    "lon": 16.00507,
+    "primary": false,
+    "name": "Hiartaweg/Unterer Mühlweg, Unterretzbach, Retzbach"
+  },
+  {
+    "lat": 48.76463,
+    "lon": 16.00999,
+    "primary": false,
+    "name": "Krummer Weg, Unterretzbach, Retzbach"
+  },
+  {
+    "lat": 48.76748,
+    "lon": 16.01162,
+    "primary": false,
+    "name": "Wura, Unterretzbach, Retzbach"
+  },
+  {
+    "lat": 48.55961,
+    "lon": 16.84676,
+    "primary": false,
+    "name": "\"Bei der Ziegelei\", Niederabsdorf, Ringelsdorf-Niederabsdorf"
+  },
+  {
+    "lat": 48.56076,
+    "lon": 16.85044,
+    "primary": false,
+    "name": "beim Lagerhaus, Niederabsdorf, Ringelsdorf-Niederabsdorf"
+  },
+  {
+    "lat": 48.56933,
+    "lon": 16.85289,
+    "primary": false,
+    "name": "Alte Meierhofgasse, Niederabsdorf, Ringelsdorf-Niederabsdorf"
+  },
+  {
+    "lat": 48.5657,
+    "lon": 16.84124,
+    "primary": false,
+    "name": "Alte Ried, Niederabsdorf, Ringelsdorf-Niederabsdorf"
+  },
+  {
+    "lat": 48.5631,
+    "lon": 16.85397,
+    "primary": false,
+    "name": "Prater, Niederabsdorf, Ringelsdorf-Niederabsdorf"
+  },
+  {
+    "lat": 48.56116,
+    "lon": 16.8728,
+    "primary": false,
+    "name": "\"Beim Meierhof\", Ringelsdorf, Ringelsdorf-Niederabsdorf"
+  },
+  {
+    "lat": 48.07167,
+    "lon": 16.89069,
+    "primary": false,
+    "name": "Kellergasse bei Hollern"
+  },
+  {
+    "lat": 48.04673,
+    "lon": 16.83157,
+    "primary": false,
+    "name": "\"Brucker Straße\", Pachfurth, Rohrau"
+  },
+  {
+    "lat": 48.43167,
+    "lon": 15.67219,
+    "primary": false,
+    "name": "Marchgasse"
+  },
+  {
+    "lat": 48.43131,
+    "lon": 15.66317,
+    "primary": false,
+    "name": "Lindobelgasse, Oberrohrendorf, Unterrohrendorf, Rohrendorf bei Krems"
+  },
+  {
+    "lat": 48.42351,
+    "lon": 15.65497,
+    "primary": false,
+    "name": "Obere Wienerstraße, Oberrohrendorf, Rohrendorf bei Krems"
+  },
+  {
+    "lat": 48.42759,
+    "lon": 15.66405,
+    "primary": false,
+    "name": "Lenz-Moser-Weg, Unterrohrendorf, Rohrendorf bei Krems"
+  },
+  {
+    "lat": 48.648,
+    "lon": 15.6977,
+    "primary": false,
+    "name": "\"Kellerweg\", Mold, Rosenburg-Mold"
+  },
+  {
+    "lat": 48.61806,
+    "lon": 15.72205,
+    "primary": false,
+    "name": "\"Kellergasse\", Mörtersdorf, Rosenburg-Mold"
+  },
+  {
+    "lat": 48.393382,
+    "lon": 15.509173,
+    "primary": false,
+    "name": "\"Rossatzbacher Straße\", Rossatz, Rossatz-Arnsdorf"
+  },
+  {
+    "lat": 48.396643,
+    "lon": 15.486728,
+    "primary": false,
+    "name": "\"Bundesstraße\", Rührsdorf, Rossatz-Arnsdorf"
+  },
+  {
+    "lat": 48.45745,
+    "lon": 16.03538,
+    "primary": false,
+    "name": "\"Bei der Oberrußbacher Straße\", Niederrußbach, Rußbach"
+  },
+  {
+    "lat": 48.4496,
+    "lon": 16.04229,
+    "primary": false,
+    "name": "Kellergasse/Lehm (bei der Kirche), Niederrußbach, Rußbach"
+  },
+  {
+    "lat": 48.47258,
+    "lon": 16.04769,
+    "primary": false,
+    "name": ", Oberrußbach, Rußbach"
+  },
+  {
+    "lat": 48.45007,
+    "lon": 16.08387,
+    "primary": false,
+    "name": "Bachgasse, Stranzendorf, Rußbach"
+  },
+  {
+    "lat": 48.44908,
+    "lon": 16.08149,
+    "primary": false,
+    "name": "Fliederweg, Stranzendorf, Rußbach"
+  },
+  {
+    "lat": 48.45298,
+    "lon": 16.07925,
+    "primary": false,
+    "name": "Pfarrgasse, Stranzendorf, Rußbach"
+  },
+  {
+    "lat": 48.45507,
+    "lon": 16.07826,
+    "primary": false,
+    "name": "Kellergasse (bei der Kirche), Stranzendorf, Rußbach"
+  },
+  {
+    "lat": 48.09451,
+    "lon": 16.79522,
+    "primary": false,
+    "name": "Kellergasse, Scharndorf, Scharndorf"
+  },
+  {
+    "lat": 48.722411,
+    "lon": 16.719172,
+    "primary": false,
+    "name": "Bindergasse, Schrattenberg, Schrattenberg"
+  },
+  {
+    "lat": 48.728787,
+    "lon": 16.71671,
+    "primary": false,
+    "name": "Drittln/Neubau, Schrattenberg, Schrattenberg"
+  },
+  {
+    "lat": 48.729496,
+    "lon": 16.719681,
+    "primary": false,
+    "name": "Fürstenweg, Schrattenberg, Schrattenberg"
+  },
+  {
+    "lat": 48.7254,
+    "lon": 16.71589,
+    "primary": false,
+    "name": "Mohrberg, Schrattenberg, Schrattenberg"
+  },
+  {
+    "lat": 48.71926,
+    "lon": 16.713431,
+    "primary": false,
+    "name": "Trift/Burg/Dameln, Schrattenberg, Schrattenberg"
+  },
+  {
+    "lat": 48.07698,
+    "lon": 16.57755,
+    "primary": false,
+    "name": "Am Ziegelofen/Kellern/Weinberggasse, Schwadorf, Schwadorf"
+  },
+  {
+    "lat": 48.13748,
+    "lon": 16.4835,
+    "primary": false,
+    "name": "Am Kellerberg, Schwechat, Schwechat"
+  },
+  {
+    "lat": 48.5449,
+    "lon": 15.6871,
+    "primary": false,
+    "name": ", Altenhof, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.554,
+    "lon": 15.7065,
+    "primary": false,
+    "name": ", Fernitz, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.5658,
+    "lon": 15.7144,
+    "primary": false,
+    "name": "\"Beim Friedhof\", Freischling, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.5084,
+    "lon": 15.6765,
+    "primary": false,
+    "name": "Kremsthal, Mollands, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.5567,
+    "lon": 15.6663,
+    "primary": false,
+    "name": "\"Hintaus\", Oberplank, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.5593,
+    "lon": 15.6659,
+    "primary": false,
+    "name": "In der Lehmgrube, Oberplank, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.5587,
+    "lon": 15.6844,
+    "primary": false,
+    "name": "Kellergasse, Plank am Kamp, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.5174,
+    "lon": 15.6923,
+    "primary": false,
+    "name": "Kellergasse, Schönberg am Kamp, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.515,
+    "lon": 15.6916,
+    "primary": false,
+    "name": "Mollandserstraße/Bernthalweg, Schönberg am Kamp, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.5322,
+    "lon": 15.6846,
+    "primary": false,
+    "name": "\"Feldweg Richtung Reith\", Stiefern, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.5366,
+    "lon": 15.6857,
+    "primary": false,
+    "name": "\"Kellergasse\", Stiefern, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.5439,
+    "lon": 15.6566,
+    "primary": false,
+    "name": "\"Kellertrift\", Thürneustift, Schönberg am Kamp"
+  },
+  {
+    "lat": 48.37204,
+    "lon": 16.68422,
+    "primary": false,
+    "name": "Am Bergl (bei der Kirche), Reyersdorf, Schönkirchen-Reyersdorf"
+  },
+  {
+    "lat": 48.3741,
+    "lon": 16.68048,
+    "primary": false,
+    "name": "Hauptstraße, Reyersdorf, Schönkirchen-Reyersdorf"
+  },
+  {
+    "lat": 48.36308,
+    "lon": 16.6999,
+    "primary": false,
+    "name": "Kellergasse/Hans Wagner-Schönkirchstraße, Schönkirchen, Schönkirchen-Reyersdorf"
+  },
+  {
+    "lat": 48.36646,
+    "lon": 16.52947,
+    "primary": false,
+    "name": "\"Gegenüber Hofwiese\", Pillichsdorf, Pillichsdorf"
+  },
+  {
+    "lat": 48.3681,
+    "lon": 16.542568,
+    "primary": false,
+    "name": "Kellergasse, Pillichsdorf, Pillichsdorf"
+  },
+  {
+    "lat": 48.365835,
+    "lon": 16.545163,
+    "primary": false,
+    "name": "Untere Kellergasse, Pillichsdorf, Pillichsdorf"
+  },
+  {
+    "lat": 48.11685,
+    "lon": 16.86274,
+    "primary": false,
+    "name": "Langegasse, Petronell-Carnuntum, Petronell-Carnuntum"
+  },
+  {
+    "lat": 48.692529,
+    "lon": 16.554785,
+    "primary": false,
+    "name": "Kellerberg, Altruppersdorf, Poysdorf"
+  },
+  {
+    "lat": 48.691817,
+    "lon": 16.554486,
+    "primary": false,
+    "name": "Landaschluchtgasse, Altruppersdorf, Poysdorf"
+  },
+  {
+    "lat": 48.624696,
+    "lon": 16.643425,
+    "primary": false,
+    "name": "\"Bei der Herrengasse\", Erdberg, Poysdorf"
+  },
+  {
+    "lat": 48.626824,
+    "lon": 16.650509,
+    "primary": false,
+    "name": "Loamgstetten (\"Holzweg\"), Erdberg, Poysdorf"
+  },
+  {
+    "lat": 48.683482,
+    "lon": 16.560838,
+    "primary": false,
+    "name": "Kellerweg, Föllim, Poysdorf"
+  },
+  {
+    "lat": 48.676067,
+    "lon": 16.560163,
+    "primary": false,
+    "name": "Kuglerstraße, Föllim, Poysdorf"
+  },
+  {
+    "lat": 48.63909,
+    "lon": 16.64975,
+    "primary": false,
+    "name": "Geringen, Ketzelsdorf, Poysdorf"
+  },
+  {
+    "lat": 48.65768,
+    "lon": 16.58365,
+    "primary": false,
+    "name": "\"Bei den Schnellern Kellern\", Kleinhadersdorf, Poysdorf"
+  },
+  {
+    "lat": 48.67084,
+    "lon": 16.59259,
+    "primary": false,
+    "name": "Grundern, Kleinhadersdorf, Poysdorf"
+  },
+  {
+    "lat": 48.65683,
+    "lon": 16.58677,
+    "primary": false,
+    "name": "Schnellern Keller, Kleinhadersdorf, Poysdorf"
+  },
+  {
+    "lat": 48.714172,
+    "lon": 16.63411,
+    "primary": false,
+    "name": "\"Hauptstraße\", Poysbrunn, Poysdorf"
+  },
+  {
+    "lat": 48.714897,
+    "lon": 16.624407,
+    "primary": false,
+    "name": "Alleestraße, Poysbrunn, Poysdorf"
+  },
+  {
+    "lat": 48.71709,
+    "lon": 16.62028,
+    "primary": false,
+    "name": "Franzensberg, Poysbrunn, Poysdorf"
+  },
+  {
+    "lat": 48.722936,
+    "lon": 16.629725,
+    "primary": false,
+    "name": "Triftberg, Poysbrunn, Poysdorf"
+  },
+  {
+    "lat": 48.669387,
+    "lon": 16.624034,
+    "primary": false,
+    "name": "Berggasse, Poysdorf, Poysdorf"
+  },
+  {
+    "lat": 48.672501,
+    "lon": 16.629017,
+    "primary": false,
+    "name": "Brünnerstraße, Poysdorf, Poysdorf"
+  },
+  {
+    "lat": 48.67047,
+    "lon": 16.63341,
+    "primary": false,
+    "name": "Bürsting, Poysdorf, Poysdorf"
+  },
+  {
+    "lat": 48.671134,
+    "lon": 16.627609,
+    "primary": false,
+    "name": "Gstetten (bei der Kirche), Poysdorf, Poysdorf"
+  },
+  {
+    "lat": 48.66999,
+    "lon": 16.62832,
+    "primary": false,
+    "name": "Kirchengraben, Poysdorf, Poysdorf"
+  },
+  {
+    "lat": 48.674512,
+    "lon": 16.624146,
+    "primary": false,
+    "name": "Radyweg, Poysdorf, Poysdorf"
+  },
+  {
+    "lat": 48.670327,
+    "lon": 16.617013,
+    "primary": false,
+    "name": "Rösselberg, Poysdorf, Poysdorf"
+  },
+  {
+    "lat": 48.669079,
+    "lon": 16.634956,
+    "primary": false,
+    "name": "Singergasse, Poysdorf, Poysdorf"
+  },
+  {
+    "lat": 48.663784,
+    "lon": 16.671836,
+    "primary": false,
+    "name": "Am Neugebäude, Walterskirchen, Poysdorf"
+  },
+  {
+    "lat": 48.64689,
+    "lon": 16.62474,
+    "primary": false,
+    "name": "\"Kleine Kellergasse\", Wetzelsdorf, Poysdorf"
+  },
+  {
+    "lat": 48.647934,
+    "lon": 16.624324,
+    "primary": false,
+    "name": "Große Kellergasse, Wetzelsdorf, Poysdorf"
+  },
+  {
+    "lat": 48.64772,
+    "lon": 16.62845,
+    "primary": false,
+    "name": "Rennweg, Wetzelsdorf, Poysdorf"
+  },
+  {
+    "lat": 48.670239,
+    "lon": 16.608772,
+    "primary": false,
+    "name": "Folda, Wilhelmsdorf, Poysdorf"
+  },
+  {
+    "lat": 48.70035,
+    "lon": 16.0474,
+    "primary": false,
+    "name": "Kellertrift, Peigarten, Pernersdorf"
+  },
+  {
+    "lat": 48.70653,
+    "lon": 16.04078,
+    "primary": false,
+    "name": "Mühlgasse (beim Friedhof), Peigarten, Pernersdorf"
+  },
+  {
+    "lat": 48.69276,
+    "lon": 16.02256,
+    "primary": false,
+    "name": "\"Guntersdorfer Straße\", Pernersdorf, Pernersdorf"
+  },
+  {
+    "lat": 48.69939,
+    "lon": 16.01384,
+    "primary": false,
+    "name": "Kellergasse, Pernersdorf, Pernersdorf"
+  },
+  {
+    "lat": 48.70472,
+    "lon": 16.02695,
+    "primary": false,
+    "name": "Kellergasse, Pfaffendorf, Pernersdorf"
+  },
+  {
+    "lat": 48.34764,
+    "lon": 15.64402,
+    "primary": false,
+    "name": "Kellerweg, Höbenbach, Paudorf"
+  },
+  {
+    "lat": 48.60867,
+    "lon": 16.82574,
+    "primary": false,
+    "name": "\"Hausbrunner Straße\", Dobermannsdorf, Palterndorf-Dobermannsdorf"
+  },
+  {
+    "lat": 48.60775,
+    "lon": 16.81843,
+    "primary": false,
+    "name": "Kellergasse/Schillingried, Dobermannsdorf, Palterndorf-Dobermannsdorf"
+  },
+  {
+    "lat": 48.58851,
+    "lon": 16.81692,
+    "primary": false,
+    "name": "Kellergasse, Palterndorf, Palterndorf-Dobermannsdorf"
+  },
+  {
+    "lat": 48.58905,
+    "lon": 16.81483,
+    "primary": false,
+    "name": "Friedhofgasse/Teichgasse/Turmweg/Gartengasse, Palterndorf, Palterndorf-Dobermannsdorf"
+  },
+  {
+    "lat": 48.5614,
+    "lon": 16.5964,
+    "primary": false,
+    "name": "Ebendorfer Hauptstraße, Ebendorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5621,
+    "lon": 16.6036,
+    "primary": false,
+    "name": "Lindenberggasse, Ebendorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5957,
+    "lon": 16.6038,
+    "primary": false,
+    "name": "Am Schenkberg, Eibesthal, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5973,
+    "lon": 16.601,
+    "primary": false,
+    "name": "Marktweg / Neustift / Ohringergasse, Eibesthal, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.6075,
+    "lon": 16.6016,
+    "primary": false,
+    "name": "Oberort (auch Viehtrift genannt), Eibesthal, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.60134,
+    "lon": 16.5984,
+    "primary": false,
+    "name": "Pfandnerweg, Eibesthal, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.6442,
+    "lon": 16.4854,
+    "primary": false,
+    "name": "Hanselberg, Frättingsdorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.6403,
+    "lon": 16.4883,
+    "primary": false,
+    "name": "Holzleitenstraße, Frättingsdorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.6296,
+    "lon": 16.5169,
+    "primary": false,
+    "name": "Obere (Hörersdorfer) Kellergasse, Hörersdorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.6253,
+    "lon": 16.5155,
+    "primary": false,
+    "name": "Untere (Hörersdorfer) Kellergasse, Hörersdorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5675,
+    "lon": 16.5363,
+    "primary": false,
+    "name": "Lindenallee, Hüttendorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5654,
+    "lon": 16.5421,
+    "primary": false,
+    "name": "Obere (Hüttendorfer) Landstraße / Untere (Hüttendorfer) Landstraße, Hüttendorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5576,
+    "lon": 16.6585,
+    "primary": false,
+    "name": "beim Baumkreis, Kettlasbrunn, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5598,
+    "lon": 16.6545,
+    "primary": false,
+    "name": "beim Friedhof (Kettlasbrunn), Kettlasbrunn, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5568,
+    "lon": 16.5663,
+    "primary": false,
+    "name": "(Lanzendorfer) Hauptstraße, Lanzendorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5507,
+    "lon": 16.5757,
+    "primary": false,
+    "name": "(Lanzendorfer) Kellergasse, Lanzendorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5716,
+    "lon": 16.5759,
+    "primary": false,
+    "name": "Berggasse / Kellergasse, Mistelbach, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5747,
+    "lon": 16.5686,
+    "primary": false,
+    "name": "Franz-Josef-Straße, Mistelbach, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.575,
+    "lon": 16.5733,
+    "primary": false,
+    "name": "Winzerschulgasse, Mistelbach, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5443,
+    "lon": 16.5368,
+    "primary": false,
+    "name": "Karl-König-Straße, Paasdorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.541,
+    "lon": 16.5391,
+    "primary": false,
+    "name": "Kellerrundplatz, Paasdorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.53782,
+    "lon": 16.54581,
+    "primary": false,
+    "name": "Gutshofstraße, Paasdorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.53782,
+    "lon": 16.54581,
+    "primary": false,
+    "name": "Atzelsdorfer Straße, Ortsende, Paasdorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.54081,
+    "lon": 16.54566,
+    "primary": false,
+    "name": "südöstliches Hintaus, Paasdorf, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.611,
+    "lon": 16.5321,
+    "primary": false,
+    "name": "Bahnkellergasse, Siebenhirten, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.6086,
+    "lon": 16.5385,
+    "primary": false,
+    "name": "Hintausstraße (Siebenhirten), Siebenhirten, Mistelbach (Niederösterreich)"
+  },
+  {
+    "lat": 48.5547,
+    "lon": 15.8168,
+    "primary": false,
+    "name": "Kellergasse"
+  },
+  {
+    "lat": 48.5412,
+    "lon": 15.7837,
+    "primary": false,
+    "name": "Eggendorf, bei der Mühlbacher Straße, Eggendorf am Walde, Maissau"
+  },
+  {
+    "lat": 48.54066,
+    "lon": 15.78552,
+    "primary": false,
+    "name": "Eggendorf, südöstliches Hintaus, Eggendorf am Walde, Maissau"
+  },
+  {
+    "lat": 48.54344,
+    "lon": 15.78125,
+    "primary": false,
+    "name": "Eggendorf, südwestliches Hintaus, Eggendorf am Walde, Maissau"
+  },
+  {
+    "lat": 48.5536,
+    "lon": 15.7975,
+    "primary": false,
+    "name": "Kellergasse Grübern / Am Tiefenbach, Grübern, Maissau"
+  },
+  {
+    "lat": 48.5496,
+    "lon": 15.7926,
+    "primary": false,
+    "name": "Kellergasse Kogelfeld / An der Eggendorfer Straße, Grübern, Maissau"
+  },
+  {
+    "lat": 48.5538,
+    "lon": 15.7903,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.5503,
+    "lon": 15.7916,
+    "primary": false,
+    "name": "Presshäuser"
+  },
+  {
+    "lat": 48.5495,
+    "lon": 15.7926,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.56,
+    "lon": 15.7535,
+    "primary": false,
+    "name": "Kellergasse Kleinburgstall, Kleinburgstall, Maissau"
+  },
+  {
+    "lat": 48.5943,
+    "lon": 15.8595,
+    "primary": false,
+    "name": "Limberg: Gartengasse, Limberg, Maissau"
+  },
+  {
+    "lat": 48.5974,
+    "lon": 15.8595,
+    "primary": false,
+    "name": "Limberg: Steinweg, Limberg, Maissau"
+  },
+  {
+    "lat": 48.5996,
+    "lon": 15.8691,
+    "primary": false,
+    "name": "Kellergasse Straninger Straße, Limberg, Limberg, Maissau"
+  },
+  {
+    "lat": 48.5737,
+    "lon": 15.8277,
+    "primary": false,
+    "name": "Kellergasse Am Berg, Maissau (\"Am Berg I\"), Maissau, Maissau"
+  },
+  {
+    "lat": 48.5746,
+    "lon": 15.8281,
+    "primary": false,
+    "name": "Kellergasse Viaduktgasse, Maissau (\"Am Berg II\"), Maissau, Maissau"
+  },
+  {
+    "lat": 48.577,
+    "lon": 15.8332,
+    "primary": false,
+    "name": "Kellergasse Maissau, Oberer Weg (bei Friedhof), Maissau, Maissau"
+  },
+  {
+    "lat": 48.5685,
+    "lon": 15.8213,
+    "primary": false,
+    "name": "Weinberg-Kellergasse; Maissau (Klosterbühel), Maissau, Maissau"
+  },
+  {
+    "lat": 48.5776,
+    "lon": 15.8412,
+    "primary": false,
+    "name": "Maissau - Bahnstraße, Maissau, Maissau"
+  },
+  {
+    "lat": 48.589,
+    "lon": 15.8514,
+    "primary": false,
+    "name": "Kellergasse Oberdürnbach, Sonnwendberg, Oberdürnbach, Maissau"
+  },
+  {
+    "lat": 48.5865,
+    "lon": 15.845,
+    "primary": false,
+    "name": "Hinter der Kirche, Oberdürnbach, Oberdürnbach, Maissau"
+  },
+  {
+    "lat": 48.5746,
+    "lon": 15.7632,
+    "primary": false,
+    "name": "Reikersdorf, Feldweg Richtung Raan, Reikersdorf, Maissau"
+  },
+  {
+    "lat": 48.5755,
+    "lon": 15.7674,
+    "primary": false,
+    "name": "Reikersdorf, Sachsendorfer Straße, Reikersdorf, Maissau"
+  },
+  {
+    "lat": 48.5814,
+    "lon": 15.8672,
+    "primary": false,
+    "name": "Unterdürnbach, Oberdürnbacher Straße, Unterdürnbach, Maissau"
+  },
+  {
+    "lat": 48.579,
+    "lon": 15.8719,
+    "primary": false,
+    "name": "Unterdürnbach, An der Landesstraße, Unterdürnbach, Maissau"
+  },
+  {
+    "lat": 48.5789,
+    "lon": 15.8753,
+    "primary": false,
+    "name": "Unterdürnbach, nördliches Hintaus, Unterdürnbach, Maissau"
+  },
+  {
+    "lat": 48.5821,
+    "lon": 15.8709,
+    "primary": false,
+    "name": "Unterdürnbach, Hoher Rain / Bei der Kirche, Unterdürnbach, Maissau"
+  },
+  {
+    "lat": 48.67615,
+    "lon": 15.8133,
+    "primary": false,
+    "name": "Eggenburger Straße, Kattau, Meiseldorf"
+  },
+  {
+    "lat": 48.67505,
+    "lon": 15.80892,
+    "primary": false,
+    "name": "Friedhofsweg, Kattau, Meiseldorf"
+  },
+  {
+    "lat": 48.67863,
+    "lon": 15.80288,
+    "primary": false,
+    "name": "Maigner Straße, Kattau, Meiseldorf"
+  },
+  {
+    "lat": 48.67838,
+    "lon": 15.8113,
+    "primary": false,
+    "name": "Missingdorfer Straße, Kattau, Meiseldorf"
+  },
+  {
+    "lat": 48.66553,
+    "lon": 15.75468,
+    "primary": false,
+    "name": "Nördliches Hintaus, Klein-Meiseldorf, Meiseldorf"
+  },
+  {
+    "lat": 48.62487,
+    "lon": 16.21942,
+    "primary": false,
+    "name": "Kellergasse, Dürnleis, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.62849,
+    "lon": 16.22882,
+    "primary": false,
+    "name": "Heinreich, Dürnleis, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.60476,
+    "lon": 16.19045,
+    "primary": false,
+    "name": ", Haslach, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.60492,
+    "lon": 16.1927,
+    "primary": false,
+    "name": "Hintaus, Haslach, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.62931,
+    "lon": 16.24059,
+    "primary": false,
+    "name": "Neustift, Kammersdorf, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.62731,
+    "lon": 16.24194,
+    "primary": false,
+    "name": "Kellergasse, Kammersdorf, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.62456,
+    "lon": 16.23697,
+    "primary": false,
+    "name": ", Kammersdorf, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.61601,
+    "lon": 16.22576,
+    "primary": false,
+    "name": "Kellergasse, Kleinsierndorf, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.63536,
+    "lon": 16.19952,
+    "primary": false,
+    "name": "Kellergasse, Kleinweikersdorf, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.62873,
+    "lon": 16.19785,
+    "primary": false,
+    "name": "Schintagrube, Kleinweikersdorf, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.62878,
+    "lon": 16.18944,
+    "primary": false,
+    "name": "Hasengassl, Nappersdorf, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.629,
+    "lon": 16.19394,
+    "primary": false,
+    "name": "Kellergasse, Nappersdorf, Nappersdorf-Kammersdorf"
+  },
+  {
+    "lat": 48.2085,
+    "lon": 15.33243,
+    "primary": false,
+    "name": ", Pöverding, Melk"
+  },
+  {
+    "lat": 48.38377,
+    "lon": 15.59105,
+    "primary": false,
+    "name": "Silberbühel, Mautern an der Donau, Mautern an der Donau"
+  },
+  {
+    "lat": 48.23938,
+    "lon": 15.56512,
+    "primary": false,
+    "name": "Kellerstraße, Flinsbach, Neidling"
+  },
+  {
+    "lat": 48.24867,
+    "lon": 15.80389,
+    "primary": false,
+    "name": ", Haselbach, Perschling"
+  },
+  {
+    "lat": 48.26878,
+    "lon": 15.80905,
+    "primary": false,
+    "name": ", Langmannersdorf, Perschling"
+  },
+  {
+    "lat": 48.26869,
+    "lon": 15.79504,
+    "primary": false,
+    "name": ", Weißenkirchen an der Perschling, Perschling"
+  },
+  {
+    "lat": 48.26934,
+    "lon": 15.78809,
+    "primary": false,
+    "name": ", Weißenkirchen an der Perschling, Perschling"
+  },
+  {
+    "lat": 48.26752,
+    "lon": 15.62612,
+    "primary": false,
+    "name": "Greilinger Kellern, Diendorf, Großrust, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.26656,
+    "lon": 15.62821,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.25125,
+    "lon": 15.61448,
+    "primary": false,
+    "name": "Flinsdorfer Kellern, Flinsdorf, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.2897,
+    "lon": 15.62443,
+    "primary": false,
+    "name": "Fugginger Kellergasse, Fugging, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.28678,
+    "lon": 15.62183,
+    "primary": false,
+    "name": "Weingartenweg, Fugging, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.285941,
+    "lon": 15.621878,
+    "primary": false,
+    "name": "Kleinruster Kellern, Kleinrust, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.27423,
+    "lon": 15.60771,
+    "primary": false,
+    "name": "Großruster Kellergasse, Großrust, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.29772,
+    "lon": 15.57854,
+    "primary": false,
+    "name": "Grünzer Keller, Grünz, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.25552,
+    "lon": 15.65486,
+    "primary": false,
+    "name": "Großkellern, Hain, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.25401,
+    "lon": 15.64935,
+    "primary": false,
+    "name": "Kleinkellern, Hain, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.284831,
+    "lon": 15.572273,
+    "primary": false,
+    "name": "Pfaffinger Kellern, Pfaffing, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.26571,
+    "lon": 15.61827,
+    "primary": false,
+    "name": "Untermerkinger Kellern, Untermerking, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.26808,
+    "lon": 15.65797,
+    "primary": false,
+    "name": "Zagginger Kellergasse, Zagging, Obritzberg-Rust"
+  },
+  {
+    "lat": 48.08548,
+    "lon": 16.52484,
+    "primary": false,
+    "name": "Kellergasse, Rauchenwarth, Rauchenwarth"
+  },
+  {
+    "lat": 48.28759,
+    "lon": 15.95789,
+    "primary": false,
+    "name": "Hauptstraße, Atzelsdorf, Michelhausen"
+  },
+  {
+    "lat": 48.27363,
+    "lon": 15.89293,
+    "primary": false,
+    "name": "Hägerberg, Michelndorf, Michelhausen"
+  },
+  {
+    "lat": 48.27423,
+    "lon": 15.89816,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.27482,
+    "lon": 15.90175,
+    "primary": false,
+    "name": "Keller?"
+  },
+  {
+    "lat": 48.27556,
+    "lon": 15.93894,
+    "primary": false,
+    "name": ", Streithofen, Michelhausen"
+  },
+  {
+    "lat": 48.34839,
+    "lon": 15.70187,
+    "primary": false,
+    "name": "Nußdorfer Straße, Franzhausen, Nußdorf ob der Traisen"
+  },
+  {
+    "lat": 48.35774,
+    "lon": 15.69195,
+    "primary": false,
+    "name": "Neusiedler Straße, Neusiedl, Nußdorf ob der Traisen"
+  },
+  {
+    "lat": 48.35316,
+    "lon": 15.69968,
+    "primary": false,
+    "name": "Bachgasse, Nußdorf an der Traisen, Nußdorf ob der Traisen"
+  },
+  {
+    "lat": 48.35543,
+    "lon": 15.69341,
+    "primary": false,
+    "name": "Kirchengasse, Nußdorf an der Traisen, Nußdorf ob der Traisen"
+  },
+  {
+    "lat": 48.35482,
+    "lon": 15.6903,
+    "primary": false,
+    "name": "Schmiedgasse, Nußdorf an der Traisen, Nußdorf ob der Traisen"
+  },
+  {
+    "lat": 48.33857,
+    "lon": 15.70116,
+    "primary": false,
+    "name": "Grumbiglgasse, Reichersdorf, Nußdorf ob der Traisen"
+  },
+  {
+    "lat": 48.34191,
+    "lon": 15.70404,
+    "primary": false,
+    "name": "Schabeln, Reichersdorf, Nußdorf ob der Traisen"
+  },
+  {
+    "lat": 48.33762,
+    "lon": 15.69332,
+    "primary": false,
+    "name": "Kellergasse / Weinriedenweg, Reichersdorf, Nußdorf ob der Traisen"
+  },
+  {
+    "lat": 48.35135,
+    "lon": 15.69956,
+    "primary": false,
+    "name": ", Nußdorf an der Traisen, Nußdorf ob der Traisen"
+  },
+  {
+    "lat": 48.3405,
+    "lon": 15.67539,
+    "primary": false,
+    "name": ", Theyern, Nußdorf ob der Traisen"
+  },
+  {
+    "lat": 48.4722,
+    "lon": 16.29459,
+    "primary": false,
+    "name": "Hauptstraße, Bruderndorf, Niederhollabrunn"
+  },
+  {
+    "lat": 48.43614,
+    "lon": 16.27744,
+    "primary": false,
+    "name": "Bei der Kirche, Haselbach, Niederhollabrunn"
+  },
+  {
+    "lat": 48.46404,
+    "lon": 16.29832,
+    "primary": false,
+    "name": "Güterweg Loidl, Niederfellabrunn, Niederhollabrunn"
+  },
+  {
+    "lat": 48.46304,
+    "lon": 16.31006,
+    "primary": false,
+    "name": "Praunsbergstraße, Niederfellabrunn, Niederhollabrunn"
+  },
+  {
+    "lat": 48.46158,
+    "lon": 16.30783,
+    "primary": false,
+    "name": "Weinberggasse, Niederfellabrunn, Niederhollabrunn"
+  },
+  {
+    "lat": 48.45703,
+    "lon": 16.30296,
+    "primary": false,
+    "name": ", Niederfellabrunn, Niederhollabrunn, Niederhollabrunn"
+  },
+  {
+    "lat": 48.45031,
+    "lon": 16.30095,
+    "primary": false,
+    "name": "Bei der Kirche, Niederhollabrunn, Niederhollabrunn"
+  },
+  {
+    "lat": 48.44774,
+    "lon": 16.29985,
+    "primary": false,
+    "name": "Brunnader, Niederhollabrunn, Niederhollabrunn"
+  },
+  {
+    "lat": 48.44697,
+    "lon": 16.29869,
+    "primary": false,
+    "name": "Kohlstatt, Niederhollabrunn, Niederhollabrunn"
+  },
+  {
+    "lat": 48.46636,
+    "lon": 16.26732,
+    "primary": false,
+    "name": "Beim Gutshof Kühtreiber, Streitdorf, Niederhollabrunn"
+  },
+  {
+    "lat": 48.17801,
+    "lon": 15.47559,
+    "primary": false,
+    "name": ", Haindorf, Markersdorf-Haindorf"
+  },
+  {
+    "lat": 48.18215,
+    "lon": 15.47026,
+    "primary": false,
+    "name": ", Knetzersdorf, Markersdorf-Haindorf"
+  },
+  {
+    "lat": 48.73111111,
+    "lon": 16.52888889,
+    "primary": false,
+    "name": "Trift, Kirchstetten, Neudorf im Weinviertel"
+  },
+  {
+    "lat": 48.72027778,
+    "lon": 16.49722222,
+    "primary": false,
+    "name": "Kellerberg, Neudorf, Neudorf im Weinviertel"
+  },
+  {
+    "lat": 48.72303,
+    "lon": 16.49468,
+    "primary": false,
+    "name": "Kirchstettner Straße, Neudorf, Neudorf im Weinviertel"
+  },
+  {
+    "lat": 48.72378,
+    "lon": 16.48295,
+    "primary": false,
+    "name": "Untern Kellern, Neudorf, Neudorf im Weinviertel"
+  },
+  {
+    "lat": 48.72269,
+    "lon": 16.53815,
+    "primary": false,
+    "name": "Neuberg, Zlabern, Neudorf im Weinviertel"
+  },
+  {
+    "lat": 48.72033,
+    "lon": 16.53953,
+    "primary": false,
+    "name": "Kellerzeile"
+  },
+  {
+    "lat": 48.72235,
+    "lon": 16.54376,
+    "primary": false,
+    "name": "Kellerzeile"
+  },
+  {
+    "lat": 48.71757,
+    "lon": 16.53778,
+    "primary": false,
+    "name": "Steinler, Zlabern, Neudorf im Weinviertel"
+  },
+  {
+    "lat": 48.51535,
+    "lon": 16.41583,
+    "primary": false,
+    "name": "Kellergasse, Helfens, Niederleis"
+  },
+  {
+    "lat": 48.54972,
+    "lon": 16.39387,
+    "primary": false,
+    "name": "Kellergasse, beim Kindergarten, Niederleis, Niederleis"
+  },
+  {
+    "lat": 48.54936,
+    "lon": 16.39571,
+    "primary": false,
+    "name": "Nodendorfer Straße, Niederleis, Niederleis"
+  },
+  {
+    "lat": 48.56195,
+    "lon": 16.39473,
+    "primary": false,
+    "name": "Kalkgrube, Niederleis, Niederleis"
+  },
+  {
+    "lat": 48.55356,
+    "lon": 16.39999,
+    "primary": false,
+    "name": "Bahnzeile (\"Kellergasse\"), Niederleis, Niederleis"
+  },
+  {
+    "lat": 48.5494,
+    "lon": 16.38115,
+    "primary": false,
+    "name": "Geisbügelweg, Nodendorf, Niederleis"
+  },
+  {
+    "lat": 48.26876,
+    "lon": 16.63579,
+    "primary": false,
+    "name": "Museumstraße, Markgrafneusiedl, Markgrafneusiedl"
+  },
+  {
+    "lat": 48.46234,
+    "lon": 16.62819,
+    "primary": false,
+    "name": "Hohlweg, Dechant-Neidl-Gasse, Kleinharras, Matzen-Raggendorf"
+  },
+  {
+    "lat": 48.46076,
+    "lon": 16.62542,
+    "primary": false,
+    "name": "Harraser Hauptstraße, Kleinharras, Matzen-Raggendorf"
+  },
+  {
+    "lat": 48.40836,
+    "lon": 16.69413,
+    "primary": false,
+    "name": "Kellergasse, Matzen, Matzen-Raggendorf"
+  },
+  {
+    "lat": 48.39932,
+    "lon": 16.69787,
+    "primary": false,
+    "name": "Obere Berggasse, Matzen, Matzen-Raggendorf"
+  },
+  {
+    "lat": 48.39373,
+    "lon": 16.66313,
+    "primary": false,
+    "name": "Kellerberg, Raggendorf, Matzen-Raggendorf"
+  },
+  {
+    "lat": 48.39635,
+    "lon": 16.65713,
+    "primary": false,
+    "name": "Rebschulgasse, Raggendorf, Matzen-Raggendorf"
+  },
+  {
+    "lat": 48.396,
+    "lon": 16.65984,
+    "primary": false,
+    "name": "Kellergasse, Simandlgasse, Raggendorf, Matzen-Raggendorf"
+  },
+  {
+    "lat": 48.60015,
+    "lon": 16.78502,
+    "primary": false,
+    "name": "Burggasse, Neusiedl an der Zaya, Neusiedl an der Zaya"
+  },
+  {
+    "lat": 48.59938,
+    "lon": 16.78708,
+    "primary": false,
+    "name": "Friedhofstraße, Neusiedl an der Zaya, Neusiedl an der Zaya"
+  },
+  {
+    "lat": 48.60004,
+    "lon": 16.78278,
+    "primary": false,
+    "name": "Obere Kellergasse, Steinweg, Neusiedl an der Zaya, Neusiedl an der Zaya"
+  },
+  {
+    "lat": 48.59874,
+    "lon": 16.79573,
+    "primary": false,
+    "name": "Sackgasse, Neusiedl an der Zaya, Neusiedl an der Zaya"
+  },
+  {
+    "lat": 48.59751,
+    "lon": 16.78686,
+    "primary": false,
+    "name": "Schulgasse, Neusiedl an der Zaya, Neusiedl an der Zaya"
+  },
+  {
+    "lat": 48.59856,
+    "lon": 16.78948,
+    "primary": false,
+    "name": "Siedlungsstraße, Neusiedl an der Zaya, Neusiedl an der Zaya"
+  },
+  {
+    "lat": 48.59908,
+    "lon": 16.7924,
+    "primary": false,
+    "name": "Untere Kellergasse, Kirchengasse, Neusiedl an der Zaya, Neusiedl an der Zaya"
+  },
+  {
+    "lat": 48.61417,
+    "lon": 16.77886,
+    "primary": false,
+    "name": "Hausberg, St. Ulrich, Neusiedl an der Zaya"
+  },
+  {
+    "lat": 48.61222,
+    "lon": 16.7824,
+    "primary": false,
+    "name": ", St. Ulrich, Neusiedl an der Zaya"
+  },
+  {
+    "lat": 48.01401,
+    "lon": 14.97162,
+    "primary": false,
+    "name": ", Randegg, Randegg"
+  },
+  {
+    "lat": 48.634994,
+    "lon": 15.937214,
+    "primary": false,
+    "name": "Hintaus, Braunsdorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.635887,
+    "lon": 15.938091,
+    "primary": false,
+    "name": "Herz, Braunsdorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.635984,
+    "lon": 15.938655,
+    "primary": false,
+    "name": "In der Lissen, Braunsdorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.637508,
+    "lon": 15.93662,
+    "primary": false,
+    "name": "In der Grean, Braunsdorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.638798,
+    "lon": 15.935163,
+    "primary": false,
+    "name": "Außerörtl, Braunsdorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.574215,
+    "lon": 15.939017,
+    "primary": false,
+    "name": "Halterbergkellergasse, Frauendorf an der Schmida, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.570585,
+    "lon": 15.946507,
+    "primary": false,
+    "name": "Keller bei den Linden, Frauendorf an der Schmida, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.576031,
+    "lon": 15.944645,
+    "primary": false,
+    "name": "Lohrkellergasse, Frauendorf an der Schmida, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.58122,
+    "lon": 15.940842,
+    "primary": false,
+    "name": "Mühlkellergasse, Frauendorf an der Schmida, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.580004,
+    "lon": 15.945763,
+    "primary": false,
+    "name": "Rosenbergkellergasse, Frauendorf an der Schmida, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.618388,
+    "lon": 15.940884,
+    "primary": false,
+    "name": "Fuchsenkellergasse, Goggendorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.620971,
+    "lon": 15.94123,
+    "primary": false,
+    "name": "Kreuzkellergasse, Goggendorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.613871,
+    "lon": 15.938806,
+    "primary": false,
+    "name": "Kühbergkellergasse, Goggendorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.621852,
+    "lon": 15.938923,
+    "primary": false,
+    "name": "Schirmbergkellergasse, Goggendorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.597374,
+    "lon": 15.887984,
+    "primary": false,
+    "name": "Kellergasse, Niederschleinz, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.649661,
+    "lon": 15.933454,
+    "primary": false,
+    "name": "Kellergasse, Roseldorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.596196,
+    "lon": 15.941906,
+    "primary": false,
+    "name": "Im Winkerl, Sitzendorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.603703,
+    "lon": 15.941072,
+    "primary": false,
+    "name": "Mühlkellergasse, Sitzendorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.602169,
+    "lon": 15.943842,
+    "primary": false,
+    "name": "Kellergasse, Sitzendorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.603104,
+    "lon": 15.946167,
+    "primary": false,
+    "name": "Mühlbergkellergasse, Sitzendorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.59465,
+    "lon": 15.941624,
+    "primary": false,
+    "name": "Kellerzeile Im Kälbergarten, Sitzendorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.596559,
+    "lon": 15.944651,
+    "primary": false,
+    "name": "Kellerzeile im Patergraben, Sitzendorf, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.609067,
+    "lon": 15.978221,
+    "primary": false,
+    "name": "Kellerzeile an der L35, Sitzenhart, Sitzendorf an der Schmida"
+  },
+  {
+    "lat": 48.52549,
+    "lon": 15.94658,
+    "primary": false,
+    "name": "Kellergasse, Dippersdorf, Ziersdorf"
+  },
+  {
+    "lat": 48.549873,
+    "lon": 15.961055,
+    "primary": false,
+    "name": "Kellergasse Fahndorf, Fahndorf, Ziersdorf"
+  },
+  {
+    "lat": 48.551549,
+    "lon": 15.963883,
+    "primary": false,
+    "name": "Kellergasse Gassl, Fahndorf, Ziersdorf"
+  },
+  {
+    "lat": 48.550733,
+    "lon": 15.920736,
+    "primary": false,
+    "name": "Kellergasse Gettsdorf, Gettsdorf, Ziersdorf"
+  },
+  {
+    "lat": 48.54944,
+    "lon": 15.92456,
+    "primary": false,
+    "name": "Hutwinger Feld (Hutwinkel/Promille-Weg), Gettsdorf, Ziersdorf"
+  },
+  {
+    "lat": 48.53091,
+    "lon": 15.88682,
+    "primary": false,
+    "name": "Nordöstliche Radialstraße, Großmeiseldorf, Ziersdorf"
+  },
+  {
+    "lat": 48.52976,
+    "lon": 15.87131,
+    "primary": false,
+    "name": "Hohenwarter Straße, Großmeiseldorf, Ziersdorf"
+  },
+  {
+    "lat": 48.53247,
+    "lon": 15.87613,
+    "primary": false,
+    "name": "Parallel zur Minichhofener Straße, Großmeiseldorf, Ziersdorf"
+  },
+  {
+    "lat": 48.53318,
+    "lon": 15.87503,
+    "primary": false,
+    "name": "Ortsende Nord (Steinbruchgraben), Großmeiseldorf, Ziersdorf"
+  },
+  {
+    "lat": 48.52779,
+    "lon": 15.88362,
+    "primary": false,
+    "name": "Maistal, Großmeiseldorf, Ziersdorf"
+  },
+  {
+    "lat": 48.52998,
+    "lon": 15.87438,
+    "primary": false,
+    "name": "Südwestlicher Radialweg, Großmeiseldorf, Ziersdorf"
+  },
+  {
+    "lat": 48.554188,
+    "lon": 15.933254,
+    "primary": false,
+    "name": "Kellergasse Hollenstein, Hintaus, Hollenstein, Ziersdorf"
+  },
+  {
+    "lat": 48.55539,
+    "lon": 15.93182,
+    "primary": false,
+    "name": "Richtung Teichberg, Hollenstein, Ziersdorf"
+  },
+  {
+    "lat": 48.539221,
+    "lon": 15.978199,
+    "primary": false,
+    "name": "Richtung Reisberg, Kiblitz, Ziersdorf"
+  },
+  {
+    "lat": 48.53714,
+    "lon": 15.98329,
+    "primary": false,
+    "name": "Südliches Hintaus, Kiblitz, Ziersdorf"
+  },
+  {
+    "lat": 48.537023,
+    "lon": 15.978327,
+    "primary": false,
+    "name": "Kellergasse Kiblitz 3, Kiblitz, Ziersdorf"
+  },
+  {
+    "lat": 48.512023,
+    "lon": 15.905038,
+    "primary": false,
+    "name": "Hohenwarter Kellergasse, Radlbrunn, Ziersdorf"
+  },
+  {
+    "lat": 48.51277,
+    "lon": 15.906834,
+    "primary": false,
+    "name": "Meiseldorfer Kellergasse, Radlbrunn, Ziersdorf"
+  },
+  {
+    "lat": 48.5141,
+    "lon": 15.914569,
+    "primary": false,
+    "name": "Hühnergraben, Radlbrunn, Ziersdorf"
+  },
+  {
+    "lat": 48.515523,
+    "lon": 15.960921,
+    "primary": false,
+    "name": "Kellergasse Am Leuchter, Rohrbach, Ziersdorf"
+  },
+  {
+    "lat": 48.52581,
+    "lon": 15.92744,
+    "primary": false,
+    "name": "Kellergasse Ziersdorf, Ziersdorf, Ziersdorf"
+  },
+  {
+    "lat": 48.53345,
+    "lon": 15.94029,
+    "primary": false,
+    "name": "Mossbergkurve, Ziersdorf, Ziersdorf"
+  },
+  {
+    "lat": 48.52356,
+    "lon": 15.92514,
+    "primary": false,
+    "name": "Kellergasse Richtung Radlbrunn, Ziersdorf, Ziersdorf"
+  },
+  {
+    "lat": 48.529685,
+    "lon": 15.92643,
+    "primary": false,
+    "name": "Kirchensteig-Retzerstraße, Ziersdorf, Ziersdorf"
+  },
+  {
+    "lat": 48.695773,
+    "lon": 15.917574,
+    "primary": false,
+    "name": "Kellergasse Deinzendorf, Deinzendorf, Zellerndorf"
+  },
+  {
+    "lat": 48.695273,
+    "lon": 15.920037,
+    "primary": false,
+    "name": "Rondelle / Kellerplatz, Deinzendorf, Zellerndorf"
+  },
+  {
+    "lat": 48.69619,
+    "lon": 15.907376,
+    "primary": false,
+    "name": "Kellergasse Dietmannsdorf, Dietmannsdorf, Zellerndorf"
+  },
+  {
+    "lat": 48.69558,
+    "lon": 15.91245,
+    "primary": false,
+    "name": "Deinzendorfer Straße und bei der Kapelle, Dietmannsdorf, Zellerndorf"
+  },
+  {
+    "lat": 48.720331,
+    "lon": 15.938835,
+    "primary": false,
+    "name": "Öhlbergkellergasse, Pillersdorf, Zellerndorf"
+  },
+  {
+    "lat": 48.666898,
+    "lon": 15.957834,
+    "primary": false,
+    "name": "Nusswald-Kellergasse, Platt, Zellerndorf"
+  },
+  {
+    "lat": 48.669584,
+    "lon": 15.968185,
+    "primary": false,
+    "name": "Leithen-Kellergasse, Platt, Zellerndorf"
+  },
+  {
+    "lat": 48.664432,
+    "lon": 15.963132,
+    "primary": false,
+    "name": "Holzbrunn-Kellergasse, Platt, Zellerndorf"
+  },
+  {
+    "lat": 48.66459,
+    "lon": 15.96924,
+    "primary": false,
+    "name": ", Platt, Zellerndorf"
+  },
+  {
+    "lat": 48.697126,
+    "lon": 15.991003,
+    "primary": false,
+    "name": "Kellergasse Watzelsdorf, Watzelsdorf, Zellerndorf"
+  },
+  {
+    "lat": 48.697156,
+    "lon": 15.979019,
+    "primary": false,
+    "name": "Veitelbergkellergasse, Watzelsdorf, Zellerndorf"
+  },
+  {
+    "lat": 48.697454,
+    "lon": 15.970958,
+    "primary": false,
+    "name": "Veitelbergkellergasse, Zellerndorf, Zellerndorf"
+  },
+  {
+    "lat": 48.692433,
+    "lon": 15.949003,
+    "primary": false,
+    "name": "Maulavern Kellergasse, Zellerndorf, Zellerndorf"
+  },
+  {
+    "lat": 48.701497,
+    "lon": 15.950733,
+    "primary": false,
+    "name": "Kellergasse Pillersdorfer Straße, Zellerndorf, Zellerndorf"
+  },
+  {
+    "lat": 48.700143,
+    "lon": 15.953689,
+    "primary": false,
+    "name": "Kellergasse Philipp und Jakob, Zellerndorf, Zellerndorf"
+  },
+  {
+    "lat": 48.699516,
+    "lon": 15.948461,
+    "primary": false,
+    "name": "Kellergasse Point, Zellerndorf, Zellerndorf"
+  },
+  {
+    "lat": 48.7015,
+    "lon": 15.956203,
+    "primary": false,
+    "name": "Reichsgraben Kellergasse, Zellerndorf, Zellerndorf"
+  },
+  {
+    "lat": 48.38201,
+    "lon": 16.17514,
+    "primary": false,
+    "name": "Tullnerstraße, Unterzögersdorf, Stockerau"
+  },
+  {
+    "lat": 48.72595,
+    "lon": 16.18534,
+    "primary": false,
+    "name": "Kellertrift, Großkadolz, Seefeld-Kadolz"
+  },
+  {
+    "lat": 48.72572,
+    "lon": 16.17059,
+    "primary": false,
+    "name": "Kellertrift, Seefeld, Seefeld-Kadolz"
+  },
+  {
+    "lat": 48.43806,
+    "lon": 15.58458,
+    "primary": false,
+    "name": "Kellergasse/Platzl, Imbach, Senftenberg"
+  },
+  {
+    "lat": 48.4514,
+    "lon": 15.55934,
+    "primary": false,
+    "name": "Dorntal, Senftenberg, Senftenberg"
+  },
+  {
+    "lat": 48.26426,
+    "lon": 15.96566,
+    "primary": false,
+    "name": "\"Am Hang\", Dietersdorf, Sieghartskirchen"
+  },
+  {
+    "lat": 48.27413,
+    "lon": 15.98733,
+    "primary": false,
+    "name": "Hauptstraße, Gollarn, Sieghartskirchen"
+  },
+  {
+    "lat": 48.2687,
+    "lon": 16.01508,
+    "primary": false,
+    "name": "\"Hintaus südlicher Teil\", Henzing, Sieghartskirchen"
+  },
+  {
+    "lat": 48.26406,
+    "lon": 15.99958,
+    "primary": false,
+    "name": ", Ranzelsdorf, Sieghartskirchen"
+  },
+  {
+    "lat": 48.44745,
+    "lon": 16.17891,
+    "primary": false,
+    "name": ", Höbersdorf, Sierndorf"
+  },
+  {
+    "lat": 48.44946,
+    "lon": 16.18171,
+    "primary": false,
+    "name": "Senninger Straße, Höbersdorf, Sierndorf"
+  },
+  {
+    "lat": 48.44168,
+    "lon": 16.1312,
+    "primary": false,
+    "name": "\"Bei Friedhof und Kirche\", Oberhautzental, Sierndorf"
+  },
+  {
+    "lat": 48.44124,
+    "lon": 16.1283,
+    "primary": false,
+    "name": "\"Hintaus\", Oberhautzental, Sierndorf"
+  },
+  {
+    "lat": 48.45898,
+    "lon": 16.154,
+    "primary": false,
+    "name": "\"Beim Friedhof\", Obermallebarn, Sierndorf"
+  },
+  {
+    "lat": 48.46222,
+    "lon": 16.15655,
+    "primary": false,
+    "name": "\"Hintaus\", Obermallebarn, Sierndorf"
+  },
+  {
+    "lat": 48.41245,
+    "lon": 16.15863,
+    "primary": false,
+    "name": "Kellergasse, Oberolberndorf, Sierndorf"
+  },
+  {
+    "lat": 48.45653,
+    "lon": 16.21455,
+    "primary": false,
+    "name": ", Senning, Sierndorf"
+  },
+  {
+    "lat": 48.45117,
+    "lon": 16.22063,
+    "primary": false,
+    "name": "\"Streitdorfer Straße\", Senning, Sierndorf"
+  },
+  {
+    "lat": 48.43515,
+    "lon": 16.1427,
+    "primary": false,
+    "name": "\"Hintaus I\", Unterhautzenthal, Sierndorf"
+  },
+  {
+    "lat": 48.43239,
+    "lon": 16.14299,
+    "primary": false,
+    "name": "\"Hintaus II\", Unterhautzenthal, Sierndorf"
+  },
+  {
+    "lat": 48.46219,
+    "lon": 16.17261,
+    "primary": false,
+    "name": "\"Kellerberg\", Untermallebarn, Sierndorf"
+  },
+  {
+    "lat": 48.457,
+    "lon": 16.10871,
+    "primary": false,
+    "name": "\"Hintaus\", Unterparschenbrunn, Sierndorf"
+  },
+  {
+    "lat": 47.98693,
+    "lon": 16.654,
+    "primary": false,
+    "name": "Hauptstraße, Sommerein, Sommerein"
+  },
+  {
+    "lat": 48.37981,
+    "lon": 16.25477,
+    "primary": false,
+    "name": "Landstraße, Spillern, Spillern"
+  },
+  {
+    "lat": 48.46651,
+    "lon": 16.74318,
+    "primary": false,
+    "name": "Am Gwend (bei der Kirche), Spannberg, Spannberg"
+  },
+  {
+    "lat": 48.46136,
+    "lon": 16.73941,
+    "primary": false,
+    "name": "Grüngasse/Eselgrund, Spannberg, Spannberg"
+  },
+  {
+    "lat": 48.46657,
+    "lon": 16.73728,
+    "primary": false,
+    "name": "Kurzgasse, Spannberg, Spannberg"
+  },
+  {
+    "lat": 48.47398,
+    "lon": 16.777414,
+    "primary": false,
+    "name": "\"Loidesthaler Straße\", Velm-Götzendorf, Velm-Götzendorf"
+  },
+  {
+    "lat": 48.470958,
+    "lon": 16.79807,
+    "primary": false,
+    "name": "Am Kellerberg, Velm-Götzendorf, Velm-Götzendorf"
+  },
+  {
+    "lat": 48.468782,
+    "lon": 16.772321,
+    "primary": false,
+    "name": "Hauptstraße (\"Richtung Spannberg\"), Velm-Götzendorf, Velm-Götzendorf"
+  },
+  {
+    "lat": 48.46793,
+    "lon": 16.79996,
+    "primary": false,
+    "name": "Hauptstraße \"Richtung Waidendorf\", Velm-Götzendorf, Velm-Götzendorf"
+  },
+  {
+    "lat": 48.469792,
+    "lon": 16.780523,
+    "primary": false,
+    "name": "Kellergasse, Velm-Götzendorf, Velm-Götzendorf"
+  },
+  {
+    "lat": 48.6731,
+    "lon": 15.6297,
+    "primary": false,
+    "name": "\"Kellergasse (bei der Kirche)\", Frauenhofen, St. Bernhard-Frauenhofen"
+  },
+  {
+    "lat": 48.6966,
+    "lon": 15.7971,
+    "primary": false,
+    "name": "\"Sigmundsherberger Straße\", Missingdorf, Sigmundsherberg"
+  },
+  {
+    "lat": 48.7292,
+    "lon": 15.7893,
+    "primary": false,
+    "name": "\"Missingdorfer Straße\", Theras, Sigmundsherberg"
+  },
+  {
+    "lat": 48.7276,
+    "lon": 15.7963,
+    "primary": false,
+    "name": "\"Südöstliches Hintaus\", Theras, Sigmundsherberg"
+  },
+  {
+    "lat": 48.1542,
+    "lon": 15.26034,
+    "primary": false,
+    "name": "Au, Au, St. Leonhard am Forst"
+  },
+  {
+    "lat": 48.1522,
+    "lon": 15.26748,
+    "primary": false,
+    "name": "Fachelberg, Fachelberg, St. Leonhard am Forst"
+  },
+  {
+    "lat": 48.15608,
+    "lon": 15.26143,
+    "primary": false,
+    "name": "Steinbach, Steinbach, St. Leonhard am Forst"
+  },
+  {
+    "lat": 48.217684,
+    "lon": 15.620875,
+    "primary": false,
+    "name": "Weiterner Kellerweg/Mamauer Kellerweg, St. Pölten, St. Pölten"
+  },
+  {
+    "lat": 48.22423,
+    "lon": 15.62826,
+    "primary": false,
+    "name": "Finkensteinweg, St. Pölten, St. Pölten"
+  },
+  {
+    "lat": 48.22471,
+    "lon": 15.72346,
+    "primary": false,
+    "name": "Kellergasse Pengersdorf, Pengersdorf, St. Pölten"
+  },
+  {
+    "lat": 48.221537,
+    "lon": 15.592971,
+    "primary": false,
+    "name": "\"Bei der Kirche\", Waitzendorf, St. Pölten"
+  },
+  {
+    "lat": 48.24911,
+    "lon": 15.70864,
+    "primary": false,
+    "name": "Wasserburger Kellergasse, Wasserburg, St. Pölten"
+  },
+  {
+    "lat": 48.32014,
+    "lon": 16.20358,
+    "primary": false,
+    "name": "Wallenböckgasse, Sankt Andrä vor dem Hagenthale, St. Andrä-Wördern"
+  },
+  {
+    "lat": 48.33382,
+    "lon": 15.79245,
+    "primary": false,
+    "name": "Eichberger Kellergasse, Ahrenberg, Sitzenberg-Reidling"
+  },
+  {
+    "lat": 48.31804,
+    "lon": 15.83669,
+    "primary": false,
+    "name": ", Baumgarten, Sitzenberg-Reidling"
+  },
+  {
+    "lat": 48.31034,
+    "lon": 15.811,
+    "primary": false,
+    "name": ", Eggendorf, Sitzenberg-Reidling"
+  },
+  {
+    "lat": 48.29675,
+    "lon": 15.82772,
+    "primary": false,
+    "name": ", Hasendorf, Sitzenberg-Reidling"
+  },
+  {
+    "lat": 48.29805,
+    "lon": 15.83054,
+    "primary": false,
+    "name": "\"Hintaus\", Hasendorf, Sitzenberg-Reidling"
+  },
+  {
+    "lat": 48.31535,
+    "lon": 15.8127,
+    "primary": false,
+    "name": "Am Sandbühel, Reidling, Sitzenberg-Reidling"
+  },
+  {
+    "lat": 48.31878,
+    "lon": 15.82135,
+    "primary": false,
+    "name": "Birkenzeile, Reidling, Sitzenberg-Reidling"
+  },
+  {
+    "lat": 48.32419,
+    "lon": 15.79765,
+    "primary": false,
+    "name": "Weinbergstraße, Thallern, Sitzenberg-Reidling"
+  },
+  {
+    "lat": 48.181227,
+    "lon": 15.253402,
+    "primary": false,
+    "name": "Sandsteinkellergasse, Zelking, Zelking-Matzleinsdorf"
+  },
+  {
+    "lat": 48.21228,
+    "lon": 15.28658,
+    "primary": false,
+    "name": ", Bergern-Maierhöfen, Zelking-Matzleinsdorf"
+  },
+  {
+    "lat": 48.77863,
+    "lon": 15.86232,
+    "primary": false,
+    "name": "Weitersfelder Straße, Oberfladnitz, Weitersfeld"
+  },
+  {
+    "lat": 48.75,
+    "lon": 15.82093,
+    "primary": false,
+    "name": ", Obermixnitz, Weitersfeld"
+  },
+  {
+    "lat": 48.76335,
+    "lon": 15.75868,
+    "primary": false,
+    "name": "Trautmannsdorfer Straße, Starrein, Weitersfeld"
+  },
+  {
+    "lat": 48.75814,
+    "lon": 15.8429,
+    "primary": false,
+    "name": "An der Oberfladnitzer Straße, Untermixnitz, Weitersfeld"
+  },
+  {
+    "lat": 48.78475,
+    "lon": 15.80558,
+    "primary": false,
+    "name": "Oberhöfleiner Straße, Weitersfeld, Weitersfeld"
+  },
+  {
+    "lat": 48.78684,
+    "lon": 15.80664,
+    "primary": false,
+    "name": "Fronsburger Straße, Weitersfeld, Weitersfeld"
+  },
+  {
+    "lat": 48.76579,
+    "lon": 15.27737,
+    "primary": false,
+    "name": "Kellergasse, Markl, Windigsteig"
+  },
+  {
+    "lat": 48.61797,
+    "lon": 15.85544,
+    "primary": false,
+    "name": "Kellergasse, Etzmannsdorf bei Straning, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.63559,
+    "lon": 15.84542,
+    "primary": false,
+    "name": "Eggenburger Straße, Grafenberg, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.63523,
+    "lon": 15.84278,
+    "primary": false,
+    "name": "Fuchsenloch, Grafenberg, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.63881,
+    "lon": 15.84445,
+    "primary": false,
+    "name": "Nähe Kogelsteine, Grafenberg, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.62945,
+    "lon": 15.84335,
+    "primary": false,
+    "name": "Steinperzbach, Grafenberg, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.63177,
+    "lon": 15.84465,
+    "primary": false,
+    "name": "Vitusberger Kellergasse, Grafenberg, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.61418,
+    "lon": 15.86599,
+    "primary": false,
+    "name": "Krotenberg, Straning, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.61615,
+    "lon": 15.8667,
+    "primary": false,
+    "name": "Kellergasse"
+  },
+  {
+    "lat": 48.61418,
+    "lon": 15.86599,
+    "primary": false,
+    "name": "Kellergasse"
+  },
+  {
+    "lat": 48.61504,
+    "lon": 15.86448,
+    "primary": false,
+    "name": "Wolfsgraben, Straning, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.60524,
+    "lon": 15.86951,
+    "primary": false,
+    "name": "Limberger Straße, Straning, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.61088,
+    "lon": 15.85882,
+    "primary": false,
+    "name": "Kellergasse Viehtrift, Straning, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.63664,
+    "lon": 15.8831,
+    "primary": false,
+    "name": "Hintaus, Wartberg, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.63227,
+    "lon": 15.88716,
+    "primary": false,
+    "name": "Kirchenberg, Wartberg, Straning-Grafenberg"
+  },
+  {
+    "lat": 48.60565,
+    "lon": 16.15226,
+    "primary": false,
+    "name": ", Aschendorf, Wullersdorf"
+  },
+  {
+    "lat": 48.61029,
+    "lon": 16.15429,
+    "primary": false,
+    "name": "Steinfeld, Aschendorf, Hart, Wullersdorf"
+  },
+  {
+    "lat": 48.63902,
+    "lon": 16.06167,
+    "primary": false,
+    "name": "Kellertrift, Grund, Wullersdorf"
+  },
+  {
+    "lat": 48.63971,
+    "lon": 16.05406,
+    "primary": false,
+    "name": "An der Bundesstraße, Grund, Wullersdorf"
+  },
+  {
+    "lat": 48.66177,
+    "lon": 16.13559,
+    "primary": false,
+    "name": "Alte Bergen, Immendorf, Wullersdorf"
+  },
+  {
+    "lat": 48.65531,
+    "lon": 16.14273,
+    "primary": false,
+    "name": "Kienern (\"Kellergasse Zeiselberg\"), Immendorf, Wullersdorf"
+  },
+  {
+    "lat": 48.65187,
+    "lon": 16.12744,
+    "primary": false,
+    "name": "Griegweg (Nähe Jägerhaus), Immendorf, Wullersdorf"
+  },
+  {
+    "lat": 48.65675,
+    "lon": 16.08308,
+    "primary": false,
+    "name": "Kellertrift, Kalladorf, Wullersdorf"
+  },
+  {
+    "lat": 48.63821,
+    "lon": 16.08371,
+    "primary": false,
+    "name": "Kallathal, Kalladorf, Wullersdorf"
+  },
+  {
+    "lat": 48.65774,
+    "lon": 16.07576,
+    "primary": false,
+    "name": "Denkenberg, Grund, Kalladorf, Wullersdorf"
+  },
+  {
+    "lat": 48.61621,
+    "lon": 16.14619,
+    "primary": false,
+    "name": "Raffelfeld, Maria Roggendorf, Wullersdorf"
+  },
+  {
+    "lat": 48.61415,
+    "lon": 16.12289,
+    "primary": false,
+    "name": "beim Kloster, Maria Roggendorf, Raffelhof, Wullersdorf"
+  },
+  {
+    "lat": 48.62823,
+    "lon": 16.16328,
+    "primary": false,
+    "name": "Kirchberg, Oberstinkenbrunn, Wullersdorf"
+  },
+  {
+    "lat": 48.62942,
+    "lon": 16.16118,
+    "primary": false,
+    "name": "Schlosskeller, Oberstinkenbrunn, Wullersdorf"
+  },
+  {
+    "lat": 48.63284,
+    "lon": 16.16495,
+    "primary": false,
+    "name": "Mailberger Keller (Galgenberg), Oberstinkenbrunn, Wullersdorf"
+  },
+  {
+    "lat": 48.63248,
+    "lon": 16.16246,
+    "primary": false,
+    "name": "Tiefer Graben, Oberstinkenbrunn, Wullersdorf"
+  },
+  {
+    "lat": 48.65205,
+    "lon": 16.15293,
+    "primary": false,
+    "name": "Peunten, Schalladorf, Wullersdorf"
+  },
+  {
+    "lat": 48.64692,
+    "lon": 16.15382,
+    "primary": false,
+    "name": "Rohrbergen, Schalladorf, Wullersdorf"
+  },
+  {
+    "lat": 48.62705,
+    "lon": 16.10389,
+    "primary": false,
+    "name": "Kirchberg, Wullersdorf, Wullersdorf"
+  },
+  {
+    "lat": 48.49038,
+    "lon": 15.74997,
+    "primary": false,
+    "name": ", Elsarn im Straßertal, Straß im Straßertale"
+  },
+  {
+    "lat": 48.51303,
+    "lon": 15.74457,
+    "primary": false,
+    "name": "An der Schönberger Straße, Obernholz, Straß im Straßertale"
+  },
+  {
+    "lat": 48.47482,
+    "lon": 15.72893,
+    "primary": false,
+    "name": "Gaisbergkellergasse, Straß im Straßertale, Straß im Straßertale"
+  },
+  {
+    "lat": 48.4695,
+    "lon": 15.7453,
+    "primary": false,
+    "name": "Haselkellergasse, Straß im Straßertale, Straß im Straßertale"
+  },
+  {
+    "lat": 48.47708,
+    "lon": 15.738,
+    "primary": false,
+    "name": "Placherkellergasse, Straß im Straßertale, Straß im Straßertale"
+  },
+  {
+    "lat": 48.47735,
+    "lon": 15.7313,
+    "primary": false,
+    "name": "Talstraße-Nord, Straß im Straßertale, Straß im Straßertale"
+  },
+  {
+    "lat": 48.47469,
+    "lon": 15.73182,
+    "primary": false,
+    "name": "Talstraße-Süd, Straß im Straßertale, Straß im Straßertale"
+  },
+  {
+    "lat": 48.49209,
+    "lon": 15.75309,
+    "primary": false,
+    "name": "Wolfsgraben, Wiedendorf, Straß im Straßertale"
+  },
+  {
+    "lat": 48.45131,
+    "lon": 15.60617,
+    "primary": false,
+    "name": "Kellergasse, Stratzing, Stratzing"
+  },
+  {
+    "lat": 48.29779,
+    "lon": 15.57703,
+    "primary": false,
+    "name": "Keller"
+  },
+  {
+    "lat": 48.30523,
+    "lon": 15.58213,
+    "primary": false,
+    "name": ", Ambach, Wölbling"
+  },
+  {
+    "lat": 48.31287,
+    "lon": 15.60677,
+    "primary": false,
+    "name": "Kirchbühel / Hausheimer Kellergasse, Oberwölbling, Wölbling"
+  },
+  {
+    "lat": 48.31852,
+    "lon": 15.58954,
+    "primary": false,
+    "name": "Kühstandsiedlungsstraße, Oberwölbling, Wölbling"
+  },
+  {
+    "lat": 48.32294,
+    "lon": 15.59617,
+    "primary": false,
+    "name": "Antingen, Unterwölbling, Wölbling"
+  },
+  {
+    "lat": 48.32406,
+    "lon": 15.61475,
+    "primary": false,
+    "name": "Flanitzweg, Unterwölbling, Wölbling"
+  },
+  {
+    "lat": 48.32549,
+    "lon": 15.61127,
+    "primary": false,
+    "name": "Leithen, Unterwölbling, Wölbling"
+  },
+  {
+    "lat": 48.32581,
+    "lon": 15.64377,
+    "primary": false,
+    "name": "Kellerweg, Kuffern, Statzendorf"
+  },
+  {
+    "lat": 48.2907,
+    "lon": 15.65156,
+    "primary": false,
+    "name": "Kellerweg, Rottersdorf, Statzendorf"
+  },
+  {
+    "lat": 48.30827,
+    "lon": 15.64278,
+    "primary": false,
+    "name": "Kellergasse, Statzendorf, Statzendorf"
+  },
+  {
+    "lat": 48.05558,
+    "lon": 16.64033,
+    "primary": false,
+    "name": "Kellergasse, Gallbrunn, Trautmannsdorf an der Leitha"
+  },
+  {
+    "lat": 48.03675,
+    "lon": 16.69103,
+    "primary": false,
+    "name": "An der B10, Sarasdorf, Trautmannsdorf an der Leitha"
+  },
+  {
+    "lat": 48.0451,
+    "lon": 16.68005,
+    "primary": false,
+    "name": "Tiefer Weg, Stixneusiedl, Trautmannsdorf an der Leitha"
+  },
+  {
+    "lat": 48.04691,
+    "lon": 16.67477,
+    "primary": false,
+    "name": "Viehtrift, Stixneusiedl, Trautmannsdorf an der Leitha"
+  },
+  {
+    "lat": 48.02442,
+    "lon": 16.64571,
+    "primary": false,
+    "name": "Friedhofsweg, Trautmannsdorf an der Leitha, Trautmannsdorf an der Leitha"
+  },
+  {
+    "lat": 48.16497,
+    "lon": 15.49475,
+    "primary": false,
+    "name": ", Linsberg, St. Margarethen an der Sierning"
+  },
+  {
+    "lat": 48.28498,
+    "lon": 16.07902,
+    "primary": false,
+    "name": "Kellergasse Klein-Staasdorf, Staasdorf, Tulln an der Donau"
+  },
+  {
+    "lat": 48.28636,
+    "lon": 16.10834,
+    "primary": false,
+    "name": "An der Zeil, Katzelsdorf an der Zeil, Tulbing"
+  },
+  {
+    "lat": 48.40323,
+    "lon": 16.04249,
+    "primary": false,
+    "name": ", Eggendorf am Wagram, Stetteldorf am Wagram"
+  },
+  {
+    "lat": 48.40425,
+    "lon": 16.02988,
+    "primary": false,
+    "name": "Bunschograben, Starnwörth, Stetteldorf am Wagram"
+  },
+  {
+    "lat": 48.40626,
+    "lon": 16.02828,
+    "primary": false,
+    "name": ", Starnwörth, Stetteldorf am Wagram"
+  },
+  {
+    "lat": 48.4088,
+    "lon": 16.01767,
+    "primary": false,
+    "name": "Hauptstraße, Stetteldorf am Wagram, Stetteldorf am Wagram"
+  },
+  {
+    "lat": 48.40775,
+    "lon": 16.01357,
+    "primary": false,
+    "name": "Kellergasse, Stetteldorf am Wagram, Stetteldorf am Wagram"
+  },
+  {
+    "lat": 48.40996,
+    "lon": 16.01843,
+    "primary": false,
+    "name": "Russbacher Straße, Stetteldorf am Wagram, Stetteldorf am Wagram"
+  },
+  {
+    "lat": 48.40989,
+    "lon": 16.01334,
+    "primary": false,
+    "name": "Tiefenthaler Straße, Absberger Straße, Stetteldorf am Wagram, Stetteldorf am Wagram"
+  },
+  {
+    "lat": 48.37139,
+    "lon": 16.3851,
+    "primary": false,
+    "name": "Hundsleiten, Stetten (Niederösterreich), Stetten (Niederösterreich)"
+  },
+  {
+    "lat": 48.36073,
+    "lon": 16.39335,
+    "primary": false,
+    "name": "Neubergweg, Stetten (Niederösterreich), Stetten (Niederösterreich)"
+  },
+  {
+    "lat": 48.36758,
+    "lon": 16.38351,
+    "primary": false,
+    "name": "Seebarner Straße / Am Kirchenweg, Stetten (Niederösterreich), Stetten (Niederösterreich)"
+  },
+  {
+    "lat": 48.33755,
+    "lon": 15.7805,
+    "primary": false,
+    "name": "Kellerweg Am Eichberg, Hilpersdorf, Traismauer"
+  },
+  {
+    "lat": 48.33099,
+    "lon": 15.73394,
+    "primary": false,
+    "name": "Spiegelgasse, Oberndorf am Gebirge, Traismauer"
+  },
+  {
+    "lat": 48.34384,
+    "lon": 15.75815,
+    "primary": false,
+    "name": "Am Nasenberg, Stollhofen, Traismauer"
+  },
+  {
+    "lat": 48.34325,
+    "lon": 15.77018,
+    "primary": false,
+    "name": "Geistpiegel, Stollhofen, Traismauer"
+  },
+  {
+    "lat": 48.34618,
+    "lon": 15.7532,
+    "primary": false,
+    "name": "Berghäuser, Traismauer, Traismauer"
+  },
+  {
+    "lat": 48.34723,
+    "lon": 15.74436,
+    "primary": false,
+    "name": "Vorberg-Kellergasse, Waldandachtgasse, Traismauer, Traismauer"
+  },
+  {
+    "lat": 48.34451,
+    "lon": 15.74263,
+    "primary": false,
+    "name": "Tobel, Traismauer, Traismauer"
+  },
+  {
+    "lat": 48.33933,
+    "lon": 15.73838,
+    "primary": false,
+    "name": "Oberndorfer Straße, Weingasse, Waldletzberg, Traismauer"
+  },
+  {
+    "lat": 48.36921,
+    "lon": 15.71085,
+    "primary": false,
+    "name": "Wachaustraße, Wagram an der Traisen, Traismauer"
+  },
+  {
+    "lat": 48.36328,
+    "lon": 15.70922,
+    "primary": false,
+    "name": "Wetterkreuzweg, Kellergasse, Wagram an der Traisen, Traismauer"
+  },
+  {
+    "lat": 48.35803,
+    "lon": 15.70757,
+    "primary": false,
+    "name": "Ziegelofengasse, Wagram an der Traisen, Traismauer"
+  },
+  {
+    "lat": 48.16683,
+    "lon": 14.71116,
+    "primary": false,
+    "name": "Kellergasse, Wallsee, Wallsee-Sindelburg"
+  },
+  {
+    "lat": 48.27226,
+    "lon": 15.86257,
+    "primary": false,
+    "name": "Müllerberg, Diendorf, Saladorf, Grub, Würmla"
+  },
+  {
+    "lat": 48.25809,
+    "lon": 15.84951,
+    "primary": false,
+    "name": ", Jetzing, Würmla"
+  },
+  {
+    "lat": 48.24852,
+    "lon": 15.87824,
+    "primary": false,
+    "name": ", Mittermoos, Würmla"
+  },
+  {
+    "lat": 48.24039,
+    "lon": 15.88024,
+    "primary": false,
+    "name": "Hauptstraße, Waltendorf, Würmla"
+  },
+  {
+    "lat": 48.25365,
+    "lon": 15.86181,
+    "primary": false,
+    "name": "Kahlenbergstraße, Würmla, Würmla"
+  },
+  {
+    "lat": 48.25824,
+    "lon": 15.86055,
+    "primary": false,
+    "name": "Tullner Straße, Würmla, Würmla"
+  },
+  {
+    "lat": 48.65011,
+    "lon": 16.33594,
+    "primary": false,
+    "name": "Kellerberg, Oberschoderlee, Stronsdorf"
+  },
+  {
+    "lat": 48.64864,
+    "lon": 16.34024,
+    "primary": false,
+    "name": "Neue Kellergasse, Oberschoderlee, Stronsdorf"
+  },
+  {
+    "lat": 48.61753,
+    "lon": 16.2668,
+    "primary": false,
+    "name": "Hintaus, Patzenthal, Stronsdorf"
+  },
+  {
+    "lat": 48.61998,
+    "lon": 16.26981,
+    "primary": false,
+    "name": "Patzmannsdorfer Straße, Patzenthal, Stronsdorf"
+  },
+  {
+    "lat": 48.63653,
+    "lon": 16.28298,
+    "primary": false,
+    "name": "Hintaus, Patzmannsdorf, Stronsdorf"
+  },
+  {
+    "lat": 48.62713,
+    "lon": 16.28949,
+    "primary": false,
+    "name": "Schlossberg, Patzmannsdorf, Stronsdorf"
+  },
+  {
+    "lat": 48.62531,
+    "lon": 16.2818,
+    "primary": false,
+    "name": "Trift, Patzmannsdorf, Stronsdorf"
+  },
+  {
+    "lat": 48.63237,
+    "lon": 16.3155,
+    "primary": false,
+    "name": "Mayerhölzl, Stronegg, Stronsdorf"
+  },
+  {
+    "lat": 48.65523,
+    "lon": 16.29821,
+    "primary": false,
+    "name": "Hintaus, Stronsdorf, Stronsdorf"
+  },
+  {
+    "lat": 48.64738,
+    "lon": 16.3016,
+    "primary": false,
+    "name": "Kellertrift, Stronsdorf, Stronsdorf"
+  },
+  {
+    "lat": 48.64904,
+    "lon": 16.29866,
+    "primary": false,
+    "name": "Zeiselberg, Stronsdorf, Stronsdorf"
+  },
+  {
+    "lat": 48.65832,
+    "lon": 16.32388,
+    "primary": false,
+    "name": "Beim Hausberg, Unterschoderlee, Stronsdorf"
+  },
+  {
+    "lat": 48.65572,
+    "lon": 16.32478,
+    "primary": false,
+    "name": "Hintaus, Unterschoderlee, Stronsdorf"
+  },
+  {
+    "lat": 48.66013,
+    "lon": 16.34673,
+    "primary": false,
+    "name": "Lehmgrube (\"Loamgrui\"), Unterstinkenbrunn, Unterstinkenbrunn"
+  },
+  {
+    "lat": 48.66968,
+    "lon": 16.34488,
+    "primary": false,
+    "name": "beim Schloss, Unterstinkenbrunn, Unterstinkenbrunn"
+  },
+  {
+    "lat": 48.74914,
+    "lon": 16.52786,
+    "primary": false,
+    "name": "Burgstallweg, Neuruppersdorf, Wildendürnbach"
+  },
+  {
+    "lat": 48.75015,
+    "lon": 16.51864,
+    "primary": false,
+    "name": "Gaisberg - nördlicher Teil, Neuruppersdorf, Wildendürnbach"
+  },
+  {
+    "lat": 48.74897,
+    "lon": 16.52116,
+    "primary": false,
+    "name": "Gaisberg - südlicher Teil, Neuruppersdorf, Wildendürnbach"
+  },
+  {
+    "lat": 48.75317,
+    "lon": 16.5147,
+    "primary": false,
+    "name": "Grimm, Neuruppersdorf, Wildendürnbach"
+  },
+  {
+    "lat": 48.75378,
+    "lon": 16.52764,
+    "primary": false,
+    "name": "Waldstätten, Neuruppersdorf, Wildendürnbach"
+  },
+  {
+    "lat": 48.75611,
+    "lon": 16.55207,
+    "primary": false,
+    "name": "Pottenau, Pottenhofen, Wildendürnbach"
+  },
+  {
+    "lat": 48.77114,
+    "lon": 16.50842,
+    "primary": false,
+    "name": "Galgenberg, Wildendürnbach, Neuruppersdorf, Wildendürnbach"
+  },
+  {
+    "lat": 48.7667,
+    "lon": 16.50639,
+    "primary": false,
+    "name": "Vorstadt, Neuruppersdorf, Wildendürnbach, Wildendürnbach"
+  },
+  {
+    "lat": 48.66699,
+    "lon": 16.53797,
+    "primary": false,
+    "name": "im Ort, Ameis, Staatz"
+  },
+  {
+    "lat": 48.66059,
+    "lon": 16.54273,
+    "primary": false,
+    "name": ", Ameis, Staatz"
+  },
+  {
+    "lat": 48.66758,
+    "lon": 16.54115,
+    "primary": false,
+    "name": ", Ameis, Staatz"
+  },
+  {
+    "lat": 48.67257,
+    "lon": 16.50407,
+    "primary": false,
+    "name": "Auberg, Enzersdorf bei Staatz, Staatz"
+  },
+  {
+    "lat": 48.66973,
+    "lon": 16.49974,
+    "primary": false,
+    "name": "Am Aus, Enzersdorf bei Staatz, Staatz"
+  },
+  {
+    "lat": 48.67658,
+    "lon": 16.50269,
+    "primary": false,
+    "name": "\"Richtung Auberg\", Enzersdorf bei Staatz, Staatz"
+  },
+  {
+    "lat": 48.66218,
+    "lon": 16.4907,
+    "primary": false,
+    "name": "Alten Bergen, Ernsdorf, Staatz"
+  },
+  {
+    "lat": 48.668,
+    "lon": 16.48468,
+    "primary": false,
+    "name": "Schlichtenberg, Staatz-Kautendorf, Staatz"
+  },
+  {
+    "lat": 48.67779,
+    "lon": 16.48637,
+    "primary": false,
+    "name": "\"im Ort\", Staatz-Kautendorf, Staatz"
+  },
+  {
+    "lat": 48.6501,
+    "lon": 16.52518,
+    "primary": false,
+    "name": "Lehmgstetten, Waltersdorf, Staatz"
+  },
+  {
+    "lat": 48.6557,
+    "lon": 16.53132,
+    "primary": false,
+    "name": "Kellertrift, Waltersdorf, Staatz"
+  },
+  {
+    "lat": 48.66799,
+    "lon": 16.46381,
+    "primary": false,
+    "name": "Zigeunerwinkel, Wultendorf, Staatz"
+  },
+  {
+    "lat": 48.66407,
+    "lon": 16.46433,
+    "primary": false,
+    "name": "bei der Kirche, Wultendorf, Staatz"
+  },
+  {
+    "lat": 48.66156,
+    "lon": 16.46818,
+    "primary": false,
+    "name": "Point, Wultendorf, Staatz"
+  },
+  {
+    "lat": 48.66266,
+    "lon": 16.54692,
+    "primary": false,
+    "name": "Loamgstettn'\"`UNIQ--ref-00000004-QINU`\"', Ameis, Staatz"
+  },
+  {
+    "lat": 48.41986,
+    "lon": 16.51306,
+    "primary": false,
+    "name": "Hausgraben, Kronberg, Ulrichskirchen-Schleinbach"
+  },
+  {
+    "lat": 48.42176,
+    "lon": 16.51376,
+    "primary": false,
+    "name": "Kellergasse, Kronberg, Ulrichskirchen-Schleinbach"
+  },
+  {
+    "lat": 48.42283,
+    "lon": 16.46923,
+    "primary": false,
+    "name": "Sonnleithengasse, Schleinbach, Ulrichskirchen-Schleinbach"
+  },
+  {
+    "lat": 48.41852,
+    "lon": 16.48319,
+    "primary": false,
+    "name": "Ulrichskirchner Straße, Schleinbach, Ulrichskirchen-Schleinbach"
+  },
+  {
+    "lat": 48.41775,
+    "lon": 16.46462,
+    "primary": false,
+    "name": "Waldgasse, Schleinbach, Ulrichskirchen-Schleinbach"
+  },
+  {
+    "lat": 48.42036,
+    "lon": 16.46973,
+    "primary": false,
+    "name": ", Schleinbach, Ulrichskirchen-Schleinbach"
+  },
+  {
+    "lat": 48.42107,
+    "lon": 16.48123,
+    "primary": false,
+    "name": "Ziegelofenweg, Schleinbach, Ulrichskirchen-Schleinbach"
+  },
+  {
+    "lat": 48.40246,
+    "lon": 16.48859,
+    "primary": false,
+    "name": "Hohe Schule, Ulrichskirchen, Ulrichskirchen-Schleinbach"
+  },
+  {
+    "lat": 48.39861,
+    "lon": 16.48977,
+    "primary": false,
+    "name": "Neuhäuslgasse, Ulrichskirchen, Ulrichskirchen-Schleinbach"
+  },
+  {
+    "lat": 48.4065,
+    "lon": 16.48705,
+    "primary": false,
+    "name": "Viehtrift, Ulrichskirchen, Ulrichskirchen-Schleinbach"
+  },
+  {
+    "lat": 48.38767,
+    "lon": 16.46588,
+    "primary": false,
+    "name": "Südlich der Hauptstraße, Alter Hof, Seiser, Münichsthal, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.38304,
+    "lon": 16.47476,
+    "primary": false,
+    "name": "Grasenberg, Münichsthal, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.38984,
+    "lon": 16.46444,
+    "primary": false,
+    "name": "Bachgasse, Münichsthal, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.39145,
+    "lon": 16.46182,
+    "primary": false,
+    "name": "Hauptstraße, Siedlungsstraße, Münichsthal, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.38578,
+    "lon": 16.47725,
+    "primary": false,
+    "name": "Sonnleiten, Brunnweingärten, Münichsthal, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.36832,
+    "lon": 16.52362,
+    "primary": false,
+    "name": "Kellergasse, Antoniusgasse, Seyringer Straße, Obersdorf, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.37284,
+    "lon": 16.5306,
+    "primary": false,
+    "name": "(Satzen), Obersdorf, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.39848,
+    "lon": 16.44315,
+    "primary": false,
+    "name": "Kellergasse, Pfösing, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.39578,
+    "lon": 16.44302,
+    "primary": false,
+    "name": "Rasserweg, Pfösing, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.40818,
+    "lon": 16.51595,
+    "primary": false,
+    "name": "Wolkersdorfer Straße, Riedenthal, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.40868,
+    "lon": 16.51251,
+    "primary": false,
+    "name": "Kellergasse, Riedenthal, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.38337,
+    "lon": 16.52064,
+    "primary": false,
+    "name": "Friedhofgasse, In Gruben, Wolkersdorf, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.38353,
+    "lon": 16.51052,
+    "primary": false,
+    "name": "Johannesgasse, Wolkersdorf, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.38885,
+    "lon": 16.51529,
+    "primary": false,
+    "name": "Kellergasse, Wolkersdorf, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.38732,
+    "lon": 16.51413,
+    "primary": false,
+    "name": "Klostergasse, Wolkersdorf, Wolkersdorf im Weinviertel"
+  },
+  {
+    "lat": 48.59232,
+    "lon": 16.67304,
+    "primary": false,
+    "name": "Fuchsenweg, Bullendorf, Wilfersdorf (Niederösterreich)"
+  },
+  {
+    "lat": 48.59505,
+    "lon": 16.66014,
+    "primary": false,
+    "name": "Lindengasse, Bullendorf, Wilfersdorf (Niederösterreich)"
+  },
+  {
+    "lat": 48.5968,
+    "lon": 16.66709,
+    "primary": false,
+    "name": "Lundenburger Straße, Bullendorf, Wilfersdorf (Niederösterreich)"
+  },
+  {
+    "lat": 48.60541,
+    "lon": 16.6906,
+    "primary": false,
+    "name": "Kapellenweg, Ebersdorf an der Zaya, Wilfersdorf (Niederösterreich)"
+  },
+  {
+    "lat": 48.59262,
+    "lon": 16.69718,
+    "primary": false,
+    "name": "Ladenberg, Ebersdorf an der Zaya, Wilfersdorf (Niederösterreich)"
+  },
+  {
+    "lat": 48.57972,
+    "lon": 16.64405,
+    "primary": false,
+    "name": "Kellergasse, Hobersdorf, Wilfersdorf (Niederösterreich)"
+  },
+  {
+    "lat": 48.57611,
+    "lon": 16.63901,
+    "primary": false,
+    "name": "Mühlgasse, Hobersdorf, Wilfersdorf (Niederösterreich)"
+  },
+  {
+    "lat": 48.58181,
+    "lon": 16.6459,
+    "primary": false,
+    "name": "Wiener Straße, Brunnengasse, Hobersdorf, Wilfersdorf (Niederösterreich)"
+  },
+  {
+    "lat": 48.59308,
+    "lon": 16.64513,
+    "primary": false,
+    "name": "Am Berg, Wilfersdorf, Wilfersdorf (Niederösterreich)"
+  },
+  {
+    "lat": 48.59105,
+    "lon": 16.63971,
+    "primary": false,
+    "name": "beim Sportplatz, Wilfersdorf, Wilfersdorf (Niederösterreich)"
+  },
+  {
+    "lat": 48.58126,
+    "lon": 16.63541,
+    "primary": false,
+    "name": "Neustiftgasse, Wilfersdorf, Wilfersdorf (Niederösterreich)"
+  },
+  {
+    "lat": 48.29757,
+    "lon": 16.85051,
+    "primary": false,
+    "name": "Galgenhöhe, Baumgarten an der March, Weiden an der March"
+  },
+  {
+    "lat": 48.25875,
+    "lon": 16.74287,
+    "primary": false,
+    "name": "Am Mühlberg, Untersiebenbrunn, Untersiebenbrunn"
+  },
+  {
+    "lat": 48.25593,
+    "lon": 16.74663,
+    "primary": false,
+    "name": "Kellergasse, Untersiebenbrunn, Untersiebenbrunn"
+  },
+  {
+    "lat": 48.33057,
+    "lon": 16.76674,
+    "primary": false,
+    "name": "Kellerplatz, Weikendorf, Weikendorf"
+  },
+  {
+    "lat": 48.47683,
+    "lon": 16.70865,
+    "primary": false,
+    "name": "Hintaus, Erdpreß, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.47654,
+    "lon": 16.71603,
+    "primary": false,
+    "name": "Hofäcker, Erdpreß, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.48988,
+    "lon": 16.68808,
+    "primary": false,
+    "name": "Am Steinberg, Niedersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.48616,
+    "lon": 16.68026,
+    "primary": false,
+    "name": "Hintaus (bei der Kirche), Niedersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.48045,
+    "lon": 16.68174,
+    "primary": false,
+    "name": "Hohenruppersdorfer Straße, Niedersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.49032,
+    "lon": 16.68136,
+    "primary": false,
+    "name": "Kleine Kellergasse, Niedersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.48512,
+    "lon": 16.68413,
+    "primary": false,
+    "name": ", Niedersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.48423,
+    "lon": 16.67549,
+    "primary": false,
+    "name": "Kellergasse Museumsdorf, Niedersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.49853,
+    "lon": 16.67215,
+    "primary": false,
+    "name": "Am Anger, Obersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.50097,
+    "lon": 16.6707,
+    "primary": false,
+    "name": "Hintaus, Obersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.49901,
+    "lon": 16.66975,
+    "primary": false,
+    "name": "In den Ziegelgstetten, Obersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.50259,
+    "lon": 16.68076,
+    "primary": false,
+    "name": "In der Klausen, Obersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.50767,
+    "lon": 16.67817,
+    "primary": false,
+    "name": "In der Lehmgrube, Obersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.50171,
+    "lon": 16.67912,
+    "primary": false,
+    "name": "Wachtberg, Obersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.5148,
+    "lon": 16.66672,
+    "primary": false,
+    "name": ", Obersulz, Sulz im Weinviertel"
+  },
+  {
+    "lat": 48.5196089,
+    "lon": 16.706397,
+    "primary": false,
+    "name": "Hintaus, Blumenthal, Zistersdorf"
+  },
+  {
+    "lat": 48.55231,
+    "lon": 16.83107,
+    "primary": false,
+    "name": ", Eichhorn, Zistersdorf"
+  },
+  {
+    "lat": 48.53052,
+    "lon": 16.71714,
+    "primary": false,
+    "name": "Hausberg, Gaiselberg, Zistersdorf"
+  },
+  {
+    "lat": 48.55596,
+    "lon": 16.78113,
+    "primary": false,
+    "name": "Göstingbach, Gösting, Zistersdorf"
+  },
+  {
+    "lat": 48.55578,
+    "lon": 16.77934,
+    "primary": false,
+    "name": "Nördliches Hintaus, Gösting, Zistersdorf"
+  },
+  {
+    "lat": 48.55161,
+    "lon": 16.78131,
+    "primary": false,
+    "name": "Südliches Hintaus, Gösting, Zistersdorf"
+  },
+  {
+    "lat": 48.52142,
+    "lon": 16.76774,
+    "primary": false,
+    "name": "Feldgasse, Groß-Inzersdorf, Zistersdorf"
+  },
+  {
+    "lat": 48.52233,
+    "lon": 16.75739,
+    "primary": false,
+    "name": "Loidesthaler Straße, Groß-Inzersdorf, Zistersdorf"
+  },
+  {
+    "lat": 48.5271,
+    "lon": 16.760762,
+    "primary": false,
+    "name": "Totenweg, Groß-Inzersdorf, Zistersdorf"
+  },
+  {
+    "lat": 48.49972,
+    "lon": 16.74551,
+    "primary": false,
+    "name": "Bei der Kirche, Loidesthal, Zistersdorf"
+  },
+  {
+    "lat": 48.49766,
+    "lon": 16.73823,
+    "primary": false,
+    "name": "Bei der Winterzeile, Loidesthal, Zistersdorf"
+  },
+  {
+    "lat": 48.50207,
+    "lon": 16.73835,
+    "primary": false,
+    "name": "Bindergasserl, Loidesthal, Zistersdorf"
+  },
+  {
+    "lat": 48.49467,
+    "lon": 16.74722,
+    "primary": false,
+    "name": "Hauptstraße, Kellergasse, Loidesthal, Zistersdorf"
+  },
+  {
+    "lat": 48.4991253,
+    "lon": 16.7451287,
+    "primary": false,
+    "name": "Kirchenstraße, Loidesthal, Zistersdorf"
+  },
+  {
+    "lat": 48.50079,
+    "lon": 16.74145,
+    "primary": false,
+    "name": "Klause, Loidesthal, Zistersdorf"
+  },
+  {
+    "lat": 48.49935,
+    "lon": 16.75096,
+    "primary": false,
+    "name": "Verlängerung Lussweg, Loidesthal, Zistersdorf"
+  },
+  {
+    "lat": 48.57372,
+    "lon": 16.70325,
+    "primary": false,
+    "name": "Berikeller, Maustrenk, Zistersdorf"
+  },
+  {
+    "lat": 48.57095,
+    "lon": 16.69827,
+    "primary": false,
+    "name": "Hintaus, Maustrenk, Zistersdorf"
+  },
+  {
+    "lat": 48.57753,
+    "lon": 16.70357,
+    "primary": false,
+    "name": "Prinzenweg, Maustrenk, Zistersdorf"
+  },
+  {
+    "lat": 48.5672,
+    "lon": 16.69989,
+    "primary": false,
+    "name": "Riegel, Maustrenk, Zistersdorf"
+  },
+  {
+    "lat": 48.56673,
+    "lon": 16.70457,
+    "primary": false,
+    "name": "Steingraben, Maustrenk, Zistersdorf"
+  },
+  {
+    "lat": 48.5545,
+    "lon": 16.73865,
+    "primary": false,
+    "name": ", Windisch Baumgarten, Zistersdorf"
+  },
+  {
+    "lat": 48.54581,
+    "lon": 16.76539,
+    "primary": false,
+    "name": "Iselberggasse, Stadtgraben, Zistersdorf, Zistersdorf"
+  },
+  {
+    "lat": 48.54312,
+    "lon": 16.76883,
+    "primary": false,
+    "name": "Schießstätte, Zistersdorf, Zistersdorf"
+  },
+  {
+    "lat": 48.54421,
+    "lon": 16.75888,
+    "primary": false,
+    "name": "Schlossberggasse, Zistersdorf, Zistersdorf"
+  },
+  {
+    "lat": 48.38392,
+    "lon": 15.45063,
+    "primary": false,
+    "name": "Kellergasse, Wösendorf, Weißenkirchen in der Wachau"
+  }
+]
