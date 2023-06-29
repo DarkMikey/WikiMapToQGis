@@ -18,7 +18,6 @@ fs.readFile(inputFileName, encoding, (err, jsonString) => {
     return;
   }
 
-
   let locationGroups;
 
   try {
