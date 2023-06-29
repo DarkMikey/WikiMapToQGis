@@ -1,6 +1,6 @@
 # WikiMapToQGis
 
-In order to import WikiMap data (json) to QGIS (csv) a data transformation is necessary. This script enabes this by extracting the coordinates from a WikiMap json. 
+In order to import WikiMap data (json) to QGIS (csv) a data transformation is necessary. This script enables this by extracting the coordinates from a WikiMap json. The output file can then be easily converted to csv (e.g. by using a simple [online converter](https://www.convertcsv.com/json-to-csv.htm)) and imported to QGIS.
 
 ## Input
 
