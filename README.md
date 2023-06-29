@@ -5,7 +5,6 @@ In order to import WikiMap data (json) to QGIS (csv) a data transformation is ne
 ## Input
 
 ```json
-// raw.json from WikiMap
 [
   {
     "pageid": 9423056,
@@ -25,11 +24,10 @@ In order to import WikiMap data (json) to QGIS (csv) a data transformation is ne
       }
     ]
   },
-{
+  {
     "pageid": 9498937,
     "ns": 0,
     "title": "Liste der Kellergassen in Absdorf",
-    ]
     "thumbnail": {
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Absberg_Kellergasse_Neugeb%C3%A4ude_4.jpg/320px-Absberg_Kellergasse_Neugeb%C3%A4ude_4.jpg",
       "width": 320,
@@ -48,6 +46,7 @@ In order to import WikiMap data (json) to QGIS (csv) a data transformation is ne
         "primary": false,
         "name": "Kellergasse, Absberg, Absdorf"
       }
+    ]
   }
 ]
 ```
